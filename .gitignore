@@ -72,14 +72,3 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
-ThreePaintingProject/Saved/Config/CrashReportClient/UE4CC-Windows-28E8AB2B4357347FACEBC198E780AE8D/CrashReportClient.ini
-ThreePaintingProject/Intermediate/CachedAssetRegistry.bin
-ThreePaintingProject/Saved/Logs/ThreePaintingProject.log
-ThreePaintingProject/Saved/Logs/ThreePaintingProject-backup-2020.01.28-21.26.09.log
-ThreePaintingProject/Saved/Config/Windows/EditorPerProjectUserSettings.ini
-ThreePaintingProject/Saved/AutoScreenshot.png
-ThreePaintingProject/Intermediate/CachedAssetRegistry.bin
-ThreePaintingProject/Saved/Logs/ThreePaintingProject.log
-ThreePaintingProject/Saved/Config/Windows/EditorPerProjectUserSettings.ini
-ThreePaintingProject/Saved/AutoScreenshot.png
-*.log

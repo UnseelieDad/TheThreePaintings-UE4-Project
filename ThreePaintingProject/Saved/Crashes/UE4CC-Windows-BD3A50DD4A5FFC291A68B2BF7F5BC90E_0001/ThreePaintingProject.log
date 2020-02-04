@@ -1,0 +1,1337 @@
+﻿Log file open, 01/29/20 00:14:27
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: ThreePaintingProject
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.109857
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithC4DImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin DatasmithFBXImporter
+LogPluginManager: Mounting plugin DatasmithImporter
+LogPluginManager: Mounting plugin StaticMeshEditorExtension
+LogPluginManager: Mounting plugin VariantManager
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin BlastPlugin
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin DataPrepEditor
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogHMD: Failed initializing OVRPlugin 1.40.0
+LogInit: Build: ++UE4+Release-4.24-CL-10757647
+LogInit: Engine Version: 4.24.1-10757647+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz, GPU: Intel(R) HD Graphics 530
+LogInit: Compiled (64-bit): Dec 17 2019 02:08:03
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line:  -EpicPortal -epicusername=UnseelieDad -epicuserid=46049bf100384818b9e97b96001e3bbe -epiclocale=en-US
+LogInit: Base Directory: D:/Games/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.01.29-06.14.27:923][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.01.29-06.14.27:923][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.01.29-06.14.27:923][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Saved/Config/Windows/Engine.ini]
+[2020.01.29-06.14.27:923][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.01.29-06.14.27:923][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Saved/Config/Windows/Engine.ini]
+[2020.01.29-06.14.27:923][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Saved/Config/Windows/Engine.ini]
+[2020.01.29-06.14.27:923][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.01.29-06.14.27:923][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.01.29-06.14.27:923][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.01.29-06.14.27:923][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.01.29-06.14.27:923][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.01.29-06.14.27:923][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.01.29-06.14.27:923][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.01.29-06.14.27:923][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.01.29-06.14.27:923][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.01.29-06.14.27:923][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.01.29-06.14.27:923][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.01.29-06.14.27:923][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.01.29-06.14.27:923][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.01.29-06.14.27:924][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.01.29-06.14.27:924][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Saved/Config/Windows/Engine.ini]
+[2020.01.29-06.14.27:924][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.01.29-06.14.27:924][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.01.29-06.14.27:924][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.01.29-06.14.27:924][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.01.29-06.14.27:924][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.01.29-06.14.27:924][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.01.29-06.14.27:924][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.01.29-06.14.27:924][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.01.29-06.14.27:924][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.01.29-06.14.27:924][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.01.29-06.14.27:924][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.01.29-06.14.27:924][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.01.29-06.14.27:924][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.01.29-06.14.27:924][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Saved/Config/Windows/Engine.ini]
+[2020.01.29-06.14.27:924][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Saved/Config/Windows/Engine.ini]
+[2020.01.29-06.14.27:925][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Saved/Config/Windows/Scalability.ini]
+[2020.01.29-06.14.27:925][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.01.29-06.14.27:925][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.01.29-06.14.27:925][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Saved/Config/Windows/Scalability.ini]
+[2020.01.29-06.14.27:925][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.01.29-06.14.27:925][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Saved/Config/Windows/Scalability.ini]
+[2020.01.29-06.14.27:925][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.01.29-06.14.27:925][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.01.29-06.14.27:925][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.01.29-06.14.27:925][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.01.29-06.14.27:925][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.01.29-06.14.27:925][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.01.29-06.14.27:925][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.01.29-06.14.27:925][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.01.29-06.14.27:925][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.01.29-06.14.27:925][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.01.29-06.14.27:925][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.01.29-06.14.27:925][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.01.29-06.14.27:925][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.01.29-06.14.27:925][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.01.29-06.14.27:925][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.01.29-06.14.27:926][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.01.29-06.14.27:926][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.01.29-06.14.27:926][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.01.29-06.14.27:926][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Saved/Config/Windows/Scalability.ini]
+[2020.01.29-06.14.27:926][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.01.29-06.14.27:926][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.01.29-06.14.27:926][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.01.29-06.14.27:926][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.01.29-06.14.27:926][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.01.29-06.14.27:926][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.01.29-06.14.27:926][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.01.29-06.14.27:926][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.01.29-06.14.27:926][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.01.29-06.14.27:926][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.01.29-06.14.27:926][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.01.29-06.14.27:926][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.01.29-06.14.27:926][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.01.29-06.14.27:926][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.01.29-06.14.27:926][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.01.29-06.14.27:926][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.01.29-06.14.27:926][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.01.29-06.14.27:926][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.01.29-06.14.27:926][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.01.29-06.14.27:926][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.01.29-06.14.27:926][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.01.29-06.14.27:926][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.01.29-06.14.27:926][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.01.29-06.14.27:926][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.01.29-06.14.27:926][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.01.29-06.14.27:926][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.01.29-06.14.27:926][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.01.29-06.14.27:926][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.01.29-06.14.27:926][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.01.29-06.14.27:926][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.01.29-06.14.27:926][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Saved/Config/Windows/Scalability.ini]
+[2020.01.29-06.14.27:926][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.01.29-06.14.27:926][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.01.29-06.14.27:926][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.01.29-06.14.27:926][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.01.29-06.14.27:926][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.01.29-06.14.27:926][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.01.29-06.14.27:926][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.01.29-06.14.27:926][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.01.29-06.14.27:926][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.01.29-06.14.27:926][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Saved/Config/Windows/Scalability.ini]
+[2020.01.29-06.14.27:926][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.01.29-06.14.27:926][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.01.29-06.14.27:926][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.01.29-06.14.27:926][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.01.29-06.14.27:926][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.01.29-06.14.27:926][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.01.29-06.14.27:926][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.01.29-06.14.27:926][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.01.29-06.14.27:926][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.01.29-06.14.27:927][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.01.29-06.14.27:927][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.01.29-06.14.27:927][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.01.29-06.14.27:927][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.01.29-06.14.27:927][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.01.29-06.14.27:927][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.01.29-06.14.27:927][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.01.29-06.14.27:927][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.01.29-06.14.27:927][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.01.29-06.14.27:927][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.01.29-06.14.27:927][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.01.29-06.14.27:927][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.01.29-06.14.27:927][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.01.29-06.14.27:927][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.01.29-06.14.27:927][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.01.29-06.14.27:927][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.01.29-06.14.27:927][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.01.29-06.14.27:927][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Saved/Config/Windows/Scalability.ini]
+[2020.01.29-06.14.27:927][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.01.29-06.14.27:927][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.01.29-06.14.27:927][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Saved/Config/Windows/Scalability.ini]
+[2020.01.29-06.14.27:927][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.01.29-06.14.27:927][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.01.29-06.14.27:927][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.01.29-06.14.27:927][  0]LogInit: Selected Device Profile: [Windows]
+[2020.01.29-06.14.27:927][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.01.29-06.14.27:930][  0]LogHAL: Display: Platform has ~ 16 GB [17039155200 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.01.29-06.14.27:930][  0]LogInit: Going up to parent DeviceProfile []
+[2020.01.29-06.14.27:930][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Saved/Config/Windows/Scalability.ini]
+[2020.01.29-06.14.27:930][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.01.29-06.14.27:930][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.01.29-06.14.27:930][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Saved/Config/Windows/Scalability.ini]
+[2020.01.29-06.14.27:930][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.01.29-06.14.27:930][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Saved/Config/Windows/Scalability.ini]
+[2020.01.29-06.14.27:930][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.01.29-06.14.27:930][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.01.29-06.14.27:930][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.01.29-06.14.27:930][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.01.29-06.14.27:930][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.01.29-06.14.27:930][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.01.29-06.14.27:930][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.01.29-06.14.27:930][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.01.29-06.14.27:930][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.01.29-06.14.27:930][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.01.29-06.14.27:930][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.01.29-06.14.27:930][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.01.29-06.14.27:930][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.01.29-06.14.27:930][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.01.29-06.14.27:930][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.01.29-06.14.27:930][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.01.29-06.14.27:930][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.01.29-06.14.27:930][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.01.29-06.14.27:930][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Saved/Config/Windows/Scalability.ini]
+[2020.01.29-06.14.27:930][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.01.29-06.14.27:930][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.01.29-06.14.27:930][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.01.29-06.14.27:930][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.01.29-06.14.27:930][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.01.29-06.14.27:930][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.01.29-06.14.27:930][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.01.29-06.14.27:930][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.01.29-06.14.27:930][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.01.29-06.14.27:931][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.01.29-06.14.27:931][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.01.29-06.14.27:931][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.01.29-06.14.27:931][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.01.29-06.14.27:931][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.01.29-06.14.27:931][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.01.29-06.14.27:931][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.01.29-06.14.27:931][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.01.29-06.14.27:931][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.01.29-06.14.27:931][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.01.29-06.14.27:931][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.01.29-06.14.27:931][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.01.29-06.14.27:931][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.01.29-06.14.27:931][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.01.29-06.14.27:931][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.01.29-06.14.27:931][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.01.29-06.14.27:931][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.01.29-06.14.27:931][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.01.29-06.14.27:931][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.01.29-06.14.27:931][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.01.29-06.14.27:931][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.01.29-06.14.27:931][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Saved/Config/Windows/Scalability.ini]
+[2020.01.29-06.14.27:931][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.01.29-06.14.27:931][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.01.29-06.14.27:931][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.01.29-06.14.27:931][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.01.29-06.14.27:931][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.01.29-06.14.27:931][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.01.29-06.14.27:931][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.01.29-06.14.27:931][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.01.29-06.14.27:931][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.01.29-06.14.27:931][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Saved/Config/Windows/Scalability.ini]
+[2020.01.29-06.14.27:931][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.01.29-06.14.27:931][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.01.29-06.14.27:931][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.01.29-06.14.27:931][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.01.29-06.14.27:931][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.01.29-06.14.27:931][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.01.29-06.14.27:931][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.01.29-06.14.27:931][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.01.29-06.14.27:931][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.01.29-06.14.27:931][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.01.29-06.14.27:931][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.01.29-06.14.27:931][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.01.29-06.14.27:931][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.01.29-06.14.27:931][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.01.29-06.14.27:931][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.01.29-06.14.27:931][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.01.29-06.14.27:931][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.01.29-06.14.27:931][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.01.29-06.14.27:931][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.01.29-06.14.27:931][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.01.29-06.14.27:931][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.01.29-06.14.27:931][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.01.29-06.14.27:931][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.01.29-06.14.27:931][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.01.29-06.14.27:932][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.01.29-06.14.27:932][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.01.29-06.14.27:932][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Saved/Config/Windows/Scalability.ini]
+[2020.01.29-06.14.27:932][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.01.29-06.14.27:932][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.01.29-06.14.27:932][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Saved/Config/Windows/Scalability.ini]
+[2020.01.29-06.14.27:932][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.01.29-06.14.27:932][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.01.29-06.14.27:932][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.01.29-06.14.27:932][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.01.29-06.14.27:932][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.01.29-06.14.27:932][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.01.29-06.14.27:932][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Saved/Config/Windows/Engine.ini]
+[2020.01.29-06.14.27:932][  0]LogInit: Computer: DESKTOP-GPLBC1U
+[2020.01.29-06.14.27:932][  0]LogInit: User: Seth
+[2020.01.29-06.14.27:932][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.01.29-06.14.27:932][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.01.29-06.14.27:932][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.01.29-06.14.27:932][  0]LogMemory: Platform Memory Stats for Windows
+[2020.01.29-06.14.27:932][  0]LogMemory: Process Physical Memory: 115.05 MB used, 115.06 MB peak
+[2020.01.29-06.14.27:932][  0]LogMemory: Process Virtual Memory: 105.54 MB used, 105.54 MB peak
+[2020.01.29-06.14.27:932][  0]LogMemory: Physical Memory: 8068.27 MB used,  8181.53 MB free, 16249.80 MB total
+[2020.01.29-06.14.27:932][  0]LogMemory: Virtual Memory: 5182.91 MB used,  134212544.00 MB free, 134217728.00 MB total
+[2020.01.29-06.14.27:938][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.01.29-06.14.27:967][  0]LogInit: Using OS detected language (en-US).
+[2020.01.29-06.14.27:967][  0]LogInit: Using OS detected locale (en-US).
+[2020.01.29-06.14.27:968][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.01.29-06.14.28:153][  0]LogInit: Setting process to per monitor DPI aware
+[2020.01.29-06.14.28:203][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.01.29-06.14.28:203][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.01.29-06.14.28:450][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2020.01.29-06.14.28:450][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.01.29-06.14.28:450][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.01.29-06.14.28:450][  0]LogD3D11RHI: D3D11 adapters:
+[2020.01.29-06.14.28:528][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970M' (Feature Level 11_0)
+[2020.01.29-06.14.28:528][  0]LogD3D11RHI:       3029/0/8124 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.01.29-06.14.28:548][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2020.01.29-06.14.28:548][  0]LogD3D11RHI:       128/0/8124 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.01.29-06.14.28:551][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.01.29-06.14.28:551][  0]LogD3D11RHI:       0/0/8124 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.01.29-06.14.28:551][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.01.29-06.14.28:623][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.01.29-06.14.28:623][  0]LogD3D11RHI:     GPU DeviceId: 0x13d8 (for the marketing name, search the web for "GPU Device Id")
+[2020.01.29-06.14.28:623][  0]LogWindows: EnumDisplayDevices:
+[2020.01.29-06.14.28:623][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:1 D:1)
+[2020.01.29-06.14.28:624][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2020.01.29-06.14.28:624][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2020.01.29-06.14.28:624][  0]LogWindows:    3. 'NVIDIA GeForce GTX 970M' (P:0 D:0)
+[2020.01.29-06.14.28:625][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2020.01.29-06.14.28:625][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970M
+[2020.01.29-06.14.28:625][  0]LogD3D11RHI:   Driver Version: 441.20 (internal:26.21.14.4120, unified:441.20)
+[2020.01.29-06.14.28:625][  0]LogD3D11RHI:      Driver Date: 11-6-2019
+[2020.01.29-06.14.28:625][  0]LogRHI: Texture pool is 2120 MB (70% of 3029 MB)
+[2020.01.29-06.14.28:678][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.01.29-06.14.28:678][  0]LogD3D11RHI: Async texture creation enabled
+[2020.01.29-06.14.28:696][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.01.29-06.14.29:120][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.01.29-06.14.29:159][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.01.29-06.14.29:159][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.01.29-06.14.29:159][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.01.29-06.14.29:159][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.01.29-06.14.29:159][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.01.29-06.14.29:159][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.01.29-06.14.29:159][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.01.29-06.14.29:159][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.01.29-06.14.29:159][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.01.29-06.14.29:159][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.01.29-06.14.29:159][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.01.29-06.14.29:159][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.01.29-06.14.29:159][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.01.29-06.14.29:159][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.01.29-06.14.29:159][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.01.29-06.14.29:159][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.01.29-06.14.29:159][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.01.29-06.14.29:159][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.01.29-06.14.29:179][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.01.29-06.14.29:179][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.01.29-06.14.29:188][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.01.29-06.14.29:196][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.01.29-06.14.29:203][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.01.29-06.14.29:211][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.01.29-06.14.29:219][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.01.29-06.14.29:227][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.01.29-06.14.29:252][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.01.29-06.14.29:252][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.01.29-06.14.29:267][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.01.29-06.14.29:267][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.01.29-06.14.29:275][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.01.29-06.14.29:283][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.01.29-06.14.29:291][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.01.29-06.14.29:299][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.01.29-06.14.29:299][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.01.29-06.14.29:303][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.01.29-06.14.29:328][  0]LogShaderCompilers: Guid format shader working directory is -28 characters bigger than the processId version (../../../../../GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Intermediate/Shaders/WorkingDirectory/22304/).
+[2020.01.29-06.14.29:328][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Seth/AppData/Local/Temp/UnrealShaderWorkingDir/827B13404AD8D22C12803D8B238BFC52/'.
+[2020.01.29-06.14.29:329][  0]LogXGEController: Cleaning working directory: C:/Users/Seth/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.01.29-06.14.29:329][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.01.29-06.14.29:329][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.01.29-06.14.29:329][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.01.29-06.14.30:167][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.01.29-06.14.30:242][  0]LogDerivedDataCache: Loaded boot cache 0.07s 98MB C:/Users/Seth/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.01.29-06.14.30:242][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Seth/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.01.29-06.14.30:242][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.01.29-06.14.30:242][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.01.29-06.14.30:242][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.01.29-06.14.30:242][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.01.29-06.14.30:254][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.01.29-06.14.30:254][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.01.29-06.14.30:254][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.01.29-06.14.30:256][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Seth/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.01.29-06.14.30:256][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.01.29-06.14.30:256][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.01.29-06.14.30:288][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.01.29-06.14.30:291][  0]LogSlate: Using FreeType 2.10.0
+[2020.01.29-06.14.30:291][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.01.29-06.14.30:353][  0]LogAssetRegistry: FAssetRegistry took 0.0028 seconds to start up
+[2020.01.29-06.14.30:703][  0]LogInit: Selected Device Profile: [Windows]
+[2020.01.29-06.14.30:880][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.01.29-06.14.30:880][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.01.29-06.14.30:880][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.01.29-06.14.30:880][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.01.29-06.14.30:881][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.01.29-06.14.30:894][  0]LogNetVersion: ThreePaintingProject 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 3160085242)
+[2020.01.29-06.14.32:103][  0]LogPackageLocalizationCache: Processed 15 localized package path(s) for 1 prioritized culture(s) in 0.063454 seconds
+[2020.01.29-06.14.32:112][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2020.01.29-06.14.32:112][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2020.01.29-06.14.32:112][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.01.29-06.14.32:550][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.01.29-06.14.32:553][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.01.29-06.14.32:617][  0]SourceControl: Source control is disabled
+[2020.01.29-06.14.34:437][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.01.29-06.14.34:448][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.01.29-06.14.34:448][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.01.29-06.14.34:520][  0]LogOcInput: OculusInput pre-init called
+[2020.01.29-06.14.35:282][  0]LogEngine: Initializing Engine...
+[2020.01.29-06.14.35:337][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2020.01.29-06.14.35:338][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.01.29-06.14.35:758][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.01.29-06.14.35:765][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.01.29-06.14.35:790][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.01.29-06.14.35:790][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.01.29-06.14.35:790][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.01.29-06.14.35:791][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.01.29-06.14.35:791][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.01.29-06.14.35:791][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.01.29-06.14.35:791][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.01.29-06.14.35:791][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.01.29-06.14.35:791][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.01.29-06.14.35:791][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.01.29-06.14.35:834][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.01.29-06.14.35:834][  0]LogAudioMixer: Display: Name: Speakers (Sound Blaster Recon3Di)
+[2020.01.29-06.14.35:834][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.01.29-06.14.35:834][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.01.29-06.14.35:834][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.01.29-06.14.35:834][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.01.29-06.14.35:834][  0]LogAudioMixer: Display: Channel Order:
+[2020.01.29-06.14.35:834][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.01.29-06.14.35:834][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.01.29-06.14.35:910][  0]LogAudioMixer: Display: Using Audio Device Speakers (Sound Blaster Recon3Di)
+[2020.01.29-06.14.35:917][  0]LogInit: FAudioDevice initialized.
+[2020.01.29-06.14.35:917][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.01.29-06.14.36:126][  0]LogDerivedDataCache: Saved boot cache 0.21s 98MB C:/Users/Seth/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.01.29-06.14.36:127][  0]LogInit: Texture streaming: Enabled
+[2020.01.29-06.14.36:157][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.01.29-06.14.36:206][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={58BDEF20-4BE8-C160-3951-7D8B0057F037}
+[2020.01.29-06.14.36:207][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.01.29-06.14.36:218][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.01.29-06.14.36:281][  0]LogInit: Transaction tracking system initialized
+[2020.01.29-06.14.36:292][  0]BlueprintLog: New page: Editor Load
+[2020.01.29-06.14.36:325][  0]LocalizationService: Localization service is disabled
+[2020.01.29-06.14.36:612][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.01.29-06.14.36:612][  0]LogCook: Display: Mobile HDR setting 1
+[2020.01.29-06.14.36:999][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/' took 0.01s
+[2020.01.29-06.14.37:665][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.01.29-06.14.37:665][  0]LightingResults: New page: Lighting Build
+[2020.01.29-06.14.37:666][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.01.29-06.14.37:666][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.29-06.14.37:666][  0]MapCheck: New page: Map Check
+[2020.01.29-06.14.37:666][  0]LightingResults: New page: Lighting Build
+[2020.01.29-06.14.37:695][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2020.01.29-06.14.37:783][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2020.01.29-06.14.37:788][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.01.29-06.14.37:822][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2020.01.29-06.14.37:823][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.01.29-06.14.37:823][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.155ms to complete.
+[2020.01.29-06.14.37:823][  0]LogFileHelpers: Loading map 'Template_Default' took 0.158
+[2020.01.29-06.14.37:993][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.29-06.14.38:005][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.29-06.14.38:017][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.29-06.14.38:027][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.29-06.14.38:036][  0]LogCollectionManager: Loaded 0 collections in 0.001246 seconds
+[2020.01.29-06.14.38:056][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Saved/Collections/' took 0.00s
+[2020.01.29-06.14.38:056][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Developers/Seth/Collections/' took 0.00s
+[2020.01.29-06.14.38:056][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Collections/' took 0.00s
+[2020.01.29-06.14.38:056][  0]LogContentBrowser: Native class hierarchy populated in 0.0117 seconds. Added 3203 classes and 790 folders.
+[2020.01.29-06.14.38:058][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.01.29-06.14.38:117][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.01.29-06.14.38:118][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2020.01.29-06.14.38:187][  0]LogSlate: Took 0.000170 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.01.29-06.14.38:190][  0]LogSlate: Took 0.000148 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.01.29-06.14.38:195][  0]LogSlate: Took 0.000130 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.01.29-06.14.38:300][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2020.01.29-06.14.38:429][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.01.29-06.14.38:429][  0]LogLoad: (Engine Initialization) Total time: 12.48 seconds
+[2020.01.29-06.14.38:429][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.01.29-06.14.38:506][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.01.29-06.14.38:531][  0]LogSlate: Took 0.000158 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.01.29-06.14.38:573][  1]LogAssetRegistry: Asset discovery search completed in 8.2212 seconds
+[2020.01.29-06.14.38:577][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000009 seconds (updated 0 objects)
+[2020.01.29-06.14.41:486][158]LogSlate: Took 0.000176 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.01.29-06.14.43:558][250]LogFileCache: Retrieving MD5 hashes for directory 'D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/' took 5.11s
+[2020.01.29-06.14.47:539][477]AssetReimport: New page: Outstanding source content changes 6:14:47 PM
+[2020.01.29-06.14.47:611][478]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/AltarCandlet.fbx)
+[2020.01.29-06.14.47:622][478]LogFbx: Loading FBX Scene from D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/AltarCandlet.fbx
+[2020.01.29-06.14.47:644][478]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.29-06.15.00:281][478]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.01.29-06.15.00:470][478]LogLinker: Failed to load '/Game/Underworld_Pack_for_FPSC/Underworld/ALF_d2': Can't find file.
+[2020.01.29-06.15.00:471][478]LogLinker: Failed to load '/Game/Underworld_Pack_for_FPSC/Underworld/ALF_d2': Can't find file.
+[2020.01.29-06.15.00:538][478]LogStaticMesh: Building static mesh AltarCandlet...
+[2020.01.29-06.15.00:560][478]LogStaticMesh: Built static mesh [0.02s] /Game/Underworld_Pack_for_FPSC/Underworld/AltarCandlet.AltarCandlet
+[2020.01.29-06.15.00:681][479]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/AltarCandlet.obj)
+[2020.01.29-06.15.00:683][479]LogEditorFactories: Performing atomic reimport of [D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/AltarCandlet.obj]
+[2020.01.29-06.15.00:695][479]LogFbx: Loading FBX Scene from D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/AltarCandlet.obj
+[2020.01.29-06.15.00:706][479]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.29-06.15.00:714][479]LogStaticMesh: Building static mesh AltarCandlet...
+[2020.01.29-06.15.00:738][479]LogStaticMesh: Built static mesh [0.02s] /Game/Underworld_Pack_for_FPSC/Underworld/AltarCandlet.AltarCandlet
+[2020.01.29-06.15.00:749][479]LogEditorFactories: -- imported successfully
+[2020.01.29-06.15.00:839][480]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/AltarCandlet2.fbx)
+[2020.01.29-06.15.00:854][480]LogFbx: Loading FBX Scene from D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/AltarCandlet2.fbx
+[2020.01.29-06.15.00:887][480]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.29-06.15.08:189][480]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.01.29-06.15.08:219][480]LogStaticMesh: Building static mesh AltarCandlet2...
+[2020.01.29-06.15.08:235][480]LogStaticMesh: Built static mesh [0.02s] /Game/Underworld_Pack_for_FPSC/Underworld/AltarCandlet2.AltarCandlet2
+[2020.01.29-06.15.08:284][481]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/AltarCandlet2.obj)
+[2020.01.29-06.15.08:284][481]LogEditorFactories: Performing atomic reimport of [D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/AltarCandlet2.obj]
+[2020.01.29-06.15.08:295][481]LogFbx: Loading FBX Scene from D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/AltarCandlet2.obj
+[2020.01.29-06.15.08:302][481]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.29-06.15.08:309][481]LogStaticMesh: Building static mesh AltarCandlet2...
+[2020.01.29-06.15.08:327][481]LogStaticMesh: Built static mesh [0.02s] /Game/Underworld_Pack_for_FPSC/Underworld/AltarCandlet2.AltarCandlet2
+[2020.01.29-06.15.08:336][481]LogEditorFactories: -- imported successfully
+[2020.01.29-06.15.08:417][482]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/ARCH.fbx)
+[2020.01.29-06.15.08:426][482]LogFbx: Loading FBX Scene from D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/ARCH.fbx
+[2020.01.29-06.15.08:447][482]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.29-06.15.09:253][482]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.01.29-06.15.09:282][482]LogStaticMesh: Building static mesh ARCH...
+[2020.01.29-06.15.09:291][482]LogStaticMesh: Built static mesh [0.01s] /Game/Underworld_Pack_for_FPSC/Underworld/ARCH.ARCH
+[2020.01.29-06.15.09:334][483]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/ARCH.obj)
+[2020.01.29-06.15.09:335][483]LogEditorFactories: Performing atomic reimport of [D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/ARCH.obj]
+[2020.01.29-06.15.09:344][483]LogFbx: Loading FBX Scene from D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/ARCH.obj
+[2020.01.29-06.15.09:347][483]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.29-06.15.09:350][483]LogStaticMesh: Building static mesh ARCH...
+[2020.01.29-06.15.09:360][483]LogStaticMesh: Built static mesh [0.01s] /Game/Underworld_Pack_for_FPSC/Underworld/ARCH.ARCH
+[2020.01.29-06.15.09:369][483]LogEditorFactories: -- imported successfully
+[2020.01.29-06.15.09:473][484]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/ARCH2.fbx)
+[2020.01.29-06.15.09:482][484]LogFbx: Loading FBX Scene from D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/ARCH2.fbx
+[2020.01.29-06.15.09:503][484]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.29-06.15.11:297][484]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.01.29-06.15.11:330][484]LogStaticMesh: Building static mesh ARCH2...
+[2020.01.29-06.15.11:343][484]LogStaticMesh: Built static mesh [0.01s] /Game/Underworld_Pack_for_FPSC/Underworld/ARCH2.ARCH2
+[2020.01.29-06.15.11:383][485]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/ARCH2.obj)
+[2020.01.29-06.15.11:384][485]LogEditorFactories: Performing atomic reimport of [D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/ARCH2.obj]
+[2020.01.29-06.15.11:392][485]LogFbx: Loading FBX Scene from D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/ARCH2.obj
+[2020.01.29-06.15.11:398][485]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.29-06.15.11:403][485]LogStaticMesh: Building static mesh ARCH2...
+[2020.01.29-06.15.11:417][485]LogStaticMesh: Built static mesh [0.02s] /Game/Underworld_Pack_for_FPSC/Underworld/ARCH2.ARCH2
+[2020.01.29-06.15.11:424][485]LogEditorFactories: -- imported successfully
+[2020.01.29-06.15.11:498][486]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/BASTARDSWORD.fbx)
+[2020.01.29-06.15.11:507][486]LogFbx: Loading FBX Scene from D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/BASTARDSWORD.fbx
+[2020.01.29-06.15.11:531][486]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.29-06.15.12:302][486]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.01.29-06.15.12:336][486]LogStaticMesh: Building static mesh BASTARDSWORD...
+[2020.01.29-06.15.12:349][486]LogStaticMesh: Built static mesh [0.01s] /Game/Underworld_Pack_for_FPSC/Underworld/BASTARDSWORD.BASTARDSWORD
+[2020.01.29-06.15.12:383][487]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/BASTARDSWORD.obj)
+[2020.01.29-06.15.12:384][487]LogEditorFactories: Performing atomic reimport of [D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/BASTARDSWORD.obj]
+[2020.01.29-06.15.12:393][487]LogFbx: Loading FBX Scene from D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/BASTARDSWORD.obj
+[2020.01.29-06.15.12:401][487]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.29-06.15.12:406][487]LogStaticMesh: Building static mesh BASTARDSWORD...
+[2020.01.29-06.15.12:417][487]LogStaticMesh: Built static mesh [0.01s] /Game/Underworld_Pack_for_FPSC/Underworld/BASTARDSWORD.BASTARDSWORD
+[2020.01.29-06.15.12:425][487]LogEditorFactories: -- imported successfully
+[2020.01.29-06.15.12:500][488]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/BASTARDSWORD_DEMONIC.fbx)
+[2020.01.29-06.15.12:511][488]LogFbx: Loading FBX Scene from D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/BASTARDSWORD_DEMONIC.fbx
+[2020.01.29-06.15.12:534][488]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.29-06.15.13:358][488]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.01.29-06.15.13:393][488]LogStaticMesh: Building static mesh BASTARDSWORD_DEMONIC...
+[2020.01.29-06.15.13:424][488]LogStaticMesh: Built static mesh [0.03s] /Game/Underworld_Pack_for_FPSC/Underworld/BASTARDSWORD_DEMONIC.BASTARDSWORD_DEMONIC
+[2020.01.29-06.15.13:468][489]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/BASTARDSWORD_DEMONIC.obj)
+[2020.01.29-06.15.13:469][489]LogEditorFactories: Performing atomic reimport of [D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/BASTARDSWORD_DEMONIC.obj]
+[2020.01.29-06.15.13:477][489]LogFbx: Loading FBX Scene from D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/BASTARDSWORD_DEMONIC.obj
+[2020.01.29-06.15.13:499][489]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.29-06.15.13:517][489]LogStaticMesh: Building static mesh BASTARDSWORD_DEMONIC...
+[2020.01.29-06.15.13:547][489]LogStaticMesh: Built static mesh [0.03s] /Game/Underworld_Pack_for_FPSC/Underworld/BASTARDSWORD_DEMONIC.BASTARDSWORD_DEMONIC
+[2020.01.29-06.15.13:560][489]LogEditorFactories: -- imported successfully
+[2020.01.29-06.15.13:631][490]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/CEILINGDECORATION_SOLIDGOLD.fbx)
+[2020.01.29-06.15.13:643][490]LogFbx: Loading FBX Scene from D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/CEILINGDECORATION_SOLIDGOLD.fbx
+[2020.01.29-06.15.13:675][490]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.29-06.15.14:428][490]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.01.29-06.15.14:476][490]LogStaticMesh: Building static mesh CEILINGDECORATION_SOLIDGOLD...
+[2020.01.29-06.15.14:534][490]LogStaticMesh: Built static mesh [0.06s] /Game/Underworld_Pack_for_FPSC/Underworld/CEILINGDECORATION_SOLIDGOLD.CEILINGDECORATION_SOLIDGOLD
+[2020.01.29-06.15.14:601][491]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/CEILINGDECORATION_SOLIDGOLD.obj)
+[2020.01.29-06.15.14:603][491]LogEditorFactories: Performing atomic reimport of [D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/CEILINGDECORATION_SOLIDGOLD.obj]
+[2020.01.29-06.15.14:611][491]LogFbx: Loading FBX Scene from D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/CEILINGDECORATION_SOLIDGOLD.obj
+[2020.01.29-06.15.14:675][491]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.29-06.15.14:702][491]LogStaticMesh: Building static mesh CEILINGDECORATION_SOLIDGOLD...
+[2020.01.29-06.15.14:747][491]LogStaticMesh: Built static mesh [0.05s] /Game/Underworld_Pack_for_FPSC/Underworld/CEILINGDECORATION_SOLIDGOLD.CEILINGDECORATION_SOLIDGOLD
+[2020.01.29-06.15.14:767][491]LogEditorFactories: -- imported successfully
+[2020.01.29-06.15.14:857][492]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/CHAINEDPILLAR.fbx)
+[2020.01.29-06.15.14:866][492]LogFbx: Loading FBX Scene from D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/CHAINEDPILLAR.fbx
+[2020.01.29-06.15.14:894][492]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.29-06.15.15:501][492]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.01.29-06.15.15:545][492]LogStaticMesh: Building static mesh CHAINEDPILLAR...
+[2020.01.29-06.15.15:634][492]LogStaticMesh: Built static mesh [0.09s] /Game/Underworld_Pack_for_FPSC/Underworld/CHAINEDPILLAR.CHAINEDPILLAR
+[2020.01.29-06.15.15:698][493]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/CHAINEDPILLAR.obj)
+[2020.01.29-06.15.15:700][493]LogEditorFactories: Performing atomic reimport of [D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/CHAINEDPILLAR.obj]
+[2020.01.29-06.15.15:712][493]LogFbx: Loading FBX Scene from D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/CHAINEDPILLAR.obj
+[2020.01.29-06.15.15:769][493]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.29-06.15.15:802][493]LogStaticMesh: Building static mesh CHAINEDPILLAR...
+[2020.01.29-06.15.15:878][493]LogStaticMesh: Built static mesh [0.08s] /Game/Underworld_Pack_for_FPSC/Underworld/CHAINEDPILLAR.CHAINEDPILLAR
+[2020.01.29-06.15.15:897][493]LogEditorFactories: -- imported successfully
+[2020.01.29-06.15.15:989][494]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/CHAINEDPILLAR_NOCHAINS.fbx)
+[2020.01.29-06.15.15:997][494]LogFbx: Loading FBX Scene from D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/CHAINEDPILLAR_NOCHAINS.fbx
+[2020.01.29-06.15.16:018][494]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.29-06.15.16:696][494]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.01.29-06.15.16:734][494]LogStaticMesh: Building static mesh CHAINEDPILLAR_NOCHAINS...
+[2020.01.29-06.15.16:757][494]LogStaticMesh: Built static mesh [0.03s] /Game/Underworld_Pack_for_FPSC/Underworld/CHAINEDPILLAR_NOCHAINS.CHAINEDPILLAR_NOCHAINS
+[2020.01.29-06.15.16:799][495]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/CHAINEDPILLAR_NOCHAINS.obj)
+[2020.01.29-06.15.16:800][495]LogEditorFactories: Performing atomic reimport of [D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/CHAINEDPILLAR_NOCHAINS.obj]
+[2020.01.29-06.15.16:809][495]LogFbx: Loading FBX Scene from D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/CHAINEDPILLAR_NOCHAINS.obj
+[2020.01.29-06.15.16:820][495]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.29-06.15.16:828][495]LogStaticMesh: Building static mesh CHAINEDPILLAR_NOCHAINS...
+[2020.01.29-06.15.16:851][495]LogStaticMesh: Built static mesh [0.02s] /Game/Underworld_Pack_for_FPSC/Underworld/CHAINEDPILLAR_NOCHAINS.CHAINEDPILLAR_NOCHAINS
+[2020.01.29-06.15.16:861][495]LogEditorFactories: -- imported successfully
+[2020.01.29-06.15.16:949][496]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/CHAINEDPILLAR_nogemstone.fbx)
+[2020.01.29-06.15.16:958][496]LogFbx: Loading FBX Scene from D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/CHAINEDPILLAR_nogemstone.fbx
+[2020.01.29-06.15.16:987][496]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.29-06.15.17:680][496]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.01.29-06.15.17:728][496]LogStaticMesh: Building static mesh CHAINEDPILLAR_nogemstone...
+[2020.01.29-06.15.17:799][496]LogStaticMesh: Built static mesh [0.07s] /Game/Underworld_Pack_for_FPSC/Underworld/CHAINEDPILLAR_nogemstone.CHAINEDPILLAR_nogemstone
+[2020.01.29-06.15.17:884][497]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/CHAINEDPILLAR_nogemstone.obj)
+[2020.01.29-06.15.17:885][497]LogEditorFactories: Performing atomic reimport of [D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/CHAINEDPILLAR_nogemstone.obj]
+[2020.01.29-06.15.17:895][497]LogFbx: Loading FBX Scene from D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/CHAINEDPILLAR_nogemstone.obj
+[2020.01.29-06.15.17:953][497]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.29-06.15.17:978][497]LogStaticMesh: Building static mesh CHAINEDPILLAR_nogemstone...
+[2020.01.29-06.15.18:036][497]LogStaticMesh: Built static mesh [0.06s] /Game/Underworld_Pack_for_FPSC/Underworld/CHAINEDPILLAR_nogemstone.CHAINEDPILLAR_nogemstone
+[2020.01.29-06.15.18:053][497]LogEditorFactories: -- imported successfully
+[2020.01.29-06.15.18:155][498]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/CHAINEDPILLAR_NoTop.fbx)
+[2020.01.29-06.15.18:164][498]LogFbx: Loading FBX Scene from D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/CHAINEDPILLAR_NoTop.fbx
+[2020.01.29-06.15.18:184][498]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.29-06.15.18:891][498]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.01.29-06.15.18:924][498]LogStaticMesh: Building static mesh CHAINEDPILLAR_NoTop...
+[2020.01.29-06.15.18:933][498]LogStaticMesh: Built static mesh [0.01s] /Game/Underworld_Pack_for_FPSC/Underworld/CHAINEDPILLAR_NoTop.CHAINEDPILLAR_NoTop
+[2020.01.29-06.15.18:980][499]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/CHAINEDPILLAR_NoTop.obj)
+[2020.01.29-06.15.18:981][499]LogEditorFactories: Performing atomic reimport of [D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/CHAINEDPILLAR_NoTop.obj]
+[2020.01.29-06.15.18:995][499]LogFbx: Loading FBX Scene from D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/CHAINEDPILLAR_NoTop.obj
+[2020.01.29-06.15.19:004][499]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.29-06.15.19:009][499]LogStaticMesh: Building static mesh CHAINEDPILLAR_NoTop...
+[2020.01.29-06.15.19:019][499]LogStaticMesh: Built static mesh [0.01s] /Game/Underworld_Pack_for_FPSC/Underworld/CHAINEDPILLAR_NoTop.CHAINEDPILLAR_NoTop
+[2020.01.29-06.15.19:029][499]LogEditorFactories: -- imported successfully
+[2020.01.29-06.15.19:114][500]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/Dagger1.fbx)
+[2020.01.29-06.15.19:123][500]LogFbx: Loading FBX Scene from D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/Dagger1.fbx
+[2020.01.29-06.15.19:144][500]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.29-06.15.19:844][500]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.01.29-06.15.19:879][500]LogStaticMesh: Building static mesh Dagger1...
+[2020.01.29-06.15.19:885][500]LogStaticMesh: Built static mesh [0.01s] /Game/Underworld_Pack_for_FPSC/Underworld/Dagger1.Dagger1
+[2020.01.29-06.15.19:929][501]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/Dagger1.obj)
+[2020.01.29-06.15.19:930][501]LogEditorFactories: Performing atomic reimport of [D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/Dagger1.obj]
+[2020.01.29-06.15.19:938][501]LogFbx: Loading FBX Scene from D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/Dagger1.obj
+[2020.01.29-06.15.19:940][501]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.29-06.15.19:943][501]LogStaticMesh: Building static mesh Dagger1...
+[2020.01.29-06.15.19:953][501]LogStaticMesh: Built static mesh [0.01s] /Game/Underworld_Pack_for_FPSC/Underworld/Dagger1.Dagger1
+[2020.01.29-06.15.19:962][501]LogEditorFactories: -- imported successfully
+[2020.01.29-06.15.20:034][502]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/Dagger2.fbx)
+[2020.01.29-06.15.20:044][502]LogFbx: Loading FBX Scene from D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/Dagger2.fbx
+[2020.01.29-06.15.20:064][502]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.29-06.15.30:991][502]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.01.29-06.15.31:022][502]LogStaticMesh: Building static mesh Dagger2...
+[2020.01.29-06.15.31:027][502]LogStaticMesh: Built static mesh [0.01s] /Game/Underworld_Pack_for_FPSC/Underworld/Dagger2.Dagger2
+[2020.01.29-06.15.31:058][503]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/Dagger2.obj)
+[2020.01.29-06.15.31:059][503]LogEditorFactories: Performing atomic reimport of [D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/Dagger2.obj]
+[2020.01.29-06.15.31:066][503]LogFbx: Loading FBX Scene from D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/Dagger2.obj
+[2020.01.29-06.15.31:068][503]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.29-06.15.31:072][503]LogStaticMesh: Building static mesh Dagger2...
+[2020.01.29-06.15.31:078][503]LogStaticMesh: Built static mesh [0.01s] /Game/Underworld_Pack_for_FPSC/Underworld/Dagger2.Dagger2
+[2020.01.29-06.15.31:085][503]LogEditorFactories: -- imported successfully
+[2020.01.29-06.15.31:180][504]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/Dagger3.fbx)
+[2020.01.29-06.15.31:190][504]LogFbx: Loading FBX Scene from D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/Dagger3.fbx
+[2020.01.29-06.15.31:212][504]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.29-06.15.32:828][504]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.01.29-06.15.32:860][504]LogStaticMesh: Building static mesh Dagger3...
+[2020.01.29-06.15.32:866][504]LogStaticMesh: Built static mesh [0.01s] /Game/Underworld_Pack_for_FPSC/Underworld/Dagger3.Dagger3
+[2020.01.29-06.15.32:908][505]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/Dagger3.obj)
+[2020.01.29-06.15.32:908][505]LogEditorFactories: Performing atomic reimport of [D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/Dagger3.obj]
+[2020.01.29-06.15.32:916][505]LogFbx: Loading FBX Scene from D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/Dagger3.obj
+[2020.01.29-06.15.32:918][505]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.29-06.15.32:921][505]LogStaticMesh: Building static mesh Dagger3...
+[2020.01.29-06.15.32:927][505]LogStaticMesh: Built static mesh [0.01s] /Game/Underworld_Pack_for_FPSC/Underworld/Dagger3.Dagger3
+[2020.01.29-06.15.32:933][505]LogEditorFactories: -- imported successfully
+[2020.01.29-06.15.33:012][506]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/DaggerTransparent1.fbx)
+[2020.01.29-06.15.33:021][506]LogFbx: Loading FBX Scene from D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/DaggerTransparent1.fbx
+[2020.01.29-06.15.33:042][506]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.29-06.15.33:619][506]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.01.29-06.15.33:650][506]LogStaticMesh: Building static mesh DaggerTransparent1...
+[2020.01.29-06.15.33:654][506]LogStaticMesh: Built static mesh [0.00s] /Game/Underworld_Pack_for_FPSC/Underworld/DaggerTransparent1.DaggerTransparent1
+[2020.01.29-06.15.33:691][507]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/DaggerTransparent1.obj)
+[2020.01.29-06.15.33:692][507]LogEditorFactories: Performing atomic reimport of [D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/DaggerTransparent1.obj]
+[2020.01.29-06.15.33:701][507]LogFbx: Loading FBX Scene from D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/DaggerTransparent1.obj
+[2020.01.29-06.15.33:703][507]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.29-06.15.33:707][507]LogStaticMesh: Building static mesh DaggerTransparent1...
+[2020.01.29-06.15.33:713][507]LogStaticMesh: Built static mesh [0.01s] /Game/Underworld_Pack_for_FPSC/Underworld/DaggerTransparent1.DaggerTransparent1
+[2020.01.29-06.15.33:720][507]LogEditorFactories: -- imported successfully
+[2020.01.29-06.15.33:794][508]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/DaggerTransparent2.fbx)
+[2020.01.29-06.15.33:803][508]LogFbx: Loading FBX Scene from D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/DaggerTransparent2.fbx
+[2020.01.29-06.15.33:826][508]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.29-06.15.34:447][508]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.01.29-06.15.34:478][508]LogStaticMesh: Building static mesh DaggerTransparent2...
+[2020.01.29-06.15.34:483][508]LogStaticMesh: Built static mesh [0.01s] /Game/Underworld_Pack_for_FPSC/Underworld/DaggerTransparent2.DaggerTransparent2
+[2020.01.29-06.15.34:529][509]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/DaggerTransparent2.obj)
+[2020.01.29-06.15.34:531][509]LogEditorFactories: Performing atomic reimport of [D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/DaggerTransparent2.obj]
+[2020.01.29-06.15.34:541][509]LogFbx: Loading FBX Scene from D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/DaggerTransparent2.obj
+[2020.01.29-06.15.34:542][509]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.29-06.15.34:545][509]LogStaticMesh: Building static mesh DaggerTransparent2...
+[2020.01.29-06.15.34:550][509]LogStaticMesh: Built static mesh [0.01s] /Game/Underworld_Pack_for_FPSC/Underworld/DaggerTransparent2.DaggerTransparent2
+[2020.01.29-06.15.34:557][509]LogEditorFactories: -- imported successfully
+[2020.01.29-06.15.34:629][510]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/DarkAltar.fbx)
+[2020.01.29-06.15.34:642][510]LogFbx: Loading FBX Scene from D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/DarkAltar.fbx
+[2020.01.29-06.15.34:673][510]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.29-06.15.35:236][510]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.01.29-06.15.35:285][510]LogStaticMesh: Building static mesh DarkAltar...
+[2020.01.29-06.15.35:370][510]LogStaticMesh: Built static mesh [0.09s] /Game/Underworld_Pack_for_FPSC/Underworld/DarkAltar.DarkAltar
+[2020.01.29-06.15.35:428][511]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/DarkAltar.obj)
+[2020.01.29-06.15.35:429][511]LogEditorFactories: Performing atomic reimport of [D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/DarkAltar.obj]
+[2020.01.29-06.15.35:437][511]LogFbx: Loading FBX Scene from D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/DarkAltar.obj
+[2020.01.29-06.15.35:501][511]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.29-06.15.35:540][511]LogStaticMesh: Building static mesh DarkAltar...
+[2020.01.29-06.15.35:611][511]LogStaticMesh: Built static mesh [0.07s] /Game/Underworld_Pack_for_FPSC/Underworld/DarkAltar.DarkAltar
+[2020.01.29-06.15.35:630][511]LogEditorFactories: -- imported successfully
+[2020.01.29-06.15.35:714][512]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/DarkAltarNoStuff.fbx)
+[2020.01.29-06.15.35:724][512]LogFbx: Loading FBX Scene from D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/DarkAltarNoStuff.fbx
+[2020.01.29-06.15.35:747][512]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.29-06.15.36:314][512]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.01.29-06.15.36:351][512]LogStaticMesh: Building static mesh DarkAltarNoStuff...
+[2020.01.29-06.15.36:392][512]LogStaticMesh: Built static mesh [0.04s] /Game/Underworld_Pack_for_FPSC/Underworld/DarkAltarNoStuff.DarkAltarNoStuff
+[2020.01.29-06.15.36:443][513]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/DarkAltarNoStuff.obj)
+[2020.01.29-06.15.36:444][513]LogEditorFactories: Performing atomic reimport of [D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/DarkAltarNoStuff.obj]
+[2020.01.29-06.15.36:451][513]LogFbx: Loading FBX Scene from D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/DarkAltarNoStuff.obj
+[2020.01.29-06.15.36:477][513]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.29-06.15.36:492][513]LogStaticMesh: Building static mesh DarkAltarNoStuff...
+[2020.01.29-06.15.36:540][513]LogStaticMesh: Built static mesh [0.05s] /Game/Underworld_Pack_for_FPSC/Underworld/DarkAltarNoStuff.DarkAltarNoStuff
+[2020.01.29-06.15.36:551][513]LogEditorFactories: -- imported successfully
+[2020.01.29-06.15.36:624][514]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/Decorative_Orb1.fbx)
+[2020.01.29-06.15.36:633][514]LogFbx: Loading FBX Scene from D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/Decorative_Orb1.fbx
+[2020.01.29-06.15.36:655][514]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.29-06.15.37:201][514]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.01.29-06.15.37:238][514]LogStaticMesh: Building static mesh Decorative_Orb1...
+[2020.01.29-06.15.37:253][514]LogStaticMesh: Built static mesh [0.01s] /Game/Underworld_Pack_for_FPSC/Underworld/Decorative_Orb1.Decorative_Orb1
+[2020.01.29-06.15.37:293][515]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/Decorative_Orb1.obj)
+[2020.01.29-06.15.37:295][515]LogEditorFactories: Performing atomic reimport of [D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/Decorative_Orb1.obj]
+[2020.01.29-06.15.37:303][515]LogFbx: Loading FBX Scene from D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/Decorative_Orb1.obj
+[2020.01.29-06.15.37:310][515]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.29-06.15.37:315][515]LogStaticMesh: Building static mesh Decorative_Orb1...
+[2020.01.29-06.15.37:331][515]LogStaticMesh: Built static mesh [0.02s] /Game/Underworld_Pack_for_FPSC/Underworld/Decorative_Orb1.Decorative_Orb1
+[2020.01.29-06.15.37:342][515]LogEditorFactories: -- imported successfully
+[2020.01.29-06.15.37:423][516]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/Decorative_Orb2.obj)
+[2020.01.29-06.15.37:431][516]LogFbx: Loading FBX Scene from D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/Decorative_Orb2.obj
+[2020.01.29-06.15.37:438][516]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.29-06.15.37:977][516]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.01.29-06.15.38:013][516]LogStaticMesh: Building static mesh Decorative_Orb2...
+[2020.01.29-06.15.38:026][516]LogStaticMesh: Built static mesh [0.01s] /Game/Underworld_Pack_for_FPSC/Underworld/Decorative_Orb2.Decorative_Orb2
+[2020.01.29-06.15.38:092][517]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/Decorative_Orb3.obj)
+[2020.01.29-06.15.38:102][517]LogFbx: Loading FBX Scene from D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/Decorative_Orb3.obj
+[2020.01.29-06.15.38:112][517]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.29-06.15.39:791][517]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.01.29-06.15.39:823][517]LogStaticMesh: Building static mesh Decorative_Orb3...
+[2020.01.29-06.15.39:836][517]LogStaticMesh: Built static mesh [0.01s] /Game/Underworld_Pack_for_FPSC/Underworld/Decorative_Orb3.Decorative_Orb3
+[2020.01.29-06.15.39:906][518]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/Decorative_Orb4.obj)
+[2020.01.29-06.15.39:917][518]LogFbx: Loading FBX Scene from D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/Decorative_Orb4.obj
+[2020.01.29-06.15.39:924][518]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.29-06.15.40:968][518]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.01.29-06.15.41:002][518]LogStaticMesh: Building static mesh Decorative_Orb4...
+[2020.01.29-06.15.41:016][518]LogStaticMesh: Built static mesh [0.01s] /Game/Underworld_Pack_for_FPSC/Underworld/Decorative_Orb4.Decorative_Orb4
+[2020.01.29-06.15.41:057][519]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/Decorative_Orb_Transparent.fbx)
+[2020.01.29-06.15.41:071][519]LogFbx: Loading FBX Scene from D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/Decorative_Orb_Transparent.fbx
+[2020.01.29-06.15.41:101][519]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.29-06.15.41:962][519]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.01.29-06.15.41:996][519]LogStaticMesh: Building static mesh Decorative_Orb_Transparent...
+[2020.01.29-06.15.42:011][519]LogStaticMesh: Built static mesh [0.01s] /Game/Underworld_Pack_for_FPSC/Underworld/Decorative_Orb_Transparent.Decorative_Orb_Transparent
+[2020.01.29-06.15.42:059][520]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/Decorative_Orb_Transparent.obj)
+[2020.01.29-06.15.42:060][520]LogEditorFactories: Performing atomic reimport of [D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/Decorative_Orb_Transparent.obj]
+[2020.01.29-06.15.42:070][520]LogFbx: Loading FBX Scene from D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/Decorative_Orb_Transparent.obj
+[2020.01.29-06.15.42:081][520]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.29-06.15.42:087][520]LogStaticMesh: Building static mesh Decorative_Orb_Transparent...
+[2020.01.29-06.15.42:105][520]LogStaticMesh: Built static mesh [0.02s] /Game/Underworld_Pack_for_FPSC/Underworld/Decorative_Orb_Transparent.Decorative_Orb_Transparent
+[2020.01.29-06.15.42:112][520]LogEditorFactories: -- imported successfully
+[2020.01.29-06.15.42:190][521]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/DEMONICCROSS.fbx)
+[2020.01.29-06.15.42:201][521]LogFbx: Loading FBX Scene from D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/DEMONICCROSS.fbx
+[2020.01.29-06.15.42:223][521]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.29-06.15.43:451][521]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.01.29-06.15.43:482][521]LogStaticMesh: Building static mesh DEMONICCROSS...
+[2020.01.29-06.15.43:501][521]LogStaticMesh: Built static mesh [0.02s] /Game/Underworld_Pack_for_FPSC/Underworld/DEMONICCROSS.DEMONICCROSS
+[2020.01.29-06.15.43:540][522]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/DEMONICCROSS.obj)
+[2020.01.29-06.15.43:541][522]LogEditorFactories: Performing atomic reimport of [D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/DEMONICCROSS.obj]
+[2020.01.29-06.15.43:549][522]LogFbx: Loading FBX Scene from D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/DEMONICCROSS.obj
+[2020.01.29-06.15.43:556][522]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.29-06.15.43:563][522]LogStaticMesh: Building static mesh DEMONICCROSS...
+[2020.01.29-06.15.43:585][522]LogStaticMesh: Built static mesh [0.02s] /Game/Underworld_Pack_for_FPSC/Underworld/DEMONICCROSS.DEMONICCROSS
+[2020.01.29-06.15.43:596][522]LogEditorFactories: -- imported successfully
+[2020.01.29-06.15.43:673][523]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/DEMONICPILLAR1.fbx)
+[2020.01.29-06.15.43:683][523]LogFbx: Loading FBX Scene from D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/DEMONICPILLAR1.fbx
+[2020.01.29-06.15.43:705][523]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.29-06.15.44:570][523]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.01.29-06.15.44:604][523]LogStaticMesh: Building static mesh DEMONICPILLAR1...
+[2020.01.29-06.15.44:628][523]LogStaticMesh: Built static mesh [0.02s] /Game/Underworld_Pack_for_FPSC/Underworld/DEMONICPILLAR1.DEMONICPILLAR1
+[2020.01.29-06.15.44:672][524]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/DEMONICPILLAR1.obj)
+[2020.01.29-06.15.44:673][524]LogEditorFactories: Performing atomic reimport of [D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/DEMONICPILLAR1.obj]
+[2020.01.29-06.15.44:681][524]LogFbx: Loading FBX Scene from D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/DEMONICPILLAR1.obj
+[2020.01.29-06.15.44:696][524]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.29-06.15.44:704][524]LogStaticMesh: Building static mesh DEMONICPILLAR1...
+[2020.01.29-06.15.44:724][524]LogStaticMesh: Built static mesh [0.02s] /Game/Underworld_Pack_for_FPSC/Underworld/DEMONICPILLAR1.DEMONICPILLAR1
+[2020.01.29-06.15.44:734][524]LogEditorFactories: -- imported successfully
+[2020.01.29-06.15.44:821][525]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/DEMONICPILLAR2.fbx)
+[2020.01.29-06.15.44:831][525]LogFbx: Loading FBX Scene from D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/DEMONICPILLAR2.fbx
+[2020.01.29-06.15.44:856][525]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.29-06.15.45:551][525]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.01.29-06.15.45:585][525]LogStaticMesh: Building static mesh DEMONICPILLAR2...
+[2020.01.29-06.15.45:608][525]LogStaticMesh: Built static mesh [0.02s] /Game/Underworld_Pack_for_FPSC/Underworld/DEMONICPILLAR2.DEMONICPILLAR2
+[2020.01.29-06.15.45:661][526]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/DEMONICPILLAR2.obj)
+[2020.01.29-06.15.45:661][526]LogEditorFactories: Performing atomic reimport of [D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/DEMONICPILLAR2.obj]
+[2020.01.29-06.15.45:669][526]LogFbx: Loading FBX Scene from D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/DEMONICPILLAR2.obj
+[2020.01.29-06.15.45:681][526]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.29-06.15.45:691][526]LogStaticMesh: Building static mesh DEMONICPILLAR2...
+[2020.01.29-06.15.45:713][526]LogStaticMesh: Built static mesh [0.02s] /Game/Underworld_Pack_for_FPSC/Underworld/DEMONICPILLAR2.DEMONICPILLAR2
+[2020.01.29-06.15.45:724][526]LogEditorFactories: -- imported successfully
+[2020.01.29-06.15.45:805][527]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/DEMONICPILLAR3.fbx)
+[2020.01.29-06.15.45:817][527]LogFbx: Loading FBX Scene from D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/DEMONICPILLAR3.fbx
+[2020.01.29-06.15.45:839][527]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.29-06.15.46:537][527]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.01.29-06.15.46:574][527]LogStaticMesh: Building static mesh DEMONICPILLAR3...
+[2020.01.29-06.15.46:594][527]LogStaticMesh: Built static mesh [0.02s] /Game/Underworld_Pack_for_FPSC/Underworld/DEMONICPILLAR3.DEMONICPILLAR3
+[2020.01.29-06.15.46:638][528]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/DEMONICPILLAR3.obj)
+[2020.01.29-06.15.46:638][528]LogEditorFactories: Performing atomic reimport of [D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/DEMONICPILLAR3.obj]
+[2020.01.29-06.15.46:647][528]LogFbx: Loading FBX Scene from D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/DEMONICPILLAR3.obj
+[2020.01.29-06.15.46:658][528]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.29-06.15.46:666][528]LogStaticMesh: Building static mesh DEMONICPILLAR3...
+[2020.01.29-06.15.46:688][528]LogStaticMesh: Built static mesh [0.02s] /Game/Underworld_Pack_for_FPSC/Underworld/DEMONICPILLAR3.DEMONICPILLAR3
+[2020.01.29-06.15.46:697][528]LogEditorFactories: -- imported successfully
+[2020.01.29-06.15.46:774][529]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/DEMONICPILLAR4.fbx)
+[2020.01.29-06.15.46:785][529]LogFbx: Loading FBX Scene from D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/DEMONICPILLAR4.fbx
+[2020.01.29-06.15.46:807][529]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.29-06.15.47:409][529]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.01.29-06.15.47:446][529]LogStaticMesh: Building static mesh DEMONICPILLAR4...
+[2020.01.29-06.15.47:457][529]LogStaticMesh: Built static mesh [0.01s] /Game/Underworld_Pack_for_FPSC/Underworld/DEMONICPILLAR4.DEMONICPILLAR4
+[2020.01.29-06.15.47:504][530]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/DEMONICPILLAR4.obj)
+[2020.01.29-06.15.47:505][530]LogEditorFactories: Performing atomic reimport of [D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/DEMONICPILLAR4.obj]
+[2020.01.29-06.15.47:513][530]LogFbx: Loading FBX Scene from D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/DEMONICPILLAR4.obj
+[2020.01.29-06.15.47:520][530]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.29-06.15.47:524][530]LogStaticMesh: Building static mesh DEMONICPILLAR4...
+[2020.01.29-06.15.47:540][530]LogStaticMesh: Built static mesh [0.02s] /Game/Underworld_Pack_for_FPSC/Underworld/DEMONICPILLAR4.DEMONICPILLAR4
+[2020.01.29-06.15.47:554][530]LogEditorFactories: -- imported successfully
+[2020.01.29-06.15.47:641][531]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/GazingPillar.fbx)
+[2020.01.29-06.15.47:655][531]LogFbx: Loading FBX Scene from D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/GazingPillar.fbx
+[2020.01.29-06.15.47:720][531]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.29-06.15.48:327][531]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.01.29-06.15.48:431][531]LogStaticMesh: Building static mesh GazingPillar...
+[2020.01.29-06.15.48:753][531]LogStaticMesh: Built static mesh [0.32s] /Game/Underworld_Pack_for_FPSC/Underworld/GazingPillar.GazingPillar
+[2020.01.29-06.15.48:893][532]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/GazingPillar.obj)
+[2020.01.29-06.15.48:894][532]LogEditorFactories: Performing atomic reimport of [D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/GazingPillar.obj]
+[2020.01.29-06.15.48:904][532]LogFbx: Loading FBX Scene from D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/GazingPillar.obj
+[2020.01.29-06.15.49:104][532]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.29-06.15.49:210][532]LogStaticMesh: Building static mesh GazingPillar...
+[2020.01.29-06.15.49:440][532]LogStaticMesh: Built static mesh [0.23s] /Game/Underworld_Pack_for_FPSC/Underworld/GazingPillar.GazingPillar
+[2020.01.29-06.15.49:499][532]LogEditorFactories: -- imported successfully
+[2020.01.29-06.15.49:682][533]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/Goldenchain.obj)
+[2020.01.29-06.15.49:690][533]LogFbx: Loading FBX Scene from D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/Goldenchain.obj
+[2020.01.29-06.15.49:711][533]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.29-06.15.50:631][533]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.01.29-06.15.50:669][533]LogStaticMesh: Building static mesh Goldenchain...
+[2020.01.29-06.15.50:704][533]LogStaticMesh: Built static mesh [0.04s] /Game/Underworld_Pack_for_FPSC/Underworld/Goldenchain.Goldenchain
+[2020.01.29-06.15.50:753][534]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/GOTHICWINDOW_SIMPLE1.obj)
+[2020.01.29-06.15.50:760][534]LogFbx: Loading FBX Scene from D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/GOTHICWINDOW_SIMPLE1.obj
+[2020.01.29-06.15.50:765][534]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.29-06.15.51:493][534]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.01.29-06.15.51:526][534]LogStaticMesh: Building static mesh GOTHICWINDOW_SIMPLE1...
+[2020.01.29-06.15.51:533][534]LogStaticMesh: Built static mesh [0.01s] /Game/Underworld_Pack_for_FPSC/Underworld/GOTHICWINDOW_SIMPLE1.GOTHICWINDOW_SIMPLE1
+[2020.01.29-06.15.51:585][535]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/GOTHICWINDOW_SIMPLE2.obj)
+[2020.01.29-06.15.51:594][535]LogFbx: Loading FBX Scene from D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/GOTHICWINDOW_SIMPLE2.obj
+[2020.01.29-06.15.51:597][535]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.29-06.15.52:267][535]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.01.29-06.15.52:294][535]LogStaticMesh: Building static mesh GOTHICWINDOW_SIMPLE2...
+[2020.01.29-06.15.52:302][535]LogStaticMesh: Built static mesh [0.01s] /Game/Underworld_Pack_for_FPSC/Underworld/GOTHICWINDOW_SIMPLE2.GOTHICWINDOW_SIMPLE2
+[2020.01.29-06.15.52:335][536]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/GOTHICWINDOW_SIMPLE3.obj)
+[2020.01.29-06.15.52:345][536]LogFbx: Loading FBX Scene from D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/GOTHICWINDOW_SIMPLE3.obj
+[2020.01.29-06.15.52:349][536]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.29-06.15.52:876][536]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.01.29-06.15.52:905][536]LogStaticMesh: Building static mesh GOTHICWINDOW_SIMPLE3...
+[2020.01.29-06.15.52:913][536]LogStaticMesh: Built static mesh [0.01s] /Game/Underworld_Pack_for_FPSC/Underworld/GOTHICWINDOW_SIMPLE3.GOTHICWINDOW_SIMPLE3
+[2020.01.29-06.15.52:952][537]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/GOTHICWINDOW_SIMPLE4.obj)
+[2020.01.29-06.15.52:962][537]LogFbx: Loading FBX Scene from D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/GOTHICWINDOW_SIMPLE4.obj
+[2020.01.29-06.15.52:966][537]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.29-06.15.53:472][537]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.01.29-06.15.53:505][537]LogStaticMesh: Building static mesh GOTHICWINDOW_SIMPLE4...
+[2020.01.29-06.15.53:514][537]LogStaticMesh: Built static mesh [0.01s] /Game/Underworld_Pack_for_FPSC/Underworld/GOTHICWINDOW_SIMPLE4.GOTHICWINDOW_SIMPLE4
+[2020.01.29-06.15.53:553][538]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/GOTHICWINDOW_SIMPLE5.obj)
+[2020.01.29-06.15.53:565][538]LogFbx: Loading FBX Scene from D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/GOTHICWINDOW_SIMPLE5.obj
+[2020.01.29-06.15.53:568][538]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.29-06.15.54:092][538]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.01.29-06.15.54:133][538]LogStaticMesh: Building static mesh GOTHICWINDOW_SIMPLE5...
+[2020.01.29-06.15.54:140][538]LogStaticMesh: Built static mesh [0.01s] /Game/Underworld_Pack_for_FPSC/Underworld/GOTHICWINDOW_SIMPLE5.GOTHICWINDOW_SIMPLE5
+[2020.01.29-06.15.54:187][539]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/HallwayArch.fbx)
+[2020.01.29-06.15.54:199][539]LogFbx: Loading FBX Scene from D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/HallwayArch.fbx
+[2020.01.29-06.15.54:238][539]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.29-06.15.54:724][539]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.01.29-06.15.54:772][539]LogStaticMesh: Building static mesh HallwayArch...
+[2020.01.29-06.15.54:857][539]LogStaticMesh: Built static mesh [0.08s] /Game/Underworld_Pack_for_FPSC/Underworld/HallwayArch.HallwayArch
+[2020.01.29-06.15.54:919][540]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/HallwayArch.obj)
+[2020.01.29-06.15.54:921][540]LogEditorFactories: Performing atomic reimport of [D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/HallwayArch.obj]
+[2020.01.29-06.15.54:929][540]LogFbx: Loading FBX Scene from D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/HallwayArch.obj
+[2020.01.29-06.15.54:986][540]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.29-06.15.55:025][540]LogStaticMesh: Building static mesh HallwayArch...
+[2020.01.29-06.15.55:101][540]LogStaticMesh: Built static mesh [0.08s] /Game/Underworld_Pack_for_FPSC/Underworld/HallwayArch.HallwayArch
+[2020.01.29-06.15.55:120][540]LogEditorFactories: -- imported successfully
+[2020.01.29-06.15.55:211][541]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/HallwayArch_Single.fbx)
+[2020.01.29-06.15.55:221][541]LogFbx: Loading FBX Scene from D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/HallwayArch_Single.fbx
+[2020.01.29-06.15.55:246][541]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.29-06.15.55:879][541]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.01.29-06.15.55:919][541]LogStaticMesh: Building static mesh HallwayArch_Single...
+[2020.01.29-06.15.55:963][541]LogStaticMesh: Built static mesh [0.05s] /Game/Underworld_Pack_for_FPSC/Underworld/HallwayArch_Single.HallwayArch_Single
+[2020.01.29-06.15.56:001][542]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/HallwayArch_Single.obj)
+[2020.01.29-06.15.56:001][542]LogEditorFactories: Performing atomic reimport of [D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/HallwayArch_Single.obj]
+[2020.01.29-06.15.56:009][542]LogFbx: Loading FBX Scene from D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/HallwayArch_Single.obj
+[2020.01.29-06.15.56:042][542]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.29-06.15.56:062][542]LogStaticMesh: Building static mesh HallwayArch_Single...
+[2020.01.29-06.15.56:114][542]LogStaticMesh: Built static mesh [0.05s] /Game/Underworld_Pack_for_FPSC/Underworld/HallwayArch_Single.HallwayArch_Single
+[2020.01.29-06.15.56:125][542]LogEditorFactories: -- imported successfully
+[2020.01.29-06.15.56:200][543]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/HEDRA_CHANDELIER.fbx)
+[2020.01.29-06.15.56:211][543]LogFbx: Loading FBX Scene from D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/HEDRA_CHANDELIER.fbx
+[2020.01.29-06.15.56:236][543]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.29-06.15.59:124][543]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.01.29-06.15.59:165][543]LogStaticMesh: Building static mesh HEDRA_CHANDELIER...
+[2020.01.29-06.15.59:209][543]LogStaticMesh: Built static mesh [0.04s] /Game/Underworld_Pack_for_FPSC/Underworld/HEDRA_CHANDELIER.HEDRA_CHANDELIER
+[2020.01.29-06.15.59:267][544]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/HEDRA_CHANDELIER.obj)
+[2020.01.29-06.15.59:267][544]LogEditorFactories: Performing atomic reimport of [D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/HEDRA_CHANDELIER.obj]
+[2020.01.29-06.15.59:275][544]LogFbx: Loading FBX Scene from D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/HEDRA_CHANDELIER.obj
+[2020.01.29-06.15.59:306][544]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.29-06.15.59:319][544]LogStaticMesh: Building static mesh HEDRA_CHANDELIER...
+[2020.01.29-06.15.59:367][544]LogStaticMesh: Built static mesh [0.05s] /Game/Underworld_Pack_for_FPSC/Underworld/HEDRA_CHANDELIER.HEDRA_CHANDELIER
+[2020.01.29-06.15.59:377][544]LogEditorFactories: -- imported successfully
+[2020.01.29-06.15.59:432][545]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/LAMPPOST.fbx)
+[2020.01.29-06.15.59:441][545]LogFbx: Loading FBX Scene from D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/LAMPPOST.fbx
+[2020.01.29-06.15.59:461][545]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.29-06.16.01:094][545]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.01.29-06.16.01:124][545]LogStaticMesh: Building static mesh LAMPPOST...
+[2020.01.29-06.16.01:139][545]LogStaticMesh: Built static mesh [0.02s] /Game/Underworld_Pack_for_FPSC/Underworld/LAMPPOST.LAMPPOST
+[2020.01.29-06.16.01:194][546]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/LAMPPOST.obj)
+[2020.01.29-06.16.01:195][546]LogEditorFactories: Performing atomic reimport of [D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/LAMPPOST.obj]
+[2020.01.29-06.16.01:202][546]LogFbx: Loading FBX Scene from D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/LAMPPOST.obj
+[2020.01.29-06.16.01:208][546]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.29-06.16.01:213][546]LogStaticMesh: Building static mesh LAMPPOST...
+[2020.01.29-06.16.01:233][546]LogStaticMesh: Built static mesh [0.02s] /Game/Underworld_Pack_for_FPSC/Underworld/LAMPPOST.LAMPPOST
+[2020.01.29-06.16.01:241][546]LogEditorFactories: -- imported successfully
+[2020.01.29-06.16.01:349][547]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/Magnifying Glass1.obj)
+[2020.01.29-06.16.01:356][547]LogFbx: Loading FBX Scene from D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/Magnifying Glass1.obj
+[2020.01.29-06.16.01:361][547]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.29-06.16.07:749][547]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.01.29-06.16.07:802][547]LogStaticMesh: Building static mesh Magnifying_Glass1...
+[2020.01.29-06.16.07:815][547]LogStaticMesh: Built static mesh [0.01s] /Game/Underworld_Pack_for_FPSC/Underworld/Magnifying_Glass1.Magnifying_Glass1
+[2020.01.29-06.16.07:864][548]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/Magnifying Glass2.obj)
+[2020.01.29-06.16.07:876][548]LogFbx: Loading FBX Scene from D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/Magnifying Glass2.obj
+[2020.01.29-06.16.07:883][548]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.29-06.16.08:920][548]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.01.29-06.16.08:957][548]LogStaticMesh: Building static mesh Magnifying_Glass2...
+[2020.01.29-06.16.08:967][548]LogStaticMesh: Built static mesh [0.01s] /Game/Underworld_Pack_for_FPSC/Underworld/Magnifying_Glass2.Magnifying_Glass2
+[2020.01.29-06.16.09:033][549]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/massivetable.fbx)
+[2020.01.29-06.16.09:049][549]LogFbx: Loading FBX Scene from D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/massivetable.fbx
+[2020.01.29-06.16.09:081][549]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.29-06.16.09:782][549]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.01.29-06.16.09:815][549]LogStaticMesh: Building static mesh massivetable...
+[2020.01.29-06.16.09:825][549]LogStaticMesh: Built static mesh [0.01s] /Game/Underworld_Pack_for_FPSC/Underworld/massivetable.massivetable
+[2020.01.29-06.16.09:879][550]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/massivetable.obj)
+[2020.01.29-06.16.09:880][550]LogEditorFactories: Performing atomic reimport of [D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/massivetable.obj]
+[2020.01.29-06.16.09:890][550]LogFbx: Loading FBX Scene from D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/massivetable.obj
+[2020.01.29-06.16.09:893][550]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.29-06.16.09:896][550]LogStaticMesh: Building static mesh massivetable...
+[2020.01.29-06.16.09:906][550]LogStaticMesh: Built static mesh [0.01s] /Game/Underworld_Pack_for_FPSC/Underworld/massivetable.massivetable
+[2020.01.29-06.16.09:913][550]LogEditorFactories: -- imported successfully
+[2020.01.29-06.16.09:995][551]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/massivetable_symbol.fbx)
+[2020.01.29-06.16.10:004][551]LogFbx: Loading FBX Scene from D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/massivetable_symbol.fbx
+[2020.01.29-06.16.10:026][551]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.29-06.16.10:843][551]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.01.29-06.16.10:873][551]LogStaticMesh: Building static mesh massivetable_symbol...
+[2020.01.29-06.16.10:882][551]LogStaticMesh: Built static mesh [0.01s] /Game/Underworld_Pack_for_FPSC/Underworld/massivetable_symbol.massivetable_symbol
+[2020.01.29-06.16.10:927][552]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/massivetable_symbol.obj)
+[2020.01.29-06.16.10:928][552]LogEditorFactories: Performing atomic reimport of [D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/massivetable_symbol.obj]
+[2020.01.29-06.16.10:936][552]LogFbx: Loading FBX Scene from D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/massivetable_symbol.obj
+[2020.01.29-06.16.10:939][552]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.29-06.16.10:943][552]LogStaticMesh: Building static mesh massivetable_symbol...
+[2020.01.29-06.16.10:952][552]LogStaticMesh: Built static mesh [0.01s] /Game/Underworld_Pack_for_FPSC/Underworld/massivetable_symbol.massivetable_symbol
+[2020.01.29-06.16.10:959][552]LogEditorFactories: -- imported successfully
+[2020.01.29-06.16.11:029][553]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/Metallicchain.obj)
+[2020.01.29-06.16.11:036][553]LogFbx: Loading FBX Scene from D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/Metallicchain.obj
+[2020.01.29-06.16.11:060][553]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.29-06.16.11:681][553]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.01.29-06.16.11:720][553]LogStaticMesh: Building static mesh Metallicchain...
+[2020.01.29-06.16.11:757][553]LogStaticMesh: Built static mesh [0.04s] /Game/Underworld_Pack_for_FPSC/Underworld/Metallicchain.Metallicchain
+[2020.01.29-06.16.11:797][554]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/MineralDisplay1.fbx)
+[2020.01.29-06.16.11:808][554]LogFbx: Loading FBX Scene from D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/MineralDisplay1.fbx
+[2020.01.29-06.16.11:851][554]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.29-06.16.12:402][554]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.01.29-06.16.12:453][554]LogStaticMesh: Building static mesh MineralDisplay1...
+[2020.01.29-06.16.12:565][554]LogStaticMesh: Built static mesh [0.11s] /Game/Underworld_Pack_for_FPSC/Underworld/MineralDisplay1.MineralDisplay1
+[2020.01.29-06.16.12:633][555]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/MineralDisplay1.obj)
+[2020.01.29-06.16.12:635][555]LogEditorFactories: Performing atomic reimport of [D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/MineralDisplay1.obj]
+[2020.01.29-06.16.12:646][555]LogFbx: Loading FBX Scene from D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/MineralDisplay1.obj
+[2020.01.29-06.16.12:724][555]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.29-06.16.12:754][555]LogStaticMesh: Building static mesh MineralDisplay1...
+[2020.01.29-06.16.12:845][555]LogStaticMesh: Built static mesh [0.09s] /Game/Underworld_Pack_for_FPSC/Underworld/MineralDisplay1.MineralDisplay1
+[2020.01.29-06.16.12:866][555]LogEditorFactories: -- imported successfully
+[2020.01.29-06.16.12:968][556]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/MineralDisplay_NoGemstone.fbx)
+[2020.01.29-06.16.12:977][556]LogFbx: Loading FBX Scene from D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/MineralDisplay_NoGemstone.fbx
+[2020.01.29-06.16.13:005][556]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.29-06.16.13:619][556]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.01.29-06.16.13:671][556]LogStaticMesh: Building static mesh MineralDisplay_NoGemstone...
+[2020.01.29-06.16.13:787][556]LogStaticMesh: Built static mesh [0.12s] /Game/Underworld_Pack_for_FPSC/Underworld/MineralDisplay_NoGemstone.MineralDisplay_NoGemstone
+[2020.01.29-06.16.13:849][557]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/MineralDisplay_NoGemstone.obj)
+[2020.01.29-06.16.13:851][557]LogEditorFactories: Performing atomic reimport of [D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/MineralDisplay_NoGemstone.obj]
+[2020.01.29-06.16.13:860][557]LogFbx: Loading FBX Scene from D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/MineralDisplay_NoGemstone.obj
+[2020.01.29-06.16.13:931][557]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.29-06.16.13:962][557]LogStaticMesh: Building static mesh MineralDisplay_NoGemstone...
+[2020.01.29-06.16.14:069][557]LogStaticMesh: Built static mesh [0.11s] /Game/Underworld_Pack_for_FPSC/Underworld/MineralDisplay_NoGemstone.MineralDisplay_NoGemstone
+[2020.01.29-06.16.14:092][557]LogEditorFactories: -- imported successfully
+[2020.01.29-06.16.14:186][558]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/Mineraldisplay_Notpyramidlamps.fbx)
+[2020.01.29-06.16.14:198][558]LogFbx: Loading FBX Scene from D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/Mineraldisplay_Notpyramidlamps.fbx
+[2020.01.29-06.16.14:228][558]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.29-06.16.14:871][558]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.01.29-06.16.14:928][558]LogStaticMesh: Building static mesh Mineraldisplay_Notpyramidlamps...
+[2020.01.29-06.16.15:049][558]LogStaticMesh: Built static mesh [0.12s] /Game/Underworld_Pack_for_FPSC/Underworld/Mineraldisplay_Notpyramidlamps.Mineraldisplay_Notpyramidlamps
+[2020.01.29-06.16.15:114][559]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/Mineraldisplay_Notpyramidlamps.obj)
+[2020.01.29-06.16.15:115][559]LogEditorFactories: Performing atomic reimport of [D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/Mineraldisplay_Notpyramidlamps.obj]
+[2020.01.29-06.16.15:126][559]LogFbx: Loading FBX Scene from D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/Mineraldisplay_Notpyramidlamps.obj
+[2020.01.29-06.16.15:197][559]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.29-06.16.15:231][559]LogStaticMesh: Building static mesh Mineraldisplay_Notpyramidlamps...
+[2020.01.29-06.16.15:332][559]LogStaticMesh: Built static mesh [0.10s] /Game/Underworld_Pack_for_FPSC/Underworld/Mineraldisplay_Notpyramidlamps.Mineraldisplay_Notpyramidlamps
+[2020.01.29-06.16.15:355][559]LogEditorFactories: -- imported successfully
+[2020.01.29-06.16.15:450][560]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/Mirror.obj)
+[2020.01.29-06.16.15:457][560]LogFbx: Loading FBX Scene from D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/Mirror.obj
+[2020.01.29-06.16.15:470][560]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.29-06.16.16:094][560]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.01.29-06.16.16:129][560]LogStaticMesh: Building static mesh Mirror...
+[2020.01.29-06.16.16:149][560]LogStaticMesh: Built static mesh [0.02s] /Game/Underworld_Pack_for_FPSC/Underworld/Mirror.Mirror
+[2020.01.29-06.16.16:193][561]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/Object Stand1.obj)
+[2020.01.29-06.16.16:204][561]LogFbx: Loading FBX Scene from D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/Object Stand1.obj
+[2020.01.29-06.16.16:209][561]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.29-06.16.16:914][561]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.01.29-06.16.16:946][561]LogStaticMesh: Building static mesh Object_Stand1...
+[2020.01.29-06.16.16:961][561]LogStaticMesh: Built static mesh [0.01s] /Game/Underworld_Pack_for_FPSC/Underworld/Object_Stand1.Object_Stand1
+[2020.01.29-06.16.16:995][562]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/PILLAR_PYRAMID.fbx)
+[2020.01.29-06.16.17:009][562]LogFbx: Loading FBX Scene from D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/PILLAR_PYRAMID.fbx
+[2020.01.29-06.16.17:039][562]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.29-06.16.17:575][562]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.01.29-06.16.17:610][562]LogStaticMesh: Building static mesh PILLAR_PYRAMID...
+[2020.01.29-06.16.17:644][562]LogStaticMesh: Built static mesh [0.03s] /Game/Underworld_Pack_for_FPSC/Underworld/PILLAR_PYRAMID.PILLAR_PYRAMID
+[2020.01.29-06.16.17:694][563]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/PILLAR_PYRAMID.obj)
+[2020.01.29-06.16.17:695][563]LogEditorFactories: Performing atomic reimport of [D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/PILLAR_PYRAMID.obj]
+[2020.01.29-06.16.17:705][563]LogFbx: Loading FBX Scene from D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/PILLAR_PYRAMID.obj
+[2020.01.29-06.16.17:722][563]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.29-06.16.17:732][563]LogStaticMesh: Building static mesh PILLAR_PYRAMID...
+[2020.01.29-06.16.17:769][563]LogStaticMesh: Built static mesh [0.04s] /Game/Underworld_Pack_for_FPSC/Underworld/PILLAR_PYRAMID.PILLAR_PYRAMID
+[2020.01.29-06.16.17:781][563]LogEditorFactories: -- imported successfully
+[2020.01.29-06.16.17:860][564]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/Random Box.obj)
+[2020.01.29-06.16.17:867][564]LogFbx: Loading FBX Scene from D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/Random Box.obj
+[2020.01.29-06.16.17:868][564]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.29-06.16.20:631][564]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.01.29-06.16.20:665][564]LogStaticMesh: Building static mesh Random_Box...
+[2020.01.29-06.16.20:668][564]LogStaticMesh: Built static mesh [0.00s] /Game/Underworld_Pack_for_FPSC/Underworld/Random_Box.Random_Box
+[2020.01.29-06.16.20:712][565]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/stand with glass crystal.obj)
+[2020.01.29-06.16.20:721][565]LogFbx: Loading FBX Scene from D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/stand with glass crystal.obj
+[2020.01.29-06.16.20:726][565]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.29-06.16.21:634][565]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.01.29-06.16.21:670][565]LogStaticMesh: Building static mesh stand_with_glass_crystal...
+[2020.01.29-06.16.21:685][565]LogStaticMesh: Built static mesh [0.02s] /Game/Underworld_Pack_for_FPSC/Underworld/stand_with_glass_crystal.stand_with_glass_crystal
+[2020.01.29-06.16.21:727][566]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/Stand with occult object1.obj)
+[2020.01.29-06.16.21:737][566]LogFbx: Loading FBX Scene from D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/Stand with occult object1.obj
+[2020.01.29-06.16.21:742][566]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.29-06.16.22:581][566]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.01.29-06.16.22:612][566]LogStaticMesh: Building static mesh Stand_with_occult_object1...
+[2020.01.29-06.16.22:629][566]LogStaticMesh: Built static mesh [0.02s] /Game/Underworld_Pack_for_FPSC/Underworld/Stand_with_occult_object1.Stand_with_occult_object1
+[2020.01.29-06.16.22:675][567]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/Stand with occult object2.obj)
+[2020.01.29-06.16.22:683][567]LogFbx: Loading FBX Scene from D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/Stand with occult object2.obj
+[2020.01.29-06.16.22:691][567]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.29-06.16.24:381][567]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.01.29-06.16.24:413][567]LogStaticMesh: Building static mesh Stand_with_occult_object2...
+[2020.01.29-06.16.24:428][567]LogStaticMesh: Built static mesh [0.02s] /Game/Underworld_Pack_for_FPSC/Underworld/Stand_with_occult_object2.Stand_with_occult_object2
+[2020.01.29-06.16.24:474][568]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/Stand with orange bowl.obj)
+[2020.01.29-06.16.24:481][568]LogFbx: Loading FBX Scene from D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/Stand with orange bowl.obj
+[2020.01.29-06.16.24:490][568]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.29-06.16.25:204][568]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.01.29-06.16.25:237][568]LogStaticMesh: Building static mesh Stand_with_orange_bowl...
+[2020.01.29-06.16.25:253][568]LogStaticMesh: Built static mesh [0.02s] /Game/Underworld_Pack_for_FPSC/Underworld/Stand_with_orange_bowl.Stand_with_orange_bowl
+[2020.01.29-06.16.25:290][569]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/Stand with transparent bowl.obj)
+[2020.01.29-06.16.25:297][569]LogFbx: Loading FBX Scene from D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/Stand with transparent bowl.obj
+[2020.01.29-06.16.25:305][569]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.29-06.16.25:985][569]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.01.29-06.16.26:014][569]LogStaticMesh: Building static mesh Stand_with_transparent_bowl...
+[2020.01.29-06.16.26:031][569]LogStaticMesh: Built static mesh [0.02s] /Game/Underworld_Pack_for_FPSC/Underworld/Stand_with_transparent_bowl.Stand_with_transparent_bowl
+[2020.01.29-06.16.26:074][570]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/TALLWINDOW1.obj)
+[2020.01.29-06.16.26:082][570]LogFbx: Loading FBX Scene from D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/TALLWINDOW1.obj
+[2020.01.29-06.16.26:090][570]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.29-06.16.26:709][570]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.01.29-06.16.26:741][570]LogStaticMesh: Building static mesh TALLWINDOW1...
+[2020.01.29-06.16.26:756][570]LogStaticMesh: Built static mesh [0.01s] /Game/Underworld_Pack_for_FPSC/Underworld/TALLWINDOW1.TALLWINDOW1
+[2020.01.29-06.16.26:790][571]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/TALLWINDOW2.obj)
+[2020.01.29-06.16.26:798][571]LogFbx: Loading FBX Scene from D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/TALLWINDOW2.obj
+[2020.01.29-06.16.26:803][571]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.29-06.16.27:482][571]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.01.29-06.16.27:513][571]LogStaticMesh: Building static mesh TALLWINDOW2...
+[2020.01.29-06.16.27:524][571]LogStaticMesh: Built static mesh [0.01s] /Game/Underworld_Pack_for_FPSC/Underworld/TALLWINDOW2.TALLWINDOW2
+[2020.01.29-06.16.27:557][572]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/TALLWINDOW3.obj)
+[2020.01.29-06.16.27:568][572]LogFbx: Loading FBX Scene from D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/TALLWINDOW3.obj
+[2020.01.29-06.16.27:573][572]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.29-06.16.28:236][572]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.01.29-06.16.28:266][572]LogStaticMesh: Building static mesh TALLWINDOW3...
+[2020.01.29-06.16.28:279][572]LogStaticMesh: Built static mesh [0.01s] /Game/Underworld_Pack_for_FPSC/Underworld/TALLWINDOW3.TALLWINDOW3
+[2020.01.29-06.16.28:323][573]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/TALLWINDOW4.obj)
+[2020.01.29-06.16.28:336][573]LogFbx: Loading FBX Scene from D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/TALLWINDOW4.obj
+[2020.01.29-06.16.28:342][573]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.29-06.16.29:019][573]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.01.29-06.16.29:048][573]LogStaticMesh: Building static mesh TALLWINDOW4...
+[2020.01.29-06.16.29:061][573]LogStaticMesh: Built static mesh [0.01s] /Game/Underworld_Pack_for_FPSC/Underworld/TALLWINDOW4.TALLWINDOW4
+[2020.01.29-06.16.29:108][574]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/TALLWINDOW5.obj)
+[2020.01.29-06.16.29:118][574]LogFbx: Loading FBX Scene from D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/TALLWINDOW5.obj
+[2020.01.29-06.16.29:123][574]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.29-06.16.29:842][574]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.01.29-06.16.29:869][574]LogStaticMesh: Building static mesh TALLWINDOW5...
+[2020.01.29-06.16.29:881][574]LogStaticMesh: Built static mesh [0.01s] /Game/Underworld_Pack_for_FPSC/Underworld/TALLWINDOW5.TALLWINDOW5
+[2020.01.29-06.16.29:922][575]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/TALLWINDOW6.obj)
+[2020.01.29-06.16.29:930][575]LogFbx: Loading FBX Scene from D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/TALLWINDOW6.obj
+[2020.01.29-06.16.29:936][575]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.29-06.16.30:541][575]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.01.29-06.16.30:576][575]LogStaticMesh: Building static mesh TALLWINDOW6...
+[2020.01.29-06.16.30:587][575]LogStaticMesh: Built static mesh [0.01s] /Game/Underworld_Pack_for_FPSC/Underworld/TALLWINDOW6.TALLWINDOW6
+[2020.01.29-06.16.30:625][576]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/Templebuilding1.fbx)
+[2020.01.29-06.16.30:638][576]LogFbx: Loading FBX Scene from D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/Templebuilding1.fbx
+[2020.01.29-06.16.30:676][576]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.29-06.16.31:316][576]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.01.29-06.16.31:361][576]LogStaticMesh: Building static mesh Templebuilding1...
+[2020.01.29-06.16.31:482][576]LogStaticMesh: Built static mesh [0.12s] /Game/Underworld_Pack_for_FPSC/Underworld/Templebuilding1.Templebuilding1
+[2020.01.29-06.16.31:558][577]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/Templebuilding1.obj)
+[2020.01.29-06.16.31:559][577]LogEditorFactories: Performing atomic reimport of [D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/Templebuilding1.obj]
+[2020.01.29-06.16.31:570][577]LogFbx: Loading FBX Scene from D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/Templebuilding1.obj
+[2020.01.29-06.16.31:638][577]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.29-06.16.31:677][577]LogStaticMesh: Building static mesh Templebuilding1...
+[2020.01.29-06.16.31:774][577]LogStaticMesh: Built static mesh [0.10s] /Game/Underworld_Pack_for_FPSC/Underworld/Templebuilding1.Templebuilding1
+[2020.01.29-06.16.31:802][577]LogEditorFactories: -- imported successfully
+[2020.01.29-06.16.31:894][578]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/Templebuilding1_B_version.fbx)
+[2020.01.29-06.16.31:905][578]LogFbx: Loading FBX Scene from D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/Templebuilding1_B_version.fbx
+[2020.01.29-06.16.31:935][578]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.29-06.16.32:995][578]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.01.29-06.16.33:040][578]LogStaticMesh: Building static mesh Templebuilding1_B_version...
+[2020.01.29-06.16.33:132][578]LogStaticMesh: Built static mesh [0.09s] /Game/Underworld_Pack_for_FPSC/Underworld/Templebuilding1_B_version.Templebuilding1_B_version
+[2020.01.29-06.16.33:204][579]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/Templebuilding1_B_version.obj)
+[2020.01.29-06.16.33:205][579]LogEditorFactories: Performing atomic reimport of [D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/Templebuilding1_B_version.obj]
+[2020.01.29-06.16.33:212][579]LogFbx: Loading FBX Scene from D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/Templebuilding1_B_version.obj
+[2020.01.29-06.16.33:272][579]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.29-06.16.33:310][579]LogStaticMesh: Building static mesh Templebuilding1_B_version...
+[2020.01.29-06.16.33:383][579]LogStaticMesh: Built static mesh [0.07s] /Game/Underworld_Pack_for_FPSC/Underworld/Templebuilding1_B_version.Templebuilding1_B_version
+[2020.01.29-06.16.33:404][579]LogEditorFactories: -- imported successfully
+[2020.01.29-06.16.33:494][580]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/Templebuilding2.fbx)
+[2020.01.29-06.16.33:503][580]LogFbx: Loading FBX Scene from D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/Templebuilding2.fbx
+[2020.01.29-06.16.33:527][580]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.29-06.16.34:626][580]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.01.29-06.16.34:666][580]LogStaticMesh: Building static mesh Templebuilding2...
+[2020.01.29-06.16.34:710][580]LogStaticMesh: Built static mesh [0.04s] /Game/Underworld_Pack_for_FPSC/Underworld/Templebuilding2.Templebuilding2
+[2020.01.29-06.16.34:755][581]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/Templebuilding2.obj)
+[2020.01.29-06.16.34:756][581]LogEditorFactories: Performing atomic reimport of [D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/Templebuilding2.obj]
+[2020.01.29-06.16.34:764][581]LogFbx: Loading FBX Scene from D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/Templebuilding2.obj
+[2020.01.29-06.16.34:796][581]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.29-06.16.34:822][581]LogStaticMesh: Building static mesh Templebuilding2...
+[2020.01.29-06.16.34:863][581]LogStaticMesh: Built static mesh [0.04s] /Game/Underworld_Pack_for_FPSC/Underworld/Templebuilding2.Templebuilding2
+[2020.01.29-06.16.34:876][581]LogEditorFactories: -- imported successfully
+[2020.01.29-06.16.34:954][582]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/THORNPILLAR.fbx)
+[2020.01.29-06.16.34:963][582]LogFbx: Loading FBX Scene from D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/THORNPILLAR.fbx
+[2020.01.29-06.16.34:986][582]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.29-06.16.35:972][582]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.01.29-06.16.36:012][582]LogStaticMesh: Building static mesh THORNPILLAR...
+[2020.01.29-06.16.36:042][582]LogStaticMesh: Built static mesh [0.03s] /Game/Underworld_Pack_for_FPSC/Underworld/THORNPILLAR.THORNPILLAR
+[2020.01.29-06.16.36:090][583]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/THORNPILLAR.obj)
+[2020.01.29-06.16.36:092][583]LogEditorFactories: Performing atomic reimport of [D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/THORNPILLAR.obj]
+[2020.01.29-06.16.36:100][583]LogFbx: Loading FBX Scene from D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/THORNPILLAR.obj
+[2020.01.29-06.16.36:127][583]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.29-06.16.36:144][583]LogStaticMesh: Building static mesh THORNPILLAR...
+[2020.01.29-06.16.36:179][583]LogStaticMesh: Built static mesh [0.04s] /Game/Underworld_Pack_for_FPSC/Underworld/THORNPILLAR.THORNPILLAR
+[2020.01.29-06.16.36:190][583]LogEditorFactories: -- imported successfully
+[2020.01.29-06.16.36:270][584]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/TOWERTEMPLE.fbx)
+[2020.01.29-06.16.36:278][584]LogFbx: Loading FBX Scene from D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/TOWERTEMPLE.fbx
+[2020.01.29-06.16.36:302][584]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.29-06.16.37:144][584]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.01.29-06.16.37:179][584]LogStaticMesh: Building static mesh TOWERTEMPLE...
+[2020.01.29-06.16.37:212][584]LogStaticMesh: Built static mesh [0.03s] /Game/Underworld_Pack_for_FPSC/Underworld/TOWERTEMPLE.TOWERTEMPLE
+[2020.01.29-06.16.37:254][585]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/TOWERTEMPLE.obj)
+[2020.01.29-06.16.37:254][585]LogEditorFactories: Performing atomic reimport of [D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/TOWERTEMPLE.obj]
+[2020.01.29-06.16.37:262][585]LogFbx: Loading FBX Scene from D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/TOWERTEMPLE.obj
+[2020.01.29-06.16.37:282][585]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.29-06.16.37:301][585]LogStaticMesh: Building static mesh TOWERTEMPLE...
+[2020.01.29-06.16.37:338][585]LogStaticMesh: Built static mesh [0.04s] /Game/Underworld_Pack_for_FPSC/Underworld/TOWERTEMPLE.TOWERTEMPLE
+[2020.01.29-06.16.37:349][585]LogEditorFactories: -- imported successfully
+[2020.01.29-06.16.37:420][586]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/TOWER_1.obj)
+[2020.01.29-06.16.37:427][586]LogFbx: Loading FBX Scene from D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/TOWER_1.obj
+[2020.01.29-06.16.37:438][586]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.29-06.16.38:303][586]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.01.29-06.16.38:342][586]LogStaticMesh: Building static mesh TOWER_1...
+[2020.01.29-06.16.38:361][586]LogStaticMesh: Built static mesh [0.02s] /Game/Underworld_Pack_for_FPSC/Underworld/TOWER_1.TOWER_1
+[2020.01.29-06.16.38:406][587]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/TOWER_2.obj)
+[2020.01.29-06.16.38:416][587]LogFbx: Loading FBX Scene from D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/TOWER_2.obj
+[2020.01.29-06.16.38:431][587]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.29-06.16.39:202][587]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.01.29-06.16.39:238][587]LogStaticMesh: Building static mesh TOWER_2...
+[2020.01.29-06.16.39:257][587]LogStaticMesh: Built static mesh [0.02s] /Game/Underworld_Pack_for_FPSC/Underworld/TOWER_2.TOWER_2
+[2020.01.29-06.16.39:303][588]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/WallOrnament.fbx)
+[2020.01.29-06.16.39:314][588]LogFbx: Loading FBX Scene from D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/WallOrnament.fbx
+[2020.01.29-06.16.39:343][588]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.29-06.16.39:914][588]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.01.29-06.16.39:946][588]LogStaticMesh: Building static mesh WallOrnament...
+[2020.01.29-06.16.39:951][588]LogStaticMesh: Built static mesh [0.01s] /Game/Underworld_Pack_for_FPSC/Underworld/WallOrnament.WallOrnament
+[2020.01.29-06.16.39:986][589]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/WallOrnament.obj)
+[2020.01.29-06.16.39:987][589]LogEditorFactories: Performing atomic reimport of [D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/WallOrnament.obj]
+[2020.01.29-06.16.39:996][589]LogFbx: Loading FBX Scene from D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/WallOrnament.obj
+[2020.01.29-06.16.39:999][589]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.29-06.16.40:001][589]LogStaticMesh: Building static mesh WallOrnament...
+[2020.01.29-06.16.40:007][589]LogStaticMesh: Built static mesh [0.01s] /Game/Underworld_Pack_for_FPSC/Underworld/WallOrnament.WallOrnament
+[2020.01.29-06.16.40:013][589]LogEditorFactories: -- imported successfully
+[2020.01.29-06.16.40:088][590]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/Architecture/arch.bmp)
+[2020.01.29-06.16.40:099][590]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/Architecture/arch2.bmp)
+[2020.01.29-06.16.40:170][591]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Underworld Pack for FPSC/Underworld/Architecture/ARCHZ_d2.dds)
