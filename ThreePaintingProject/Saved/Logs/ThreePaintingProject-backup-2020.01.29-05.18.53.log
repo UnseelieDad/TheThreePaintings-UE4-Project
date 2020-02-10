@@ -1,0 +1,1362 @@
+﻿Log file open, 01/28/20 23:12:44
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: ThreePaintingProject
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.094735
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithC4DImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin DatasmithFBXImporter
+LogPluginManager: Mounting plugin DatasmithImporter
+LogPluginManager: Mounting plugin StaticMeshEditorExtension
+LogPluginManager: Mounting plugin VariantManager
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin BlastPlugin
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin DataPrepEditor
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogHMD: Failed initializing OVRPlugin 1.40.0
+LogInit: Build: ++UE4+Release-4.24-CL-10757647
+LogInit: Engine Version: 4.24.1-10757647+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz, GPU: Intel(R) HD Graphics 530
+LogInit: Compiled (64-bit): Dec 17 2019 02:08:03
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Games/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.01.29-05.12.45:724][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.01.29-05.12.45:724][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.01.29-05.12.45:724][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Saved/Config/Windows/Engine.ini]
+[2020.01.29-05.12.45:724][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.01.29-05.12.45:724][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Saved/Config/Windows/Engine.ini]
+[2020.01.29-05.12.45:724][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Saved/Config/Windows/Engine.ini]
+[2020.01.29-05.12.45:724][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.01.29-05.12.45:724][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.01.29-05.12.45:724][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.01.29-05.12.45:724][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.01.29-05.12.45:724][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.01.29-05.12.45:724][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.01.29-05.12.45:724][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.01.29-05.12.45:724][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.01.29-05.12.45:724][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.01.29-05.12.45:724][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.01.29-05.12.45:724][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.01.29-05.12.45:724][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.01.29-05.12.45:724][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.01.29-05.12.45:724][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.01.29-05.12.45:724][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Saved/Config/Windows/Engine.ini]
+[2020.01.29-05.12.45:724][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.01.29-05.12.45:724][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.01.29-05.12.45:724][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.01.29-05.12.45:724][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.01.29-05.12.45:724][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.01.29-05.12.45:724][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.01.29-05.12.45:724][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.01.29-05.12.45:724][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.01.29-05.12.45:724][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.01.29-05.12.45:724][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.01.29-05.12.45:725][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.01.29-05.12.45:725][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.01.29-05.12.45:725][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.01.29-05.12.45:725][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Saved/Config/Windows/Engine.ini]
+[2020.01.29-05.12.45:725][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Saved/Config/Windows/Engine.ini]
+[2020.01.29-05.12.45:726][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Saved/Config/Windows/Scalability.ini]
+[2020.01.29-05.12.45:726][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.01.29-05.12.45:726][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.01.29-05.12.45:726][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Saved/Config/Windows/Scalability.ini]
+[2020.01.29-05.12.45:726][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.01.29-05.12.45:726][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Saved/Config/Windows/Scalability.ini]
+[2020.01.29-05.12.45:726][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.01.29-05.12.45:726][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.01.29-05.12.45:726][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.01.29-05.12.45:726][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.01.29-05.12.45:726][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.01.29-05.12.45:726][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.01.29-05.12.45:726][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.01.29-05.12.45:726][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.01.29-05.12.45:726][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.01.29-05.12.45:726][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.01.29-05.12.45:726][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.01.29-05.12.45:726][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.01.29-05.12.45:726][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.01.29-05.12.45:726][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.01.29-05.12.45:726][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.01.29-05.12.45:726][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.01.29-05.12.45:726][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.01.29-05.12.45:726][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.01.29-05.12.45:727][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Saved/Config/Windows/Scalability.ini]
+[2020.01.29-05.12.45:727][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.01.29-05.12.45:727][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.01.29-05.12.45:727][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.01.29-05.12.45:727][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.01.29-05.12.45:727][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.01.29-05.12.45:727][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.01.29-05.12.45:727][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.01.29-05.12.45:727][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.01.29-05.12.45:727][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.01.29-05.12.45:727][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.01.29-05.12.45:727][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.01.29-05.12.45:727][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.01.29-05.12.45:727][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.01.29-05.12.45:727][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.01.29-05.12.45:727][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.01.29-05.12.45:727][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.01.29-05.12.45:727][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.01.29-05.12.45:727][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.01.29-05.12.45:727][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.01.29-05.12.45:727][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.01.29-05.12.45:727][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.01.29-05.12.45:727][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.01.29-05.12.45:727][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.01.29-05.12.45:727][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.01.29-05.12.45:727][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.01.29-05.12.45:727][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.01.29-05.12.45:727][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.01.29-05.12.45:727][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.01.29-05.12.45:727][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.01.29-05.12.45:727][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.01.29-05.12.45:727][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Saved/Config/Windows/Scalability.ini]
+[2020.01.29-05.12.45:727][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.01.29-05.12.45:727][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.01.29-05.12.45:727][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.01.29-05.12.45:727][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.01.29-05.12.45:727][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.01.29-05.12.45:727][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.01.29-05.12.45:727][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.01.29-05.12.45:727][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.01.29-05.12.45:727][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.01.29-05.12.45:727][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Saved/Config/Windows/Scalability.ini]
+[2020.01.29-05.12.45:727][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.01.29-05.12.45:727][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.01.29-05.12.45:727][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.01.29-05.12.45:727][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.01.29-05.12.45:727][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.01.29-05.12.45:727][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.01.29-05.12.45:727][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.01.29-05.12.45:727][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.01.29-05.12.45:727][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.01.29-05.12.45:727][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.01.29-05.12.45:727][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.01.29-05.12.45:727][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.01.29-05.12.45:727][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.01.29-05.12.45:727][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.01.29-05.12.45:727][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.01.29-05.12.45:728][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.01.29-05.12.45:728][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.01.29-05.12.45:728][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.01.29-05.12.45:728][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.01.29-05.12.45:728][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.01.29-05.12.45:728][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.01.29-05.12.45:728][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.01.29-05.12.45:728][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.01.29-05.12.45:728][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.01.29-05.12.45:728][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.01.29-05.12.45:728][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.01.29-05.12.45:728][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Saved/Config/Windows/Scalability.ini]
+[2020.01.29-05.12.45:728][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.01.29-05.12.45:728][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.01.29-05.12.45:728][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Saved/Config/Windows/Scalability.ini]
+[2020.01.29-05.12.45:728][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.01.29-05.12.45:728][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.01.29-05.12.45:728][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.01.29-05.12.45:728][  0]LogInit: Selected Device Profile: [Windows]
+[2020.01.29-05.12.45:728][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.01.29-05.12.45:730][  0]LogHAL: Display: Platform has ~ 16 GB [17039155200 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.01.29-05.12.45:730][  0]LogInit: Going up to parent DeviceProfile []
+[2020.01.29-05.12.45:731][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Saved/Config/Windows/Scalability.ini]
+[2020.01.29-05.12.45:731][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.01.29-05.12.45:731][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.01.29-05.12.45:731][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Saved/Config/Windows/Scalability.ini]
+[2020.01.29-05.12.45:731][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.01.29-05.12.45:731][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Saved/Config/Windows/Scalability.ini]
+[2020.01.29-05.12.45:731][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.01.29-05.12.45:731][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.01.29-05.12.45:731][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.01.29-05.12.45:731][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.01.29-05.12.45:731][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.01.29-05.12.45:731][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.01.29-05.12.45:731][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.01.29-05.12.45:731][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.01.29-05.12.45:731][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.01.29-05.12.45:731][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.01.29-05.12.45:731][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.01.29-05.12.45:731][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.01.29-05.12.45:731][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.01.29-05.12.45:731][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.01.29-05.12.45:731][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.01.29-05.12.45:731][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.01.29-05.12.45:731][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.01.29-05.12.45:731][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.01.29-05.12.45:731][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Saved/Config/Windows/Scalability.ini]
+[2020.01.29-05.12.45:731][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.01.29-05.12.45:731][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.01.29-05.12.45:731][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.01.29-05.12.45:731][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.01.29-05.12.45:731][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.01.29-05.12.45:731][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.01.29-05.12.45:731][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.01.29-05.12.45:731][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.01.29-05.12.45:731][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.01.29-05.12.45:731][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.01.29-05.12.45:731][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.01.29-05.12.45:731][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.01.29-05.12.45:731][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.01.29-05.12.45:731][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.01.29-05.12.45:731][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.01.29-05.12.45:731][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.01.29-05.12.45:731][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.01.29-05.12.45:731][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.01.29-05.12.45:731][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.01.29-05.12.45:731][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.01.29-05.12.45:731][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.01.29-05.12.45:732][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.01.29-05.12.45:732][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.01.29-05.12.45:732][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.01.29-05.12.45:732][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.01.29-05.12.45:732][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.01.29-05.12.45:732][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.01.29-05.12.45:732][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.01.29-05.12.45:732][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.01.29-05.12.45:732][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.01.29-05.12.45:732][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Saved/Config/Windows/Scalability.ini]
+[2020.01.29-05.12.45:732][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.01.29-05.12.45:732][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.01.29-05.12.45:732][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.01.29-05.12.45:732][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.01.29-05.12.45:732][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.01.29-05.12.45:732][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.01.29-05.12.45:732][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.01.29-05.12.45:732][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.01.29-05.12.45:732][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.01.29-05.12.45:732][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Saved/Config/Windows/Scalability.ini]
+[2020.01.29-05.12.45:732][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.01.29-05.12.45:732][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.01.29-05.12.45:732][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.01.29-05.12.45:732][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.01.29-05.12.45:732][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.01.29-05.12.45:732][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.01.29-05.12.45:732][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.01.29-05.12.45:732][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.01.29-05.12.45:732][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.01.29-05.12.45:732][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.01.29-05.12.45:732][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.01.29-05.12.45:732][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.01.29-05.12.45:732][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.01.29-05.12.45:732][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.01.29-05.12.45:732][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.01.29-05.12.45:732][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.01.29-05.12.45:732][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.01.29-05.12.45:732][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.01.29-05.12.45:732][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.01.29-05.12.45:732][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.01.29-05.12.45:732][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.01.29-05.12.45:732][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.01.29-05.12.45:732][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.01.29-05.12.45:732][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.01.29-05.12.45:732][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.01.29-05.12.45:732][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.01.29-05.12.45:732][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Saved/Config/Windows/Scalability.ini]
+[2020.01.29-05.12.45:732][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.01.29-05.12.45:732][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.01.29-05.12.45:732][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Saved/Config/Windows/Scalability.ini]
+[2020.01.29-05.12.45:732][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.01.29-05.12.45:732][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.01.29-05.12.45:732][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.01.29-05.12.45:732][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.01.29-05.12.45:733][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.01.29-05.12.45:733][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.01.29-05.12.45:733][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Saved/Config/Windows/Engine.ini]
+[2020.01.29-05.12.45:733][  0]LogInit: Computer: DESKTOP-GPLBC1U
+[2020.01.29-05.12.45:733][  0]LogInit: User: Seth
+[2020.01.29-05.12.45:733][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.01.29-05.12.45:733][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.01.29-05.12.45:733][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.01.29-05.12.45:733][  0]LogMemory: Platform Memory Stats for Windows
+[2020.01.29-05.12.45:733][  0]LogMemory: Process Physical Memory: 111.45 MB used, 111.45 MB peak
+[2020.01.29-05.12.45:733][  0]LogMemory: Process Virtual Memory: 105.74 MB used, 105.74 MB peak
+[2020.01.29-05.12.45:733][  0]LogMemory: Physical Memory: 8384.70 MB used,  7865.10 MB free, 16249.80 MB total
+[2020.01.29-05.12.45:733][  0]LogMemory: Virtual Memory: 5182.35 MB used,  134212544.00 MB free, 134217728.00 MB total
+[2020.01.29-05.12.45:738][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.01.29-05.12.45:762][  0]LogInit: Using OS detected language (en-US).
+[2020.01.29-05.12.45:763][  0]LogInit: Using OS detected locale (en-US).
+[2020.01.29-05.12.45:764][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.01.29-05.12.45:947][  0]LogInit: Setting process to per monitor DPI aware
+[2020.01.29-05.12.46:007][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.01.29-05.12.46:007][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.01.29-05.12.46:307][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2020.01.29-05.12.46:307][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.01.29-05.12.46:307][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.01.29-05.12.46:307][  0]LogD3D11RHI: D3D11 adapters:
+[2020.01.29-05.12.46:396][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970M' (Feature Level 11_0)
+[2020.01.29-05.12.46:396][  0]LogD3D11RHI:       3029/0/8124 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.01.29-05.12.46:415][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2020.01.29-05.12.46:415][  0]LogD3D11RHI:       128/0/8124 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.01.29-05.12.46:418][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.01.29-05.12.46:418][  0]LogD3D11RHI:       0/0/8124 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.01.29-05.12.46:418][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.01.29-05.12.46:494][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.01.29-05.12.46:494][  0]LogD3D11RHI:     GPU DeviceId: 0x13d8 (for the marketing name, search the web for "GPU Device Id")
+[2020.01.29-05.12.46:494][  0]LogWindows: EnumDisplayDevices:
+[2020.01.29-05.12.46:494][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:1 D:1)
+[2020.01.29-05.12.46:495][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2020.01.29-05.12.46:495][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2020.01.29-05.12.46:496][  0]LogWindows:    3. 'NVIDIA GeForce GTX 970M' (P:0 D:0)
+[2020.01.29-05.12.46:496][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2020.01.29-05.12.46:496][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970M
+[2020.01.29-05.12.46:496][  0]LogD3D11RHI:   Driver Version: 441.20 (internal:26.21.14.4120, unified:441.20)
+[2020.01.29-05.12.46:496][  0]LogD3D11RHI:      Driver Date: 11-6-2019
+[2020.01.29-05.12.46:496][  0]LogRHI: Texture pool is 2120 MB (70% of 3029 MB)
+[2020.01.29-05.12.46:579][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.01.29-05.12.46:579][  0]LogD3D11RHI: Async texture creation enabled
+[2020.01.29-05.12.46:601][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.01.29-05.12.47:090][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.01.29-05.12.47:127][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.01.29-05.12.47:127][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.01.29-05.12.47:127][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.01.29-05.12.47:127][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.01.29-05.12.47:127][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.01.29-05.12.47:127][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.01.29-05.12.47:127][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.01.29-05.12.47:127][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.01.29-05.12.47:127][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.01.29-05.12.47:127][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.01.29-05.12.47:127][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.01.29-05.12.47:127][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.01.29-05.12.47:127][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.01.29-05.12.47:127][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.01.29-05.12.47:127][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.01.29-05.12.47:127][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.01.29-05.12.47:127][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.01.29-05.12.47:127][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.01.29-05.12.47:147][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.01.29-05.12.47:147][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.01.29-05.12.47:158][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.01.29-05.12.47:166][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.01.29-05.12.47:173][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.01.29-05.12.47:181][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.01.29-05.12.47:189][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.01.29-05.12.47:196][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.01.29-05.12.47:220][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.01.29-05.12.47:220][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.01.29-05.12.47:241][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.01.29-05.12.47:241][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.01.29-05.12.47:250][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.01.29-05.12.47:263][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.01.29-05.12.47:273][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.01.29-05.12.47:282][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.01.29-05.12.47:282][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.01.29-05.12.47:286][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.01.29-05.12.47:313][  0]LogShaderCompilers: Guid format shader working directory is -28 characters bigger than the processId version (../../../../../GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Intermediate/Shaders/WorkingDirectory/24340/).
+[2020.01.29-05.12.47:313][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Seth/AppData/Local/Temp/UnrealShaderWorkingDir/1500B3A24F3FD48464D366B9F93DA2DD/'.
+[2020.01.29-05.12.47:313][  0]LogXGEController: Cleaning working directory: C:/Users/Seth/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.01.29-05.12.47:314][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.01.29-05.12.47:314][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.01.29-05.12.47:314][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.01.29-05.12.48:203][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.01.29-05.12.48:277][  0]LogDerivedDataCache: Loaded boot cache 0.07s 98MB C:/Users/Seth/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.01.29-05.12.48:278][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Seth/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.01.29-05.12.48:278][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.01.29-05.12.48:278][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.01.29-05.12.48:278][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.01.29-05.12.48:278][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.01.29-05.12.48:292][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.01.29-05.12.48:292][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.01.29-05.12.48:292][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.01.29-05.12.48:294][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Seth/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.01.29-05.12.48:294][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.01.29-05.12.48:294][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.01.29-05.12.48:329][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.01.29-05.12.48:332][  0]LogSlate: Using FreeType 2.10.0
+[2020.01.29-05.12.48:332][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.01.29-05.12.48:400][  0]LogAssetRegistry: FAssetRegistry took 0.0027 seconds to start up
+[2020.01.29-05.12.48:826][  0]LogInit: Selected Device Profile: [Windows]
+[2020.01.29-05.12.49:035][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.01.29-05.12.49:035][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.01.29-05.12.49:035][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.01.29-05.12.49:035][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.01.29-05.12.49:035][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.01.29-05.12.49:048][  0]LogNetVersion: ThreePaintingProject 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 3160085242)
+[2020.01.29-05.12.50:362][  0]LogPackageLocalizationCache: Processed 15 localized package path(s) for 1 prioritized culture(s) in 0.067892 seconds
+[2020.01.29-05.12.50:370][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2020.01.29-05.12.50:370][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2020.01.29-05.12.50:370][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.01.29-05.12.50:823][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.01.29-05.12.50:827][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.01.29-05.12.50:889][  0]SourceControl: Source control is disabled
+[2020.01.29-05.12.52:635][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.01.29-05.12.52:645][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.01.29-05.12.52:645][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.01.29-05.12.52:711][  0]LogOcInput: OculusInput pre-init called
+[2020.01.29-05.12.53:470][  0]LogEngine: Initializing Engine...
+[2020.01.29-05.12.53:527][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2020.01.29-05.12.53:528][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.01.29-05.12.53:955][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.01.29-05.12.53:962][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.01.29-05.12.53:996][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.01.29-05.12.53:996][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.01.29-05.12.53:996][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.01.29-05.12.53:996][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.01.29-05.12.53:996][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.01.29-05.12.53:996][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.01.29-05.12.53:996][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.01.29-05.12.53:996][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.01.29-05.12.53:996][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.01.29-05.12.53:996][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.01.29-05.12.54:031][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.01.29-05.12.54:032][  0]LogAudioMixer: Display: Name: Speakers (Sound Blaster Recon3Di)
+[2020.01.29-05.12.54:032][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.01.29-05.12.54:032][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.01.29-05.12.54:032][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.01.29-05.12.54:032][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.01.29-05.12.54:032][  0]LogAudioMixer: Display: Channel Order:
+[2020.01.29-05.12.54:032][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.01.29-05.12.54:032][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.01.29-05.12.54:226][  0]LogAudioMixer: Display: Using Audio Device Speakers (Sound Blaster Recon3Di)
+[2020.01.29-05.12.54:232][  0]LogInit: FAudioDevice initialized.
+[2020.01.29-05.12.54:232][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.01.29-05.12.54:945][  0]LogDerivedDataCache: Saved boot cache 0.71s 98MB C:/Users/Seth/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.01.29-05.12.54:946][  0]LogInit: Texture streaming: Enabled
+[2020.01.29-05.12.54:958][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.01.29-05.12.54:958][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.01.29-05.12.54:966][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.01.29-05.12.55:041][  0]LogInit: Transaction tracking system initialized
+[2020.01.29-05.12.55:054][  0]BlueprintLog: New page: Editor Load
+[2020.01.29-05.12.55:100][  0]LocalizationService: Localization service is disabled
+[2020.01.29-05.12.55:450][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/' took 0.00s
+[2020.01.29-05.12.55:450][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.01.29-05.12.55:450][  0]LogCook: Display: Mobile HDR setting 1
+[2020.01.29-05.12.56:512][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.01.29-05.12.56:514][  0]LightingResults: New page: Lighting Build
+[2020.01.29-05.12.56:514][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.01.29-05.12.56:515][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.29-05.12.56:515][  0]MapCheck: New page: Map Check
+[2020.01.29-05.12.56:515][  0]LightingResults: New page: Lighting Build
+[2020.01.29-05.12.56:546][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2020.01.29-05.12.56:640][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2020.01.29-05.12.56:648][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.01.29-05.12.56:678][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2020.01.29-05.12.56:678][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.01.29-05.12.56:678][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.139ms to complete.
+[2020.01.29-05.12.56:679][  0]LogFileHelpers: Loading map 'Template_Default' took 0.166
+[2020.01.29-05.12.56:840][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.29-05.12.56:854][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.29-05.12.56:865][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.29-05.12.56:873][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.29-05.12.56:882][  0]LogCollectionManager: Loaded 0 collections in 0.000937 seconds
+[2020.01.29-05.12.56:899][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Saved/Collections/' took 0.00s
+[2020.01.29-05.12.56:899][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Developers/Seth/Collections/' took 0.00s
+[2020.01.29-05.12.56:899][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Collections/' took 0.00s
+[2020.01.29-05.12.56:900][  0]LogContentBrowser: Native class hierarchy populated in 0.0129 seconds. Added 3203 classes and 790 folders.
+[2020.01.29-05.12.56:902][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2020.01.29-05.12.56:962][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.01.29-05.12.56:963][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2020.01.29-05.12.57:034][  0]LogSlate: Took 0.000202 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.01.29-05.12.57:038][  0]LogSlate: Took 0.000282 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.01.29-05.12.57:049][  0]LogSlate: Took 0.000217 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.01.29-05.12.57:172][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2020.01.29-05.12.57:309][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.01.29-05.12.57:309][  0]LogLoad: (Engine Initialization) Total time: 14.10 seconds
+[2020.01.29-05.12.57:309][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.01.29-05.12.57:377][  0]LogAssetRegistry: Asset discovery search completed in 8.9783 seconds
+[2020.01.29-05.12.57:381][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000009 seconds (updated 0 objects)
+[2020.01.29-05.12.57:384][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.01.29-05.13.35:045][512]LogSlate: Window 'Choose Location for importing the scene content' being destroyed
+[2020.01.29-05.13.35:067][512]LogSlate: Took 0.000301 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.01.29-05.13.35:653][512]LogFactory: FactoryCreateFile: World with FbxSceneImportFactory (0 0 ../../../../../Downloads/OBJ/Room.obj)
+[2020.01.29-05.13.36:133][512]LogFbx: Loading FBX Scene from ../../../../../Downloads/OBJ/Room.obj
+[2020.01.29-05.13.53:330][512]LogFbx: FBX Scene Loaded Succesfully
+[2020.01.29-05.14.31:393][512]LogSlate: Window 'FBX Scene Import Options' being destroyed
+[2020.01.29-05.14.31:608][512]LogLinker: Failed to load '/Game/MuseumRoom/default1': Can't find file.
+[2020.01.29-05.14.31:609][512]LogLinker: Failed to load '/Game/MuseumRoom/default1': Can't find file.
+[2020.01.29-05.14.31:617][512]LogMaterial: Display: Missing cached shader map for material default1, compiling. 
+[2020.01.29-05.14.31:667][512]LogFbx: Display: Triangulating static mesh default
+[2020.01.29-05.14.31:733][512]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2020.01.29-05.14.31:733][512]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.01.29-05.14.31:733][512]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.01.29-05.14.31:733][512]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.01.29-05.14.31:735][512]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2020.01.29-05.14.31:738][512]PIE: Warning: AttachTo: '/Temp/Untitled_1.Untitled_1:PersistentLevel.FbxScene_Room_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Room"), cannot attach '/Temp/Untitled_1.Untitled_1:PersistentLevel.FbxScene_Room_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2020.01.29-05.14.31:739][512]PIE: Warning: AttachTo: '/Temp/Untitled_1.Untitled_1:PersistentLevel.FbxScene_Room.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Room"), cannot attach '/Temp/Untitled_1.Untitled_1:PersistentLevel.FbxScene_Room.DefaultSceneRoot1' which is static to it. Aborting.
+[2020.01.29-05.14.31:745][512]PIE: Warning: AttachTo: '/Temp/Untitled_1.Untitled_1:PersistentLevel.FbxScene_Room.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Room"), cannot attach '/Temp/Untitled_1.Untitled_1:PersistentLevel.FbxScene_Room.DefaultSceneRoot1' which is static to it. Aborting.
+[2020.01.29-05.14.31:746][512]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MuseumRoom/FbxScene_Room.FbxScene_Room
+[2020.01.29-05.14.32:059][512]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 121 classes and 0 folders.
+[2020.01.29-05.14.33:563][512]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.01.29-05.14.33:563][512]FBXImport: Warning: Unable to triangulate mesh '' 
+[2020.01.29-05.14.33:677][512]PIE: Warning: AttachTo: '/Engine/Transient.World_0:PersistentLevel.FbxScene_Room_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Room"), cannot attach '/Engine/Transient.World_0:PersistentLevel.FbxScene_Room_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2020.01.29-05.14.33:707][512]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: 'None' is not a standard unreal filename or a long path name. Reason: Path should start with a '/'
+[2020.01.29-05.14.33:726][512]LogSlate: Took 0.000182 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.01.29-05.14.33:775][512]PIE: Warning: AttachTo: '/Engine/Transient.World_0:PersistentLevel.FbxScene_Room_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Room"), cannot attach '/Engine/Transient.World_0:PersistentLevel.FbxScene_Room_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2020.01.29-05.14.33:803][512]LogRenderer: Reallocating scene render targets to support 1208x712 Format 10 NumSamples 1 (Frame:1).
+[2020.01.29-05.14.34:043][519]SourceControl: fatal: D:/Games/UE_4.24/Engine/Binaries/Win64: 'D:/Games/UE_4.24/Engine/Binaries/Win64' is outside repository
+[2020.01.29-05.14.34:043][519]SourceControl: fatal: /Temp: '/Temp' is outside repository
+[2020.01.29-05.14.34:044][519]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: 'None' is not a standard unreal filename or a long path name. Reason: Path should start with a '/'
+[2020.01.29-05.14.43:157][ 61]LogSlate: Window 'Message Log' being destroyed
+[2020.01.29-05.14.43:165][ 61]LogSlate: Window 'Message Log' being destroyed
+[2020.01.29-05.15.01:399][133]LogSlate: Took 0.000193 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.01.29-05.15.05:408][357]LogSlate: Window 'FbxScene_Room' being destroyed
+[2020.01.29-05.15.05:417][357]LogSlate: Window 'FbxScene_Room' being destroyed
+[2020.01.29-05.15.05:431][357]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.01.29-05.15.05:432][357]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.29-05.15.09:939][622]LogUObjectHash: Compacting FUObjectHashTables data took   5.39ms
+[2020.01.29-05.15.11:881][622]LogSlate: Window 'Delete Assets' being destroyed
+[2020.01.29-05.15.13:393][622]LogUObjectGlobals: Force Deleting 3 Package(s):
+	Asset Name: /Game/MuseumRoom/Room.Room
+	Asset Name: /Game/MuseumRoom/FbxScene_Room.FbxScene_Room
+	Asset Name: /Game/MuseumRoom/default1.default1
+[2020.01.29-05.15.13:930][622]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2020.01.29-05.15.14:669][622]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2020.01.29-05.15.27:068][770]LogSlate: Window 'Choose Location for importing the Datasmith content' being destroyed
+[2020.01.29-05.15.27:225][770]LogFactory: FactoryCreateFile: DatasmithScene with DatasmithImportFactory (0 0 ../../../../../Downloads/C4d/Room.c4d)
+[2020.01.29-05.15.29:293][770]LogSlate: Window 'Datasmith Import Options' being destroyed
+[2020.01.29-05.15.29:551][770]LogDatasmithC4DImport: Melange SDK successfully read the file '../../../../../Downloads/C4d/Room.c4d' (read 51334092 out of 51334092 bytes, version 18041)
+[2020.01.29-05.15.32:374][770]LogDatasmithC4DImport: Error: Could not import the object "Wand_Fenster": DataCache != nullptr
+[2020.01.29-05.15.33:968][770]LogDatasmithC4DImport: Error: Could not import the object "Klon": DataCache != nullptr
+[2020.01.29-05.15.33:968][770]LogDatasmithC4DImport: Error: Could not import the object "Klon.1": DataCache != nullptr
+[2020.01.29-05.15.33:969][770]LogDatasmithC4DImport: Error: Could not import the object "Licht": DataCache != nullptr
+[2020.01.29-05.15.33:971][770]LogDatasmithC4DImport: Error: Could not import the object "Licht": DataCache != nullptr
+[2020.01.29-05.15.33:974][770]LogDatasmithC4DImport: Error: Could not import the object "Licht": DataCache != nullptr
+[2020.01.29-05.15.38:193][770]LogStaticMesh: Building static mesh Cube...
+[2020.01.29-05.15.38:193][770]LogStaticMesh: ... ding static mesh Cube_001...
+[2020.01.29-05.15.38:193][770]LogStaticMesh: Building static mesh Cube_002...
+[2020.01.29-05.15.38:193][770]LogStaticMesh: .
+[2020.01.29-05.15.38:193][770]LogStaticMesh: Building static mesh Cube_001_2...
+[2020.01.29-05.15.38:194][770]LogStaticMesh: Building static mesh Cube_002_2...
+[2020.01.29-05.15.40:036][770]LogStaticMesh: Built static mesh [1.62s] /Game/MuseumRoom/Room/Geometries/Cube_2.Cube_2
+[2020.01.29-05.15.40:036][770]LogStaticMesh: Built static mesh [1.68s] /Game/MuseumRoom/Room/Geometries/Cube_001.Cube_001
+[2020.01.29-05.15.40:036][770]LogStaticMesh: Built static mesh [1.72s] /Game/MuseumRoom/Room/Geometries/Cube.Cube
+[2020.01.29-05.15.40:036][770]LogStaticMesh: Built static mesh [1.73s] /Game/MuseumRoom/Room/Geometries/Cube_001_2.Cube_001_2
+[2020.01.29-05.15.40:036][770]LogStaticMesh: Warning: Cube_2 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2020.01.29-05.15.40:036][770]LogStaticMesh: Warning: Cube_2 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.40:036][770]LogStaticMesh: Warning: Cube_2 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.40:036][770]LogStaticMesh: Warning: Cube_2 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.40:036][770]LogStaticMesh: Building static mesh lamp_base_Boole2_antidamage_extr_Cap_22...
+[2020.01.29-05.15.40:036][770]LogStaticMesh: Built static mesh [0.00s] /Game/MuseumRoom/Room/Geometries/lamp_base_Boole2_antidamage_extr_Cap_22.lamp_base_Boole2_antidamage_extr_Cap_22
+[2020.01.29-05.15.40:036][770]LogStaticMesh: Building static mesh lamp_base_Boole2_antidamage_extr_Cap_19...
+[2020.01.29-05.15.40:036][770]LogStaticMesh: Built static mesh [0.00s] /Game/MuseumRoom/Room/Geometries/lamp_base_Boole2_antidamage_extr_Cap_19.lamp_base_Boole2_antidamage_extr_Cap_19
+[2020.01.29-05.15.40:036][770]LogStaticMesh: Building static mesh lamp_base_Boole2_antidamage_extr...
+[2020.01.29-05.15.40:036][770]LogStaticMesh: Built static mesh [0.01s] /Game/MuseumRoom/Room/Geometries/lamp_base_Boole2_antidamage_extr.lamp_base_Boole2_antidamage_extr
+[2020.01.29-05.15.40:036][770]LogStaticMesh: Building static mesh lamp_base_Boole2_Cylinder21...
+[2020.01.29-05.15.40:036][770]LogStaticMesh: Warning: Cube has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2020.01.29-05.15.40:036][770]LogStaticMesh: Warning: Cube has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.40:036][770]LogStaticMesh: Warning: Cube has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.40:036][770]LogStaticMesh: Warning: Cube has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.40:036][770]LogStaticMesh: Building static mesh lamp_base_Boole2_Vyta_en__Cap_23...
+[2020.01.29-05.15.40:352][770]LogStaticMesh: Built static mesh [0.01s] /Game/MuseumRoom/Room/Geometries/lamp_base_Boole2_Vyta_en__Cap_23.lamp_base_Boole2_Vyta_en__Cap_23
+[2020.01.29-05.15.40:352][770]LogStaticMesh: Building static mesh lamp_base_Boole2_Vyta_en__Cap_17...
+[2020.01.29-05.15.40:352][770]LogStaticMesh: Built static mesh [0.00s] /Game/MuseumRoom/Room/Geometries/lamp_base_Boole2_Vyta_en__Cap_17.lamp_base_Boole2_Vyta_en__Cap_17
+[2020.01.29-05.15.40:352][770]LogStaticMesh: Building static mesh lamp_base_Boole2_Vyta_en_...
+[2020.01.29-05.15.40:352][770]LogStaticMesh: Built static mesh [0.04s] /Game/MuseumRoom/Room/Geometries/lamp_base_Boole2_Cylinder21.lamp_base_Boole2_Cylinder21
+[2020.01.29-05.15.40:352][770]LogStaticMesh: Built static mesh [0.01s] /Game/MuseumRoom/Room/Geometries/lamp_base_Boole2_Vyta_en_.lamp_base_Boole2_Vyta_en_
+[2020.01.29-05.15.40:352][770]LogStaticMesh: Building static mesh lamp_base_stickright_stickright1...
+[2020.01.29-05.15.40:352][770]LogStaticMesh: Building static mesh lamp_base_Symmetry_1_mot_Extrude1_Cap_25...
+[2020.01.29-05.15.40:352][770]LogStaticMesh: Built static mesh [0.01s] /Game/MuseumRoom/Room/Geometries/lamp_base_Symmetry_1_mot_Extrude1_Cap_25.lamp_base_Symmetry_1_mot_Extrude1_Cap_25
+[2020.01.29-05.15.40:352][770]LogStaticMesh: Building static mesh lamp_base_Symmetry_1_mot_Extrude1_Cap_15...
+[2020.01.29-05.15.40:352][770]LogStaticMesh: Built static mesh [0.01s] /Game/MuseumRoom/Room/Geometries/lamp_base_Symmetry_1_mot_Extrude1_Cap_15.lamp_base_Symmetry_1_mot_Extrude1_Cap_15
+[2020.01.29-05.15.40:352][770]LogStaticMesh: Building static mesh lamp_base_Symmetry_1_mot_Extrude1...
+[2020.01.29-05.15.40:352][770]LogStaticMesh: Built static mesh [0.01s] /Game/MuseumRoom/Room/Geometries/lamp_base_Symmetry_1_mot_Extrude1.lamp_base_Symmetry_1_mot_Extrude1
+[2020.01.29-05.15.40:352][770]LogStaticMesh: Building static mesh lamp_base_Symmetry_1_mot_Tube1...
+[2020.01.29-05.15.40:352][770]LogStaticMesh: Built static mesh [0.03s] /Game/MuseumRoom/Room/Geometries/lamp_base_Symmetry_1_mot_Tube1.lamp_base_Symmetry_1_mot_Tube1
+[2020.01.29-05.15.40:352][770]LogStaticMesh: Building static mesh lamp_base_Symmetry_1_mot_Tube_12...
+[2020.01.29-05.15.40:352][770]LogStaticMesh: Built static mesh [0.02s] /Game/MuseumRoom/Room/Geometries/lamp_base_Symmetry_1_mot_Tube_12.lamp_base_Symmetry_1_mot_Tube_12
+[2020.01.29-05.15.40:352][770]LogStaticMesh: Building static mesh lamp_base_Cylinder10...
+[2020.01.29-05.15.40:352][770]LogStaticMesh: Built static mesh [0.05s] /Game/MuseumRoom/Room/Geometries/lamp_base_Cylinder10.lamp_base_Cylinder10
+[2020.01.29-05.15.40:353][770]LogStaticMesh: Building static mesh lamp_base_pitchforkdown_Symetrie_Krychle_11_Krychle_1...
+[2020.01.29-05.15.40:353][770]LogStaticMesh: Built static mesh [0.25s] /Game/MuseumRoom/Room/Geometries/lamp_base_stickright_stickright1.lamp_base_stickright_stickright1
+[2020.01.29-05.15.40:353][770]LogStaticMesh: Building static mesh lamp_base_pitchforkdown_Symmetry1_screw...
+[2020.01.29-05.15.40:353][770]LogStaticMesh: Building static mesh lamp_base_pitchforkdown_Trubka...
+[2020.01.29-05.15.41:164][770]LogStaticMesh: Building static mesh lamp_base_pitchforkdown_Krychle...
+[2020.01.29-05.15.41:164][770]LogStaticMesh: Built static mesh [2.20s] /Game/MuseumRoom/Room/Geometries/Cube_002_2.Cube_002_2
+[2020.01.29-05.15.41:164][770]LogStaticMesh: Built static mesh [0.05s] /Game/MuseumRoom/Room/Geometries/lamp_base_pitchforkdown_Trubka.lamp_base_pitchforkdown_Trubka
+[2020.01.29-05.15.41:164][770]LogStaticMesh: Built static mesh [0.08s] /Game/MuseumRoom/Room/Geometries/lamp_base_pitchforkdown_Symmetry1_screw.lamp_base_pitchforkdown_Symmetry1_screw
+[2020.01.29-05.15.41:164][770]LogStaticMesh: Warning: lamp_base_pitchforkdown_Trubka has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:164][770]LogStaticMesh: Warning: lamp_base_pitchforkdown_Trubka has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:164][770]LogStaticMesh: Building static mesh lamp_leglow_longstickbase...
+[2020.01.29-05.15.41:164][770]LogStaticMesh: Building static mesh lamp_leglow_Boole3_Extrude3...
+[2020.01.29-05.15.41:164][770]LogStaticMesh: Built static mesh [0.01s] /Game/MuseumRoom/Room/Geometries/lamp_leglow_Boole3_Extrude3.lamp_leglow_Boole3_Extrude3
+[2020.01.29-05.15.41:164][770]LogStaticMesh: Building static mesh lamp_leglow_Boole3_longstick_low...
+[2020.01.29-05.15.41:164][770]LogStaticMesh: Built static mesh [0.02s] /Game/MuseumRoom/Room/Geometries/lamp_leglow_longstickbase.lamp_leglow_longstickbase
+[2020.01.29-05.15.41:164][770]LogStaticMesh: Building static mesh lamp_leglow_Cube1...
+[2020.01.29-05.15.41:164][770]LogStaticMesh: Built static mesh [0.02s] /Game/MuseumRoom/Room/Geometries/lamp_leglow_Boole3_longstick_low.lamp_leglow_Boole3_longstick_low
+[2020.01.29-05.15.41:164][770]LogStaticMesh: Building static mesh lamp_leglow_Tube3...
+[2020.01.29-05.15.41:164][770]LogStaticMesh: Built static mesh [0.04s] /Game/MuseumRoom/Room/Geometries/lamp_base_pitchforkdown_Krychle.lamp_base_pitchforkdown_Krychle
+[2020.01.29-05.15.41:164][770]LogStaticMesh: Building static mesh lamp_leglow_Cylinder_1...
+[2020.01.29-05.15.41:164][770]LogStaticMesh: Built static mesh [0.01s] /Game/MuseumRoom/Room/Geometries/lamp_leglow_Cylinder_1.lamp_leglow_Cylinder_1
+[2020.01.29-05.15.41:164][770]LogStaticMesh: Building static mesh lamp_leglow_Cylinder_2...
+[2020.01.29-05.15.41:164][770]LogStaticMesh: Built static mesh [0.02s] /Game/MuseumRoom/Room/Geometries/lamp_leglow_Tube3.lamp_leglow_Tube3
+[2020.01.29-05.15.41:164][770]LogStaticMesh: Building static mesh lamp_pichforkup_tri...
+[2020.01.29-05.15.41:164][770]LogStaticMesh: Built static mesh [0.01s] /Game/MuseumRoom/Room/Geometries/lamp_pichforkup_tri.lamp_pichforkup_tri
+[2020.01.29-05.15.41:164][770]LogStaticMesh: Building static mesh lamp_pichforkup_fork_Cube_11_Cube_1...
+[2020.01.29-05.15.41:164][770]LogStaticMesh: Built static mesh [0.02s] /Game/MuseumRoom/Room/Geometries/lamp_leglow_Cylinder_2.lamp_leglow_Cylinder_2
+[2020.01.29-05.15.41:164][770]LogStaticMesh: Building static mesh lamp_pichforkup_Symmetry_Tube_13...
+[2020.01.29-05.15.41:164][770]LogStaticMesh: Built static mesh [2.30s] /Game/MuseumRoom/Room/Geometries/Cube_002.Cube_002
+[2020.01.29-05.15.41:164][770]LogStaticMesh: Built static mesh [0.09s] /Game/MuseumRoom/Room/Geometries/lamp_leglow_Cube1.lamp_leglow_Cube1
+[2020.01.29-05.15.41:164][770]LogStaticMesh: Warning: lamp_leglow_Cube1 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:164][770]LogStaticMesh: Warning: lamp_leglow_Cube1 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:164][770]LogStaticMesh: Building static mesh lamp_pichforkup_stick_stickright3_stickright2...
+[2020.01.29-05.15.41:164][770]LogStaticMesh: Built static mesh [0.33s] /Game/MuseumRoom/Room/Geometries/lamp_base_pitchforkdown_Symetrie_Krychle_11_Krychle_1.lamp_base_pitchforkdown_Symetrie_Krychle_11_Krychle_1
+[2020.01.29-05.15.41:164][770]LogStaticMesh: Building static mesh lamp_pichforkup_stick_Symmetry_11_mot1_Extrude2_Cap_210...
+[2020.01.29-05.15.41:164][770]LogStaticMesh: Built static mesh [0.01s] /Game/MuseumRoom/Room/Geometries/lamp_pichforkup_stick_Symmetry_11_mot1_Extrude2_Cap_210.lamp_pichforkup_stick_Symmetry_11_mot1_Extrude2_Cap_210
+[2020.01.29-05.15.41:164][770]LogStaticMesh: Building static mesh lamp_pichforkup_stick_Symmetry_11_mot1_Extrude2_Cap_1...
+[2020.01.29-05.15.41:164][770]LogStaticMesh: Built static mesh [0.01s] /Game/MuseumRoom/Room/Geometries/lamp_pichforkup_stick_Symmetry_11_mot1_Extrude2_Cap_1.lamp_pichforkup_stick_Symmetry_11_mot1_Extrude2_Cap_1
+[2020.01.29-05.15.41:164][770]LogStaticMesh: Building static mesh lamp_pichforkup_stick_Symmetry_11_mot1_Extrude2...
+[2020.01.29-05.15.41:165][770]LogStaticMesh: Built static mesh [0.02s] /Game/MuseumRoom/Room/Geometries/lamp_pichforkup_stick_Symmetry_11_mot1_Extrude2.lamp_pichforkup_stick_Symmetry_11_mot1_Extrude2
+[2020.01.29-05.15.41:165][770]LogStaticMesh: Building static mesh lamp_pichforkup_stick_Symmetry_11_mot1_Tube2...
+[2020.01.29-05.15.41:165][770]LogStaticMesh: Built static mesh [0.12s] /Game/MuseumRoom/Room/Geometries/lamp_pichforkup_fork_Cube_11_Cube_1.lamp_pichforkup_fork_Cube_11_Cube_1
+[2020.01.29-05.15.41:165][770]LogStaticMesh: Building static mesh lamp_pichforkup_stick_Symmetry_11_mot1_Tube_1...
+[2020.01.29-05.15.41:165][770]LogStaticMesh: Built static mesh [0.03s] /Game/MuseumRoom/Room/Geometries/lamp_pichforkup_stick_Symmetry_11_mot1_Tube2.lamp_pichforkup_stick_Symmetry_11_mot1_Tube2
+[2020.01.29-05.15.41:165][770]LogStaticMesh: Building static mesh lamp_Tube_11...
+[2020.01.29-05.15.41:165][770]LogStaticMesh: Built static mesh [0.03s] /Game/MuseumRoom/Room/Geometries/lamp_pichforkup_stick_Symmetry_11_mot1_Tube_1.lamp_pichforkup_stick_Symmetry_11_mot1_Tube_1
+[2020.01.29-05.15.41:165][770]LogStaticMesh: Building static mesh lamp_legup_longstickbase1...
+[2020.01.29-05.15.41:165][770]LogStaticMesh: Built static mesh [0.02s] /Game/MuseumRoom/Room/Geometries/lamp_legup_longstickbase1.lamp_legup_longstickbase1
+[2020.01.29-05.15.41:165][770]LogStaticMesh: Building static mesh lamp_legup_Boole1_Extrude...
+[2020.01.29-05.15.41:165][770]LogStaticMesh: Built static mesh [0.04s] /Game/MuseumRoom/Room/Geometries/lamp_Tube_11.lamp_Tube_11
+[2020.01.29-05.15.41:165][770]LogStaticMesh: Warning: lamp_Tube_11 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:165][770]LogStaticMesh: Warning: lamp_Tube_11 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:165][770]LogStaticMesh: Building static mesh lamp_legup_Boole1_longstick_low1...
+[2020.01.29-05.15.41:165][770]LogStaticMesh: Built static mesh [0.01s] /Game/MuseumRoom/Room/Geometries/lamp_legup_Boole1_Extrude.lamp_legup_Boole1_Extrude
+[2020.01.29-05.15.41:165][770]LogStaticMesh: Building static mesh lamp_legup_Cylinder24...
+[2020.01.29-05.15.41:165][770]LogStaticMesh: Built static mesh [0.18s] /Game/MuseumRoom/Room/Geometries/lamp_pichforkup_Symmetry_Tube_13.lamp_pichforkup_Symmetry_Tube_13
+[2020.01.29-05.15.41:165][770]LogStaticMesh: Warning: lamp_pichforkup_Symmetry_Tube_13 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:165][770]LogStaticMesh: Warning: lamp_pichforkup_Symmetry_Tube_13 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:165][770]LogStaticMesh: Building static mesh lamp_legup_Cylinder_3...
+[2020.01.29-05.15.41:165][770]LogStaticMesh: Built static mesh [0.02s] /Game/MuseumRoom/Room/Geometries/lamp_legup_Cylinder24.lamp_legup_Cylinder24
+[2020.01.29-05.15.41:165][770]LogStaticMesh: Building static mesh lamp_legup_Cube4...
+[2020.01.29-05.15.41:165][770]LogStaticMesh: Built static mesh [0.02s] /Game/MuseumRoom/Room/Geometries/lamp_legup_Boole1_longstick_low1.lamp_legup_Boole1_longstick_low1
+[2020.01.29-05.15.41:165][770]LogStaticMesh: Building static mesh lamp_legup_Tube...
+[2020.01.29-05.15.41:165][770]LogStaticMesh: Built static mesh [0.02s] /Game/MuseumRoom/Room/Geometries/lamp_legup_Cylinder_3.lamp_legup_Cylinder_3
+[2020.01.29-05.15.41:165][770]LogStaticMesh: Building static mesh lamp_legup_clip_Rounding_21_Cap_26...
+[2020.01.29-05.15.41:165][770]LogStaticMesh: Built static mesh [0.00s] /Game/MuseumRoom/Room/Geometries/lamp_legup_clip_Rounding_21_Cap_26.lamp_legup_clip_Rounding_21_Cap_26
+[2020.01.29-05.15.41:165][770]LogStaticMesh: Building static mesh lamp_legup_clip_Rounding_21...
+[2020.01.29-05.15.41:165][770]LogStaticMesh: Built static mesh [0.02s] /Game/MuseumRoom/Room/Geometries/lamp_legup_Tube.lamp_legup_Tube
+[2020.01.29-05.15.41:165][770]LogStaticMesh: Building static mesh lamp_legup_clip_Rounding_1_Cap_14...
+[2020.01.29-05.15.41:165][770]LogStaticMesh: Built static mesh [0.01s] /Game/MuseumRoom/Room/Geometries/lamp_legup_clip_Rounding_21.lamp_legup_clip_Rounding_21
+[2020.01.29-05.15.41:165][770]LogStaticMesh: Building static mesh lamp_legup_clip_Rounding_1...
+[2020.01.29-05.15.41:165][770]LogStaticMesh: Built static mesh [0.00s] /Game/MuseumRoom/Room/Geometries/lamp_legup_clip_Rounding_1_Cap_14.lamp_legup_clip_Rounding_1_Cap_14
+[2020.01.29-05.15.41:165][770]LogStaticMesh: Building static mesh lamp_legup_clip...
+[2020.01.29-05.15.41:165][770]LogStaticMesh: Built static mesh [0.01s] /Game/MuseumRoom/Room/Geometries/lamp_legup_clip.lamp_legup_clip
+[2020.01.29-05.15.41:165][770]LogStaticMesh: Building static mesh lamp_legup_Extrude_1_Rounding_2_Cap_27...
+[2020.01.29-05.15.41:165][770]LogStaticMesh: Built static mesh [0.00s] /Game/MuseumRoom/Room/Geometries/lamp_legup_Extrude_1_Rounding_2_Cap_27.lamp_legup_Extrude_1_Rounding_2_Cap_27
+[2020.01.29-05.15.41:165][770]LogStaticMesh: Building static mesh lamp_legup_Extrude_1_Rounding_2...
+[2020.01.29-05.15.41:166][770]LogStaticMesh: Built static mesh [0.01s] /Game/MuseumRoom/Room/Geometries/lamp_legup_clip_Rounding_1.lamp_legup_clip_Rounding_1
+[2020.01.29-05.15.41:166][770]LogStaticMesh: Building static mesh lamp_legup_Extrude_1_Rounding_11_Cap_12...
+[2020.01.29-05.15.41:166][770]LogStaticMesh: Built static mesh [0.00s] /Game/MuseumRoom/Room/Geometries/lamp_legup_Extrude_1_Rounding_11_Cap_12.lamp_legup_Extrude_1_Rounding_11_Cap_12
+[2020.01.29-05.15.41:166][770]LogStaticMesh: Building static mesh lamp_legup_Extrude_1_Rounding_11...
+[2020.01.29-05.15.41:166][770]LogStaticMesh: Built static mesh [0.01s] /Game/MuseumRoom/Room/Geometries/lamp_legup_Extrude_1_Rounding_2.lamp_legup_Extrude_1_Rounding_2
+[2020.01.29-05.15.41:166][770]LogStaticMesh: Building static mesh lamp_legup_Extrude_1...
+[2020.01.29-05.15.41:166][770]LogStaticMesh: Built static mesh [0.01s] /Game/MuseumRoom/Room/Geometries/lamp_legup_Extrude_1.lamp_legup_Extrude_1
+[2020.01.29-05.15.41:166][770]LogStaticMesh: Building static mesh lamp_legup_mainswitch_Cylinder9...
+[2020.01.29-05.15.41:166][770]LogStaticMesh: Built static mesh [0.01s] /Game/MuseumRoom/Room/Geometries/lamp_legup_Extrude_1_Rounding_11.lamp_legup_Extrude_1_Rounding_11
+[2020.01.29-05.15.41:166][770]LogStaticMesh: Building static mesh lamp_legup_mainswitch_clip1_Cylinder17...
+[2020.01.29-05.15.41:166][770]LogStaticMesh: Built static mesh [0.01s] /Game/MuseumRoom/Room/Geometries/lamp_legup_mainswitch_clip1_Cylinder17.lamp_legup_mainswitch_clip1_Cylinder17
+[2020.01.29-05.15.41:166][770]LogStaticMesh: Building static mesh lamp_legup_mainswitch_clip1_Extrude_21...
+[2020.01.29-05.15.41:166][770]LogStaticMesh: Built static mesh [0.01s] /Game/MuseumRoom/Room/Geometries/lamp_legup_mainswitch_clip1_Extrude_21.lamp_legup_mainswitch_clip1_Extrude_21
+[2020.01.29-05.15.41:166][770]LogStaticMesh: Building static mesh lamp_legup_mainswitch_clip1_Extrude_32...
+[2020.01.29-05.15.41:166][770]LogStaticMesh: Built static mesh [0.01s] /Game/MuseumRoom/Room/Geometries/lamp_legup_mainswitch_clip1_Extrude_32.lamp_legup_mainswitch_clip1_Extrude_32
+[2020.01.29-05.15.41:166][770]LogStaticMesh: Building static mesh lamp_legup_mainswitch_Boole4_Extrude_2...
+[2020.01.29-05.15.41:166][770]LogStaticMesh: Built static mesh [0.09s] /Game/MuseumRoom/Room/Geometries/lamp_legup_Cube4.lamp_legup_Cube4
+[2020.01.29-05.15.41:166][770]LogStaticMesh: Warning: lamp_legup_Cube4 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:166][770]LogStaticMesh: Warning: lamp_legup_Cube4 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:166][770]LogStaticMesh: Building static mesh lamp_legup_mainswitch_Boole4_switch_Extrude_31_Cap_11...
+[2020.01.29-05.15.41:166][770]LogStaticMesh: Built static mesh [0.00s] /Game/MuseumRoom/Room/Geometries/lamp_legup_mainswitch_Boole4_switch_Extrude_31_Cap_11.lamp_legup_mainswitch_Boole4_switch_Extrude_31_Cap_11
+[2020.01.29-05.15.41:166][770]LogStaticMesh: Built static mesh [0.01s] /Game/MuseumRoom/Room/Geometries/lamp_legup_mainswitch_Boole4_Extrude_2.lamp_legup_mainswitch_Boole4_Extrude_2
+[2020.01.29-05.15.41:166][770]LogStaticMesh: Building static mesh lamp_legup_mainswitch_Boole4_switch_Extrude_31...
+[2020.01.29-05.15.41:166][770]LogStaticMesh: Building static mesh lamp_legup_mainswitch_Boole4_switch_mainspace...
+[2020.01.29-05.15.41:166][770]LogStaticMesh: Built static mesh [0.01s] /Game/MuseumRoom/Room/Geometries/lamp_legup_mainswitch_Boole4_switch_Extrude_31.lamp_legup_mainswitch_Boole4_switch_Extrude_31
+[2020.01.29-05.15.41:166][770]LogStaticMesh: Building static mesh lamp_legup_Cylinder_11...
+[2020.01.29-05.15.41:166][770]LogStaticMesh: Built static mesh [0.26s] /Game/MuseumRoom/Room/Geometries/lamp_pichforkup_stick_stickright3_stickright2.lamp_pichforkup_stick_stickright3_stickright2
+[2020.01.29-05.15.41:166][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_4_bulb_54_Cloner24_Capsule_211...
+[2020.01.29-05.15.41:166][770]LogStaticMesh: Built static mesh [0.03s] /Game/MuseumRoom/Room/Geometries/lamp_legup_Cylinder_11.lamp_legup_Cylinder_11
+[2020.01.29-05.15.41:166][770]LogStaticMesh: Built static mesh [0.09s] /Game/MuseumRoom/Room/Geometries/lamp_legup_mainswitch_Cylinder9.lamp_legup_mainswitch_Cylinder9
+[2020.01.29-05.15.41:166][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_4_bulb_54_Cloner24_Capsule_13...
+[2020.01.29-05.15.41:166][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_4_bulb_54_Cloner24_Capsule_027...
+[2020.01.29-05.15.41:166][770]LogStaticMesh: Built static mesh [0.02s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_4_bulb_54_Cloner24_Capsule_211.lamp_legup_bulb_Cloner_1_4_bulb_54_Cloner24_Capsule_211
+[2020.01.29-05.15.41:166][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_4_bulb_54_Cloner24_Capsule_211 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:166][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_4_bulb_54_Cloner24_Capsule_211 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:166][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_4_bulb_54_Cube7...
+[2020.01.29-05.15.41:167][770]LogStaticMesh: Built static mesh [0.00s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_4_bulb_54_Cube7.lamp_legup_bulb_Cloner_1_4_bulb_54_Cube7
+[2020.01.29-05.15.41:167][770]LogStaticMesh: Built static mesh [0.03s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_4_bulb_54_Cloner24_Capsule_13.lamp_legup_bulb_Cloner_1_4_bulb_54_Cloner24_Capsule_13
+[2020.01.29-05.15.41:167][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_4_bulb_54_Cylinder14...
+[2020.01.29-05.15.41:167][770]LogStaticMesh: Built static mesh [0.02s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_4_bulb_54_Cloner24_Capsule_027.lamp_legup_bulb_Cloner_1_4_bulb_54_Cloner24_Capsule_027
+[2020.01.29-05.15.41:167][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_4_bulb_54_Cloner24_Capsule_027 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:167][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_4_bulb_54_Cloner24_Capsule_027 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:167][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_4_bulb_42_Cloner23_Capsule_24...
+[2020.01.29-05.15.41:167][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_4_bulb_54_Cloner24_Capsule_13 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:167][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_4_bulb_54_Cloner24_Capsule_13 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:167][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_4_bulb_42_Cloner23_Capsule_17...
+[2020.01.29-05.15.41:167][770]LogStaticMesh: Built static mesh [0.01s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_4_bulb_54_Cylinder14.lamp_legup_bulb_Cloner_1_4_bulb_54_Cylinder14
+[2020.01.29-05.15.41:167][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_4_bulb_42_Cloner23_Capsule_029...
+[2020.01.29-05.15.41:167][770]LogStaticMesh: Built static mesh [0.02s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_4_bulb_42_Cloner23_Capsule_17.lamp_legup_bulb_Cloner_1_4_bulb_42_Cloner23_Capsule_17
+[2020.01.29-05.15.41:167][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_4_bulb_42_Cloner23_Capsule_17 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:167][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_4_bulb_42_Cloner23_Capsule_17 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:167][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_4_bulb_42_Cube8...
+[2020.01.29-05.15.41:167][770]LogStaticMesh: Built static mesh [0.00s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_4_bulb_42_Cube8.lamp_legup_bulb_Cloner_1_4_bulb_42_Cube8
+[2020.01.29-05.15.41:167][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_4_bulb_42_Cylinder4...
+[2020.01.29-05.15.41:167][770]LogStaticMesh: Built static mesh [0.03s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_4_bulb_42_Cloner23_Capsule_24.lamp_legup_bulb_Cloner_1_4_bulb_42_Cloner23_Capsule_24
+[2020.01.29-05.15.41:167][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_4_bulb_42_Cloner23_Capsule_24 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:167][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_4_bulb_42_Cloner23_Capsule_24 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:167][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_4_bulb_31_Cloner22_Capsule_21...
+[2020.01.29-05.15.41:167][770]LogStaticMesh: Built static mesh [0.01s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_4_bulb_42_Cylinder4.lamp_legup_bulb_Cloner_1_4_bulb_42_Cylinder4
+[2020.01.29-05.15.41:167][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_4_bulb_31_Cloner22_Capsule_110...
+[2020.01.29-05.15.41:167][770]LogStaticMesh: Built static mesh [0.03s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_4_bulb_42_Cloner23_Capsule_029.lamp_legup_bulb_Cloner_1_4_bulb_42_Cloner23_Capsule_029
+[2020.01.29-05.15.41:167][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_4_bulb_42_Cloner23_Capsule_029 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:167][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_4_bulb_42_Cloner23_Capsule_029 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:167][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_4_bulb_31_Cloner22_Capsule_025...
+[2020.01.29-05.15.41:167][770]LogStaticMesh: Built static mesh [0.03s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_4_bulb_31_Cloner22_Capsule_21.lamp_legup_bulb_Cloner_1_4_bulb_31_Cloner22_Capsule_21
+[2020.01.29-05.15.41:167][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_4_bulb_31_Cloner22_Capsule_21 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:167][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_4_bulb_31_Cloner22_Capsule_21 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:167][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_4_bulb_31_Cube9...
+[2020.01.29-05.15.41:167][770]LogStaticMesh: Built static mesh [0.01s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_4_bulb_31_Cube9.lamp_legup_bulb_Cloner_1_4_bulb_31_Cube9
+[2020.01.29-05.15.41:167][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_4_bulb_31_Cylinder32...
+[2020.01.29-05.15.41:167][770]LogStaticMesh: Built static mesh [0.03s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_4_bulb_31_Cloner22_Capsule_110.lamp_legup_bulb_Cloner_1_4_bulb_31_Cloner22_Capsule_110
+[2020.01.29-05.15.41:167][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_4_bulb_31_Cloner22_Capsule_110 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:168][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_4_bulb_31_Cloner22_Capsule_110 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:168][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_4_bulb_22_Cloner21_Capsule_23...
+[2020.01.29-05.15.41:168][770]LogStaticMesh: Built static mesh [0.03s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_4_bulb_31_Cloner22_Capsule_025.lamp_legup_bulb_Cloner_1_4_bulb_31_Cloner22_Capsule_025
+[2020.01.29-05.15.41:168][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_4_bulb_31_Cloner22_Capsule_025 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:168][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_4_bulb_31_Cloner22_Capsule_025 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:168][770]LogStaticMesh: Built static mesh [0.14s] /Game/MuseumRoom/Room/Geometries/lamp_legup_mainswitch_Boole4_switch_mainspace.lamp_legup_mainswitch_Boole4_switch_mainspace
+[2020.01.29-05.15.41:168][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_4_bulb_22_Cloner21_Capsule_112...
+[2020.01.29-05.15.41:168][770]LogStaticMesh: Built static mesh [0.01s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_4_bulb_31_Cylinder32.lamp_legup_bulb_Cloner_1_4_bulb_31_Cylinder32
+[2020.01.29-05.15.41:168][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_4_bulb_22_Cloner21_Capsule_028...
+[2020.01.29-05.15.41:168][770]LogStaticMesh: Warning: lamp_legup_mainswitch_Boole4_switch_mainspace has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:168][770]LogStaticMesh: Warning: lamp_legup_mainswitch_Boole4_switch_mainspace has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:168][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_4_bulb_22_Cube11...
+[2020.01.29-05.15.41:168][770]LogStaticMesh: Built static mesh [0.00s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_4_bulb_22_Cube11.lamp_legup_bulb_Cloner_1_4_bulb_22_Cube11
+[2020.01.29-05.15.41:168][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_4_bulb_22_Cylinder25...
+[2020.01.29-05.15.41:168][770]LogStaticMesh: Built static mesh [0.03s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_4_bulb_22_Cloner21_Capsule_23.lamp_legup_bulb_Cloner_1_4_bulb_22_Cloner21_Capsule_23
+[2020.01.29-05.15.41:168][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_4_bulb_22_Cloner21_Capsule_23 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:168][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_4_bulb_22_Cloner21_Capsule_23 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:168][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_4_bulb_11_Cloner19_Capsule_26...
+[2020.01.29-05.15.41:168][770]LogStaticMesh: Built static mesh [0.03s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_4_bulb_22_Cloner21_Capsule_112.lamp_legup_bulb_Cloner_1_4_bulb_22_Cloner21_Capsule_112
+[2020.01.29-05.15.41:168][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_4_bulb_22_Cloner21_Capsule_112 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:168][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_4_bulb_22_Cloner21_Capsule_112 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:168][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_4_bulb_11_Cloner19_Capsule_115...
+[2020.01.29-05.15.41:168][770]LogStaticMesh: Built static mesh [0.01s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_4_bulb_22_Cylinder25.lamp_legup_bulb_Cloner_1_4_bulb_22_Cylinder25
+[2020.01.29-05.15.41:168][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_4_bulb_11_Cloner19_Capsule_022...
+[2020.01.29-05.15.41:168][770]LogStaticMesh: Built static mesh [0.03s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_4_bulb_22_Cloner21_Capsule_028.lamp_legup_bulb_Cloner_1_4_bulb_22_Cloner21_Capsule_028
+[2020.01.29-05.15.41:168][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_4_bulb_22_Cloner21_Capsule_028 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:168][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_4_bulb_22_Cloner21_Capsule_028 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:168][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_4_bulb_11_Cube12...
+[2020.01.29-05.15.41:168][770]LogStaticMesh: Built static mesh [0.01s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_4_bulb_11_Cube12.lamp_legup_bulb_Cloner_1_4_bulb_11_Cube12
+[2020.01.29-05.15.41:168][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_4_bulb_11_Cylinder27...
+[2020.01.29-05.15.41:168][770]LogStaticMesh: Built static mesh [0.02s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_4_bulb_11_Cloner19_Capsule_115.lamp_legup_bulb_Cloner_1_4_bulb_11_Cloner19_Capsule_115
+[2020.01.29-05.15.41:168][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_4_bulb_11_Cloner19_Capsule_115 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:168][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_4_bulb_11_Cloner19_Capsule_115 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:168][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_4_bulb_03_Cloner18_Capsule_28...
+[2020.01.29-05.15.41:168][770]LogStaticMesh: Built static mesh [0.03s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_4_bulb_11_Cloner19_Capsule_26.lamp_legup_bulb_Cloner_1_4_bulb_11_Cloner19_Capsule_26
+[2020.01.29-05.15.41:168][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_4_bulb_11_Cloner19_Capsule_26 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:169][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_4_bulb_11_Cloner19_Capsule_26 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:169][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_4_bulb_03_Cloner18_Capsule_119...
+[2020.01.29-05.15.41:169][770]LogStaticMesh: Built static mesh [0.01s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_4_bulb_11_Cylinder27.lamp_legup_bulb_Cloner_1_4_bulb_11_Cylinder27
+[2020.01.29-05.15.41:169][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_4_bulb_03_Cloner18_Capsule_019...
+[2020.01.29-05.15.41:169][770]LogStaticMesh: Built static mesh [0.03s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_4_bulb_11_Cloner19_Capsule_022.lamp_legup_bulb_Cloner_1_4_bulb_11_Cloner19_Capsule_022
+[2020.01.29-05.15.41:169][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_4_bulb_11_Cloner19_Capsule_022 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:169][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_4_bulb_11_Cloner19_Capsule_022 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:169][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_4_bulb_03_Cube13...
+[2020.01.29-05.15.41:169][770]LogStaticMesh: Built static mesh [0.00s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_4_bulb_03_Cube13.lamp_legup_bulb_Cloner_1_4_bulb_03_Cube13
+[2020.01.29-05.15.41:169][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_4_bulb_03_Cylinder28...
+[2020.01.29-05.15.41:169][770]LogStaticMesh: Built static mesh [0.01s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_4_bulb_03_Cylinder28.lamp_legup_bulb_Cloner_1_4_bulb_03_Cylinder28
+[2020.01.29-05.15.41:169][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_3_bulb_51_Cloner17_Capsule_212...
+[2020.01.29-05.15.41:169][770]LogStaticMesh: Built static mesh [0.03s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_4_bulb_03_Cloner18_Capsule_28.lamp_legup_bulb_Cloner_1_4_bulb_03_Cloner18_Capsule_28
+[2020.01.29-05.15.41:169][770]LogStaticMesh: Built static mesh [0.03s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_4_bulb_03_Cloner18_Capsule_019.lamp_legup_bulb_Cloner_1_4_bulb_03_Cloner18_Capsule_019
+[2020.01.29-05.15.41:169][770]LogStaticMesh: Built static mesh [0.03s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_4_bulb_03_Cloner18_Capsule_119.lamp_legup_bulb_Cloner_1_4_bulb_03_Cloner18_Capsule_119
+[2020.01.29-05.15.41:169][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_4_bulb_03_Cloner18_Capsule_019 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:169][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_4_bulb_03_Cloner18_Capsule_019 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:169][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_4_bulb_03_Cloner18_Capsule_119 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:169][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_3_bulb_51_Cloner17_Capsule_122...
+[2020.01.29-05.15.41:169][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_4_bulb_03_Cloner18_Capsule_119 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:169][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_3_bulb_51_Cloner17_Capsule_017...
+[2020.01.29-05.15.41:169][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_4_bulb_03_Cloner18_Capsule_28 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:169][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_4_bulb_03_Cloner18_Capsule_28 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:169][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_3_bulb_51_Cube14...
+[2020.01.29-05.15.41:169][770]LogStaticMesh: Built static mesh [0.00s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_3_bulb_51_Cube14.lamp_legup_bulb_Cloner_1_3_bulb_51_Cube14
+[2020.01.29-05.15.41:169][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_3_bulb_51_Cylinder34...
+[2020.01.29-05.15.41:169][770]LogStaticMesh: Built static mesh [0.01s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_3_bulb_51_Cylinder34.lamp_legup_bulb_Cloner_1_3_bulb_51_Cylinder34
+[2020.01.29-05.15.41:169][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_3_bulb_43_Cloner16_Capsule_216...
+[2020.01.29-05.15.41:169][770]LogStaticMesh: Built static mesh [0.03s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_3_bulb_51_Cloner17_Capsule_212.lamp_legup_bulb_Cloner_1_3_bulb_51_Cloner17_Capsule_212
+[2020.01.29-05.15.41:169][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_3_bulb_51_Cloner17_Capsule_212 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:169][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_3_bulb_51_Cloner17_Capsule_212 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:169][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_3_bulb_43_Cloner16_Capsule_120...
+[2020.01.29-05.15.41:169][770]LogStaticMesh: Built static mesh [0.03s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_3_bulb_51_Cloner17_Capsule_122.lamp_legup_bulb_Cloner_1_3_bulb_51_Cloner17_Capsule_122
+[2020.01.29-05.15.41:169][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_3_bulb_51_Cloner17_Capsule_122 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:169][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_3_bulb_51_Cloner17_Capsule_122 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:169][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_3_bulb_43_Cloner16_Capsule_016...
+[2020.01.29-05.15.41:169][770]LogStaticMesh: Built static mesh [0.03s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_3_bulb_51_Cloner17_Capsule_017.lamp_legup_bulb_Cloner_1_3_bulb_51_Cloner17_Capsule_017
+[2020.01.29-05.15.41:170][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_3_bulb_51_Cloner17_Capsule_017 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:170][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_3_bulb_51_Cloner17_Capsule_017 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:170][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_3_bulb_43_Cube15...
+[2020.01.29-05.15.41:170][770]LogStaticMesh: Built static mesh [0.01s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_3_bulb_43_Cube15.lamp_legup_bulb_Cloner_1_3_bulb_43_Cube15
+[2020.01.29-05.15.41:170][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_3_bulb_43_Cylinder30...
+[2020.01.29-05.15.41:170][770]LogStaticMesh: Built static mesh [0.02s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_3_bulb_43_Cloner16_Capsule_216.lamp_legup_bulb_Cloner_1_3_bulb_43_Cloner16_Capsule_216
+[2020.01.29-05.15.41:170][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_3_bulb_43_Cloner16_Capsule_216 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:170][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_3_bulb_43_Cloner16_Capsule_216 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:170][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_3_bulb_3_Cloner15_Capsule_217...
+[2020.01.29-05.15.41:170][770]LogStaticMesh: Built static mesh [0.01s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_3_bulb_43_Cylinder30.lamp_legup_bulb_Cloner_1_3_bulb_43_Cylinder30
+[2020.01.29-05.15.41:170][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_3_bulb_3_Cloner15_Capsule_118...
+[2020.01.29-05.15.41:170][770]LogStaticMesh: Built static mesh [0.03s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_3_bulb_43_Cloner16_Capsule_120.lamp_legup_bulb_Cloner_1_3_bulb_43_Cloner16_Capsule_120
+[2020.01.29-05.15.41:170][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_3_bulb_43_Cloner16_Capsule_120 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:170][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_3_bulb_43_Cloner16_Capsule_120 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:170][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_3_bulb_3_Cloner15_Capsule_015...
+[2020.01.29-05.15.41:170][770]LogStaticMesh: Built static mesh [0.03s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_3_bulb_43_Cloner16_Capsule_016.lamp_legup_bulb_Cloner_1_3_bulb_43_Cloner16_Capsule_016
+[2020.01.29-05.15.41:170][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_3_bulb_43_Cloner16_Capsule_016 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:170][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_3_bulb_43_Cloner16_Capsule_016 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:170][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_3_bulb_3_Cube16...
+[2020.01.29-05.15.41:170][770]LogStaticMesh: Built static mesh [0.01s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_3_bulb_3_Cube16.lamp_legup_bulb_Cloner_1_3_bulb_3_Cube16
+[2020.01.29-05.15.41:170][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_3_bulb_3_Cylinder...
+[2020.01.29-05.15.41:170][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_3_bulb_2_Cloner14_Capsule_221...
+[2020.01.29-05.15.41:170][770]LogStaticMesh: Built static mesh [0.03s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_3_bulb_3_Cloner15_Capsule_118.lamp_legup_bulb_Cloner_1_3_bulb_3_Cloner15_Capsule_118
+[2020.01.29-05.15.41:170][770]LogStaticMesh: Built static mesh [0.01s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_3_bulb_3_Cylinder.lamp_legup_bulb_Cloner_1_3_bulb_3_Cylinder
+[2020.01.29-05.15.41:170][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_3_bulb_3_Cloner15_Capsule_118 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:170][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_3_bulb_3_Cloner15_Capsule_118 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:170][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_3_bulb_2_Cloner14_Capsule_114...
+[2020.01.29-05.15.41:170][770]LogStaticMesh: Built static mesh [0.03s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_3_bulb_3_Cloner15_Capsule_217.lamp_legup_bulb_Cloner_1_3_bulb_3_Cloner15_Capsule_217
+[2020.01.29-05.15.41:170][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_3_bulb_2_Cloner14_Capsule_013...
+[2020.01.29-05.15.41:170][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_3_bulb_3_Cloner15_Capsule_217 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:170][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_3_bulb_3_Cloner15_Capsule_217 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:170][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_3_bulb_2_Cube17...
+[2020.01.29-05.15.41:170][770]LogStaticMesh: Built static mesh [0.03s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_3_bulb_3_Cloner15_Capsule_015.lamp_legup_bulb_Cloner_1_3_bulb_3_Cloner15_Capsule_015
+[2020.01.29-05.15.41:170][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_3_bulb_3_Cloner15_Capsule_015 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:170][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_3_bulb_3_Cloner15_Capsule_015 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:170][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_3_bulb_2_Cylinder2...
+[2020.01.29-05.15.41:170][770]LogStaticMesh: Built static mesh [0.01s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_3_bulb_2_Cube17.lamp_legup_bulb_Cloner_1_3_bulb_2_Cube17
+[2020.01.29-05.15.41:170][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_3_bulb_13_Cloner13_Capsule_222...
+[2020.01.29-05.15.41:171][770]LogStaticMesh: Built static mesh [0.01s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_3_bulb_2_Cylinder2.lamp_legup_bulb_Cloner_1_3_bulb_2_Cylinder2
+[2020.01.29-05.15.41:171][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_3_bulb_13_Cloner13_Capsule_113...
+[2020.01.29-05.15.41:171][770]LogStaticMesh: Built static mesh [0.03s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_3_bulb_2_Cloner14_Capsule_221.lamp_legup_bulb_Cloner_1_3_bulb_2_Cloner14_Capsule_221
+[2020.01.29-05.15.41:171][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_3_bulb_2_Cloner14_Capsule_221 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:171][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_3_bulb_2_Cloner14_Capsule_221 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:171][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_3_bulb_13_Cloner13_Capsule_012...
+[2020.01.29-05.15.41:171][770]LogStaticMesh: Built static mesh [0.03s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_3_bulb_2_Cloner14_Capsule_114.lamp_legup_bulb_Cloner_1_3_bulb_2_Cloner14_Capsule_114
+[2020.01.29-05.15.41:171][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_3_bulb_2_Cloner14_Capsule_114 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:171][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_3_bulb_2_Cloner14_Capsule_114 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:171][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_3_bulb_13_Cube19...
+[2020.01.29-05.15.41:171][770]LogStaticMesh: Built static mesh [0.03s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_3_bulb_2_Cloner14_Capsule_013.lamp_legup_bulb_Cloner_1_3_bulb_2_Cloner14_Capsule_013
+[2020.01.29-05.15.41:171][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_3_bulb_2_Cloner14_Capsule_013 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:171][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_3_bulb_2_Cloner14_Capsule_013 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:171][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_3_bulb_13_Cylinder5...
+[2020.01.29-05.15.41:171][770]LogStaticMesh: Built static mesh [0.00s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_3_bulb_13_Cube19.lamp_legup_bulb_Cloner_1_3_bulb_13_Cube19
+[2020.01.29-05.15.41:171][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_3_bulb_0_Cloner11_Capsule_226...
+[2020.01.29-05.15.41:171][770]LogStaticMesh: Built static mesh [0.03s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_3_bulb_13_Cloner13_Capsule_222.lamp_legup_bulb_Cloner_1_3_bulb_13_Cloner13_Capsule_222
+[2020.01.29-05.15.41:171][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_3_bulb_13_Cloner13_Capsule_222 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:171][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_3_bulb_13_Cloner13_Capsule_222 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:171][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_3_bulb_0_Cloner11_Capsule_19...
+[2020.01.29-05.15.41:171][770]LogStaticMesh: Built static mesh [0.01s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_3_bulb_13_Cylinder5.lamp_legup_bulb_Cloner_1_3_bulb_13_Cylinder5
+[2020.01.29-05.15.41:171][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_3_bulb_0_Cloner11_Capsule_09...
+[2020.01.29-05.15.41:171][770]LogStaticMesh: Built static mesh [0.03s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_3_bulb_13_Cloner13_Capsule_113.lamp_legup_bulb_Cloner_1_3_bulb_13_Cloner13_Capsule_113
+[2020.01.29-05.15.41:171][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_3_bulb_13_Cloner13_Capsule_113 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:171][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_3_bulb_13_Cloner13_Capsule_113 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:171][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_3_bulb_0_Cube20...
+[2020.01.29-05.15.41:171][770]LogStaticMesh: Built static mesh [0.01s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_3_bulb_0_Cube20.lamp_legup_bulb_Cloner_1_3_bulb_0_Cube20
+[2020.01.29-05.15.41:171][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_3_bulb_0_Cylinder7...
+[2020.01.29-05.15.41:171][770]LogStaticMesh: Built static mesh [0.03s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_3_bulb_13_Cloner13_Capsule_012.lamp_legup_bulb_Cloner_1_3_bulb_13_Cloner13_Capsule_012
+[2020.01.29-05.15.41:171][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_3_bulb_13_Cloner13_Capsule_012 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:172][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_3_bulb_13_Cloner13_Capsule_012 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:172][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_2_bulb_53_Cloner10_Capsule_229...
+[2020.01.29-05.15.41:172][770]LogStaticMesh: Built static mesh [0.03s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_3_bulb_0_Cloner11_Capsule_226.lamp_legup_bulb_Cloner_1_3_bulb_0_Cloner11_Capsule_226
+[2020.01.29-05.15.41:172][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_3_bulb_0_Cloner11_Capsule_226 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:172][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_3_bulb_0_Cloner11_Capsule_226 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:172][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_2_bulb_53_Cloner10_Capsule_18...
+[2020.01.29-05.15.41:172][770]LogStaticMesh: Built static mesh [0.03s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_3_bulb_0_Cloner11_Capsule_19.lamp_legup_bulb_Cloner_1_3_bulb_0_Cloner11_Capsule_19
+[2020.01.29-05.15.41:172][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_3_bulb_0_Cloner11_Capsule_19 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:172][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_3_bulb_0_Cloner11_Capsule_19 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:172][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_2_bulb_53_Cloner10_Capsule_07...
+[2020.01.29-05.15.41:172][770]LogStaticMesh: Built static mesh [0.03s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_3_bulb_0_Cloner11_Capsule_09.lamp_legup_bulb_Cloner_1_3_bulb_0_Cloner11_Capsule_09
+[2020.01.29-05.15.41:172][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_3_bulb_0_Cloner11_Capsule_09 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:172][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_3_bulb_0_Cloner11_Capsule_09 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:172][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_2_bulb_53_Cube21...
+[2020.01.29-05.15.41:172][770]LogStaticMesh: Built static mesh [0.02s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_3_bulb_0_Cylinder7.lamp_legup_bulb_Cloner_1_3_bulb_0_Cylinder7
+[2020.01.29-05.15.41:172][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_2_bulb_53_Cylinder11...
+[2020.01.29-05.15.41:172][770]LogStaticMesh: Built static mesh [0.01s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_2_bulb_53_Cube21.lamp_legup_bulb_Cloner_1_2_bulb_53_Cube21
+[2020.01.29-05.15.41:172][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_2_bulb_41_Cloner9_Capsule_227...
+[2020.01.29-05.15.41:172][770]LogStaticMesh: Built static mesh [0.03s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_2_bulb_53_Cloner10_Capsule_229.lamp_legup_bulb_Cloner_1_2_bulb_53_Cloner10_Capsule_229
+[2020.01.29-05.15.41:172][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_2_bulb_53_Cloner10_Capsule_229 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:172][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_2_bulb_53_Cloner10_Capsule_229 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:172][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_2_bulb_41_Cloner9_Capsule_15...
+[2020.01.29-05.15.41:172][770]LogStaticMesh: Built static mesh [0.02s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_2_bulb_53_Cylinder11.lamp_legup_bulb_Cloner_1_2_bulb_53_Cylinder11
+[2020.01.29-05.15.41:172][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_2_bulb_41_Cloner9_Capsule_06...
+[2020.01.29-05.15.41:172][770]LogStaticMesh: Built static mesh [0.03s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_2_bulb_53_Cloner10_Capsule_18.lamp_legup_bulb_Cloner_1_2_bulb_53_Cloner10_Capsule_18
+[2020.01.29-05.15.41:172][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_2_bulb_53_Cloner10_Capsule_18 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:173][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_2_bulb_53_Cloner10_Capsule_18 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:173][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_2_bulb_41_Cube22...
+[2020.01.29-05.15.41:173][770]LogStaticMesh: Built static mesh [0.01s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_2_bulb_41_Cube22.lamp_legup_bulb_Cloner_1_2_bulb_41_Cube22
+[2020.01.29-05.15.41:173][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_2_bulb_41_Cylinder13...
+[2020.01.29-05.15.41:173][770]LogStaticMesh: Built static mesh [0.03s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_2_bulb_53_Cloner10_Capsule_07.lamp_legup_bulb_Cloner_1_2_bulb_53_Cloner10_Capsule_07
+[2020.01.29-05.15.41:173][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_2_bulb_53_Cloner10_Capsule_07 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:173][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_2_bulb_53_Cloner10_Capsule_07 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:173][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_2_bulb_34_Cloner8_Capsule_223...
+[2020.01.29-05.15.41:173][770]LogStaticMesh: Built static mesh [0.03s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_2_bulb_41_Cloner9_Capsule_227.lamp_legup_bulb_Cloner_1_2_bulb_41_Cloner9_Capsule_227
+[2020.01.29-05.15.41:173][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_2_bulb_41_Cloner9_Capsule_227 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:173][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_2_bulb_41_Cloner9_Capsule_227 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:173][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_2_bulb_34_Cloner8_Capsule_14...
+[2020.01.29-05.15.41:173][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_2_bulb_34_Cloner8_Capsule_05...
+[2020.01.29-05.15.41:174][770]LogStaticMesh: Built static mesh [0.02s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_2_bulb_41_Cylinder13.lamp_legup_bulb_Cloner_1_2_bulb_41_Cylinder13
+[2020.01.29-05.15.41:175][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_2_bulb_34_Cube23...
+[2020.01.29-05.15.41:175][770]LogStaticMesh: Built static mesh [0.03s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_2_bulb_41_Cloner9_Capsule_15.lamp_legup_bulb_Cloner_1_2_bulb_41_Cloner9_Capsule_15
+[2020.01.29-05.15.41:175][770]LogStaticMesh: Built static mesh [0.01s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_2_bulb_34_Cube23.lamp_legup_bulb_Cloner_1_2_bulb_34_Cube23
+[2020.01.29-05.15.41:175][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_2_bulb_41_Cloner9_Capsule_15 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:175][770]LogStaticMesh: Built static mesh [0.03s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_2_bulb_41_Cloner9_Capsule_06.lamp_legup_bulb_Cloner_1_2_bulb_41_Cloner9_Capsule_06
+[2020.01.29-05.15.41:175][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_2_bulb_41_Cloner9_Capsule_15 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:175][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_2_bulb_21_Cloner7_Capsule_219...
+[2020.01.29-05.15.41:175][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_2_bulb_41_Cloner9_Capsule_06 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:175][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_2_bulb_41_Cloner9_Capsule_06 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:175][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_2_bulb_21_Cloner7_Capsule_12...
+[2020.01.29-05.15.41:175][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_2_bulb_34_Cylinder16...
+[2020.01.29-05.15.41:368][770]LogStaticMesh: Built static mesh [0.03s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_2_bulb_34_Cloner8_Capsule_223.lamp_legup_bulb_Cloner_1_2_bulb_34_Cloner8_Capsule_223
+[2020.01.29-05.15.41:368][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_2_bulb_34_Cloner8_Capsule_223 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:368][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_2_bulb_34_Cloner8_Capsule_223 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:368][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_2_bulb_21_Cloner7_Capsule_04...
+[2020.01.29-05.15.41:368][770]LogStaticMesh: Built static mesh [0.02s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_2_bulb_34_Cylinder16.lamp_legup_bulb_Cloner_1_2_bulb_34_Cylinder16
+[2020.01.29-05.15.41:368][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_2_bulb_21_Cube24...
+[2020.01.29-05.15.41:368][770]LogStaticMesh: Built static mesh [0.03s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_2_bulb_34_Cloner8_Capsule_14.lamp_legup_bulb_Cloner_1_2_bulb_34_Cloner8_Capsule_14
+[2020.01.29-05.15.41:368][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_2_bulb_34_Cloner8_Capsule_14 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:368][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_2_bulb_34_Cloner8_Capsule_14 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:368][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_2_bulb_21_Cylinder19...
+[2020.01.29-05.15.41:368][770]LogStaticMesh: Built static mesh [0.01s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_2_bulb_21_Cube24.lamp_legup_bulb_Cloner_1_2_bulb_21_Cube24
+[2020.01.29-05.15.41:368][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_2_bulb_14_Cloner6_Capsule_218...
+[2020.01.29-05.15.41:368][770]LogStaticMesh: Built static mesh [0.02s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_2_bulb_21_Cylinder19.lamp_legup_bulb_Cloner_1_2_bulb_21_Cylinder19
+[2020.01.29-05.15.41:368][770]LogStaticMesh: Built static mesh [0.05s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_2_bulb_34_Cloner8_Capsule_05.lamp_legup_bulb_Cloner_1_2_bulb_34_Cloner8_Capsule_05
+[2020.01.29-05.15.41:368][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_2_bulb_14_Cloner6_Capsule_11...
+[2020.01.29-05.15.41:368][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_2_bulb_34_Cloner8_Capsule_05 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:368][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_2_bulb_34_Cloner8_Capsule_05 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:368][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_2_bulb_14_Cloner6_Capsule_01...
+[2020.01.29-05.15.41:368][770]LogStaticMesh: Built static mesh [0.04s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_2_bulb_21_Cloner7_Capsule_219.lamp_legup_bulb_Cloner_1_2_bulb_21_Cloner7_Capsule_219
+[2020.01.29-05.15.41:368][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_2_bulb_21_Cloner7_Capsule_219 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:368][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_2_bulb_21_Cloner7_Capsule_219 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:368][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_2_bulb_14_Cube26...
+[2020.01.29-05.15.41:368][770]LogStaticMesh: Built static mesh [0.05s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_2_bulb_21_Cloner7_Capsule_12.lamp_legup_bulb_Cloner_1_2_bulb_21_Cloner7_Capsule_12
+[2020.01.29-05.15.41:368][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_2_bulb_21_Cloner7_Capsule_12 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:368][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_2_bulb_21_Cloner7_Capsule_12 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:368][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_2_bulb_14_Cylinder22...
+[2020.01.29-05.15.41:368][770]LogStaticMesh: Built static mesh [0.00s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_2_bulb_14_Cube26.lamp_legup_bulb_Cloner_1_2_bulb_14_Cube26
+[2020.01.29-05.15.41:368][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_2_bulb_01_Cloner3_Capsule_215...
+[2020.01.29-05.15.41:368][770]LogStaticMesh: Built static mesh [0.03s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_2_bulb_14_Cloner6_Capsule_218.lamp_legup_bulb_Cloner_1_2_bulb_14_Cloner6_Capsule_218
+[2020.01.29-05.15.41:368][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_2_bulb_14_Cloner6_Capsule_218 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:368][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_2_bulb_14_Cloner6_Capsule_218 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:368][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_2_bulb_01_Cloner3_Capsule_1...
+[2020.01.29-05.15.41:369][770]LogStaticMesh: Built static mesh [0.02s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_2_bulb_14_Cylinder22.lamp_legup_bulb_Cloner_1_2_bulb_14_Cylinder22
+[2020.01.29-05.15.41:369][770]LogStaticMesh: Built static mesh [0.05s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_2_bulb_21_Cloner7_Capsule_04.lamp_legup_bulb_Cloner_1_2_bulb_21_Cloner7_Capsule_04
+[2020.01.29-05.15.41:369][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_2_bulb_21_Cloner7_Capsule_04 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:369][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_2_bulb_21_Cloner7_Capsule_04 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:369][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_2_bulb_01_Cube27...
+[2020.01.29-05.15.41:369][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_2_bulb_01_Cloner3_Capsule_0...
+[2020.01.29-05.15.41:369][770]LogStaticMesh: Built static mesh [0.01s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_2_bulb_01_Cube27.lamp_legup_bulb_Cloner_1_2_bulb_01_Cube27
+[2020.01.29-05.15.41:369][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_2_bulb_01_Cylinder15...
+[2020.01.29-05.15.41:369][770]LogStaticMesh: Built static mesh [0.02s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_2_bulb_01_Cylinder15.lamp_legup_bulb_Cloner_1_2_bulb_01_Cylinder15
+[2020.01.29-05.15.41:369][770]LogStaticMesh: Built static mesh [0.04s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_2_bulb_14_Cloner6_Capsule_01.lamp_legup_bulb_Cloner_1_2_bulb_14_Cloner6_Capsule_01
+[2020.01.29-05.15.41:369][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_1_bulb_52_Cloner2_Capsule_228...
+[2020.01.29-05.15.41:369][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_2_bulb_14_Cloner6_Capsule_01 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:369][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_2_bulb_14_Cloner6_Capsule_01 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:369][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_1_bulb_52_Cloner2_Capsule_111...
+[2020.01.29-05.15.41:369][770]LogStaticMesh: Built static mesh [0.03s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_2_bulb_01_Cloner3_Capsule_1.lamp_legup_bulb_Cloner_1_2_bulb_01_Cloner3_Capsule_1
+[2020.01.29-05.15.41:369][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_2_bulb_01_Cloner3_Capsule_1 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:369][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_2_bulb_01_Cloner3_Capsule_1 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:369][770]LogStaticMesh: Built static mesh [0.05s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_2_bulb_14_Cloner6_Capsule_11.lamp_legup_bulb_Cloner_1_2_bulb_14_Cloner6_Capsule_11
+[2020.01.29-05.15.41:369][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_1_bulb_52_Cloner2_Capsule_011...
+[2020.01.29-05.15.41:369][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_2_bulb_14_Cloner6_Capsule_11 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:369][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_2_bulb_14_Cloner6_Capsule_11 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:369][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_1_bulb_52_Cube28...
+[2020.01.29-05.15.41:369][770]LogStaticMesh: Built static mesh [0.00s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_1_bulb_52_Cube28.lamp_legup_bulb_Cloner_1_1_bulb_52_Cube28
+[2020.01.29-05.15.41:369][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_1_bulb_52_Cylinder33...
+[2020.01.29-05.15.41:369][770]LogStaticMesh: Built static mesh [0.05s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_2_bulb_01_Cloner3_Capsule_215.lamp_legup_bulb_Cloner_1_2_bulb_01_Cloner3_Capsule_215
+[2020.01.29-05.15.41:369][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_2_bulb_01_Cloner3_Capsule_215 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:369][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_2_bulb_01_Cloner3_Capsule_215 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:369][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_1_bulb_4_Cloner1_Capsule_210...
+[2020.01.29-05.15.41:369][770]LogStaticMesh: Built static mesh [0.01s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_1_bulb_52_Cylinder33.lamp_legup_bulb_Cloner_1_1_bulb_52_Cylinder33
+[2020.01.29-05.15.41:369][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_1_bulb_4_Cloner1_Capsule_116...
+[2020.01.29-05.15.41:369][770]LogStaticMesh: Built static mesh [0.03s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_1_bulb_52_Cloner2_Capsule_011.lamp_legup_bulb_Cloner_1_1_bulb_52_Cloner2_Capsule_011
+[2020.01.29-05.15.41:369][770]LogStaticMesh: Built static mesh [0.06s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_2_bulb_01_Cloner3_Capsule_0.lamp_legup_bulb_Cloner_1_2_bulb_01_Cloner3_Capsule_0
+[2020.01.29-05.15.41:369][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_1_bulb_52_Cloner2_Capsule_011 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:369][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_1_bulb_52_Cloner2_Capsule_011 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:369][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_1_bulb_4_Cloner1_Capsule_026...
+[2020.01.29-05.15.41:369][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_2_bulb_01_Cloner3_Capsule_0 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:369][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_2_bulb_01_Cloner3_Capsule_0 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:370][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_1_bulb_4_Cube29...
+[2020.01.29-05.15.41:370][770]LogStaticMesh: Built static mesh [0.00s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_1_bulb_4_Cube29.lamp_legup_bulb_Cloner_1_1_bulb_4_Cube29
+[2020.01.29-05.15.41:370][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_1_bulb_4_Cylinder6...
+[2020.01.29-05.15.41:370][770]LogStaticMesh: Built static mesh [0.04s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_1_bulb_52_Cloner2_Capsule_228.lamp_legup_bulb_Cloner_1_1_bulb_52_Cloner2_Capsule_228
+[2020.01.29-05.15.41:370][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_1_bulb_52_Cloner2_Capsule_228 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:370][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_1_bulb_52_Cloner2_Capsule_228 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:370][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_1_bulb_32_Cloner_Capsule_29...
+[2020.01.29-05.15.41:370][770]LogStaticMesh: Built static mesh [0.05s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_1_bulb_52_Cloner2_Capsule_111.lamp_legup_bulb_Cloner_1_1_bulb_52_Cloner2_Capsule_111
+[2020.01.29-05.15.41:370][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_1_bulb_52_Cloner2_Capsule_111 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:370][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_1_bulb_52_Cloner2_Capsule_111 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:370][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_1_bulb_32_Cloner_Capsule_127...
+[2020.01.29-05.15.41:370][770]LogStaticMesh: Built static mesh [0.03s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_1_bulb_4_Cloner1_Capsule_116.lamp_legup_bulb_Cloner_1_1_bulb_4_Cloner1_Capsule_116
+[2020.01.29-05.15.41:370][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_1_bulb_4_Cloner1_Capsule_116 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:370][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_1_bulb_4_Cloner1_Capsule_116 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:370][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_1_bulb_32_Cloner_Capsule_018...
+[2020.01.29-05.15.41:370][770]LogStaticMesh: Built static mesh [0.02s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_1_bulb_4_Cylinder6.lamp_legup_bulb_Cloner_1_1_bulb_4_Cylinder6
+[2020.01.29-05.15.41:370][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_1_bulb_32_Cube30...
+[2020.01.29-05.15.41:370][770]LogStaticMesh: Built static mesh [0.05s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_1_bulb_4_Cloner1_Capsule_210.lamp_legup_bulb_Cloner_1_1_bulb_4_Cloner1_Capsule_210
+[2020.01.29-05.15.41:370][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_1_bulb_4_Cloner1_Capsule_210 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:370][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_1_bulb_4_Cloner1_Capsule_210 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:370][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_1_bulb_32_Cylinder8...
+[2020.01.29-05.15.41:370][770]LogStaticMesh: Built static mesh [0.00s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_1_bulb_32_Cube30.lamp_legup_bulb_Cloner_1_1_bulb_32_Cube30
+[2020.01.29-05.15.41:370][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_1_bulb_24_Cloner4_Capsule_220...
+[2020.01.29-05.15.41:370][770]LogStaticMesh: Built static mesh [0.03s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_1_bulb_4_Cloner1_Capsule_026.lamp_legup_bulb_Cloner_1_1_bulb_4_Cloner1_Capsule_026
+[2020.01.29-05.15.41:370][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_1_bulb_4_Cloner1_Capsule_026 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:370][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_1_bulb_4_Cloner1_Capsule_026 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:370][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_1_bulb_24_Cloner4_Capsule_124...
+[2020.01.29-05.15.41:370][770]LogStaticMesh: Built static mesh [0.01s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_1_bulb_32_Cylinder8.lamp_legup_bulb_Cloner_1_1_bulb_32_Cylinder8
+[2020.01.29-05.15.41:371][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_1_bulb_24_Cloner4_Capsule_02...
+[2020.01.29-05.15.41:371][770]LogStaticMesh: Built static mesh [0.04s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_1_bulb_32_Cloner_Capsule_29.lamp_legup_bulb_Cloner_1_1_bulb_32_Cloner_Capsule_29
+[2020.01.29-05.15.41:371][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_1_bulb_32_Cloner_Capsule_29 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:371][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_1_bulb_32_Cloner_Capsule_29 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:371][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_1_bulb_24_Cube31...
+[2020.01.29-05.15.41:371][770]LogStaticMesh: Built static mesh [0.04s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_1_bulb_32_Cloner_Capsule_127.lamp_legup_bulb_Cloner_1_1_bulb_32_Cloner_Capsule_127
+[2020.01.29-05.15.41:371][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_1_bulb_32_Cloner_Capsule_127 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:371][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_1_bulb_32_Cloner_Capsule_127 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:371][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_1_bulb_24_Cylinder23...
+[2020.01.29-05.15.41:371][770]LogStaticMesh: Built static mesh [0.01s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_1_bulb_24_Cube31.lamp_legup_bulb_Cloner_1_1_bulb_24_Cube31
+[2020.01.29-05.15.41:371][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_1_bulb_1_Cloner5_Capsule_22...
+[2020.01.29-05.15.41:371][770]LogStaticMesh: Built static mesh [0.04s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_1_bulb_32_Cloner_Capsule_018.lamp_legup_bulb_Cloner_1_1_bulb_32_Cloner_Capsule_018
+[2020.01.29-05.15.41:371][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_1_bulb_32_Cloner_Capsule_018 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:371][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_1_bulb_32_Cloner_Capsule_018 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:371][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_1_bulb_1_Cloner5_Capsule_117...
+[2020.01.29-05.15.41:371][770]LogStaticMesh: Built static mesh [0.04s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_1_bulb_24_Cloner4_Capsule_220.lamp_legup_bulb_Cloner_1_1_bulb_24_Cloner4_Capsule_220
+[2020.01.29-05.15.41:371][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_1_bulb_24_Cloner4_Capsule_220 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:371][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_1_bulb_24_Cloner4_Capsule_220 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:371][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_1_bulb_1_Cloner5_Capsule_03...
+[2020.01.29-05.15.41:371][770]LogStaticMesh: Built static mesh [0.03s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_1_bulb_24_Cloner4_Capsule_124.lamp_legup_bulb_Cloner_1_1_bulb_24_Cloner4_Capsule_124
+[2020.01.29-05.15.41:371][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_1_bulb_24_Cloner4_Capsule_124 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:371][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_1_bulb_24_Cloner4_Capsule_124 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:371][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_1_bulb_1_Cube25...
+[2020.01.29-05.15.41:371][770]LogStaticMesh: Built static mesh [0.01s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_1_bulb_24_Cylinder23.lamp_legup_bulb_Cloner_1_1_bulb_24_Cylinder23
+[2020.01.29-05.15.41:371][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_1_bulb_1_Cylinder18...
+[2020.01.29-05.15.41:371][770]LogStaticMesh: Built static mesh [0.03s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_1_bulb_24_Cloner4_Capsule_02.lamp_legup_bulb_Cloner_1_1_bulb_24_Cloner4_Capsule_02
+[2020.01.29-05.15.41:371][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_1_bulb_24_Cloner4_Capsule_02 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:372][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_1_bulb_24_Cloner4_Capsule_02 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.41:372][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_1_bulb_04_Cloner12_Capsule_224...
+[2020.01.29-05.15.41:372][770]LogStaticMesh: Built static mesh [0.01s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_1_bulb_1_Cube25.lamp_legup_bulb_Cloner_1_1_bulb_1_Cube25
+[2020.01.29-05.15.41:372][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_1_bulb_04_Cloner12_Capsule_16...
+[2020.01.29-05.15.45:108][770]LogStaticMesh: Built static mesh [0.03s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_1_bulb_1_Cloner5_Capsule_22.lamp_legup_bulb_Cloner_1_1_bulb_1_Cloner5_Capsule_22
+[2020.01.29-05.15.45:108][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_1_bulb_1_Cloner5_Capsule_22 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.45:108][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_1_bulb_1_Cloner5_Capsule_22 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.45:108][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_1_bulb_04_Cloner12_Capsule_08...
+[2020.01.29-05.15.45:108][770]LogStaticMesh: Built static mesh [0.03s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_1_bulb_1_Cloner5_Capsule_03.lamp_legup_bulb_Cloner_1_1_bulb_1_Cloner5_Capsule_03
+[2020.01.29-05.15.45:108][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_1_bulb_1_Cloner5_Capsule_03 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.45:108][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_1_bulb_1_Cloner5_Capsule_03 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.45:108][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_1_bulb_04_Cube18...
+[2020.01.29-05.15.45:108][770]LogStaticMesh: Built static mesh [0.03s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_1_bulb_1_Cylinder18.lamp_legup_bulb_Cloner_1_1_bulb_1_Cylinder18
+[2020.01.29-05.15.45:108][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_1_bulb_04_Cylinder1...
+[2020.01.29-05.15.45:108][770]LogStaticMesh: Built static mesh [0.04s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_1_bulb_1_Cloner5_Capsule_117.lamp_legup_bulb_Cloner_1_1_bulb_1_Cloner5_Capsule_117
+[2020.01.29-05.15.45:108][770]LogStaticMesh: Built static mesh [0.00s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_1_bulb_04_Cube18.lamp_legup_bulb_Cloner_1_1_bulb_04_Cube18
+[2020.01.29-05.15.45:108][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_1_bulb_1_Cloner5_Capsule_117 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.45:108][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_1_bulb_1_Cloner5_Capsule_117 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.45:108][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_0_bulb_5_Cloner20_Capsule_121...
+[2020.01.29-05.15.45:108][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_0_bulb_5_Cloner20_Capsule_213...
+[2020.01.29-05.15.45:109][770]LogStaticMesh: Built static mesh [0.04s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_1_bulb_04_Cloner12_Capsule_224.lamp_legup_bulb_Cloner_1_1_bulb_04_Cloner12_Capsule_224
+[2020.01.29-05.15.45:109][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_1_bulb_04_Cloner12_Capsule_224 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.45:109][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_1_bulb_04_Cloner12_Capsule_224 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.45:109][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_0_bulb_5_Cloner20_Capsule_021...
+[2020.01.29-05.15.45:109][770]LogStaticMesh: Built static mesh [0.01s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_1_bulb_04_Cylinder1.lamp_legup_bulb_Cloner_1_1_bulb_04_Cylinder1
+[2020.01.29-05.15.45:109][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_0_bulb_5_Cube10...
+[2020.01.29-05.15.45:109][770]LogStaticMesh: Built static mesh [0.04s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_1_bulb_04_Cloner12_Capsule_16.lamp_legup_bulb_Cloner_1_1_bulb_04_Cloner12_Capsule_16
+[2020.01.29-05.15.45:109][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_1_bulb_04_Cloner12_Capsule_16 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.45:109][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_1_bulb_04_Cloner12_Capsule_16 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.45:109][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_0_bulb_5_Cylinder26...
+[2020.01.29-05.15.45:109][770]LogStaticMesh: Built static mesh [0.01s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_0_bulb_5_Cube10.lamp_legup_bulb_Cloner_1_0_bulb_5_Cube10
+[2020.01.29-05.15.45:109][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_0_bulb_44_Cloner25_Capsule_25...
+[2020.01.29-05.15.45:109][770]LogStaticMesh: Built static mesh [0.03s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_1_bulb_04_Cloner12_Capsule_08.lamp_legup_bulb_Cloner_1_1_bulb_04_Cloner12_Capsule_08
+[2020.01.29-05.15.45:109][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_1_bulb_04_Cloner12_Capsule_08 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.45:109][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_1_bulb_04_Cloner12_Capsule_08 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.45:109][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_0_bulb_44_Cloner25_Capsule_123...
+[2020.01.29-05.15.45:109][770]LogStaticMesh: Built static mesh [0.01s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_0_bulb_5_Cylinder26.lamp_legup_bulb_Cloner_1_0_bulb_5_Cylinder26
+[2020.01.29-05.15.45:109][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_0_bulb_44_Cloner25_Capsule_024...
+[2020.01.29-05.15.45:109][770]LogStaticMesh: Built static mesh [0.04s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_0_bulb_5_Cloner20_Capsule_121.lamp_legup_bulb_Cloner_1_0_bulb_5_Cloner20_Capsule_121
+[2020.01.29-05.15.45:109][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_0_bulb_5_Cloner20_Capsule_121 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.45:109][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_0_bulb_5_Cloner20_Capsule_121 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.45:109][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_0_bulb_44_Cube6...
+[2020.01.29-05.15.45:109][770]LogStaticMesh: Built static mesh [0.04s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_0_bulb_5_Cloner20_Capsule_213.lamp_legup_bulb_Cloner_1_0_bulb_5_Cloner20_Capsule_213
+[2020.01.29-05.15.45:109][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_0_bulb_5_Cloner20_Capsule_213 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.45:109][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_0_bulb_5_Cloner20_Capsule_213 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.45:109][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_0_bulb_44_Cylinder20...
+[2020.01.29-05.15.45:109][770]LogStaticMesh: Built static mesh [0.03s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_0_bulb_5_Cloner20_Capsule_021.lamp_legup_bulb_Cloner_1_0_bulb_5_Cloner20_Capsule_021
+[2020.01.29-05.15.45:109][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_0_bulb_5_Cloner20_Capsule_021 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.45:109][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_0_bulb_5_Cloner20_Capsule_021 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.45:109][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_0_bulb_33_Cloner26_Capsule_2...
+[2020.01.29-05.15.45:109][770]LogStaticMesh: Built static mesh [0.01s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_0_bulb_44_Cube6.lamp_legup_bulb_Cloner_1_0_bulb_44_Cube6
+[2020.01.29-05.15.45:109][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_0_bulb_33_Cloner26_Capsule_126...
+[2020.01.29-05.15.45:109][770]LogStaticMesh: Built static mesh [0.03s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_0_bulb_44_Cloner25_Capsule_25.lamp_legup_bulb_Cloner_1_0_bulb_44_Cloner25_Capsule_25
+[2020.01.29-05.15.45:109][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_0_bulb_44_Cloner25_Capsule_25 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.45:109][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_0_bulb_44_Cloner25_Capsule_25 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.45:109][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_0_bulb_33_Cloner26_Capsule_023...
+[2020.01.29-05.15.45:109][770]LogStaticMesh: Built static mesh [0.03s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_0_bulb_44_Cloner25_Capsule_123.lamp_legup_bulb_Cloner_1_0_bulb_44_Cloner25_Capsule_123
+[2020.01.29-05.15.45:109][770]LogStaticMesh: Built static mesh [0.03s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_0_bulb_44_Cloner25_Capsule_024.lamp_legup_bulb_Cloner_1_0_bulb_44_Cloner25_Capsule_024
+[2020.01.29-05.15.45:109][770]LogStaticMesh: Built static mesh [0.02s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_0_bulb_44_Cylinder20.lamp_legup_bulb_Cloner_1_0_bulb_44_Cylinder20
+[2020.01.29-05.15.45:109][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_0_bulb_44_Cloner25_Capsule_123 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.45:109][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_0_bulb_44_Cloner25_Capsule_123 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.45:109][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_0_bulb_44_Cloner25_Capsule_024 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.45:109][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_0_bulb_44_Cloner25_Capsule_024 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.45:109][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_0_bulb_33_Cube5...
+[2020.01.29-05.15.45:109][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_0_bulb_33_Cylinder31...
+[2020.01.29-05.15.45:109][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_0_bulb_23_Cloner27_Capsule_27...
+[2020.01.29-05.15.45:109][770]LogStaticMesh: Built static mesh [0.01s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_0_bulb_33_Cube5.lamp_legup_bulb_Cloner_1_0_bulb_33_Cube5
+[2020.01.29-05.15.45:109][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_0_bulb_23_Cloner27_Capsule_129...
+[2020.01.29-05.15.45:109][770]LogStaticMesh: Built static mesh [0.02s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_0_bulb_33_Cylinder31.lamp_legup_bulb_Cloner_1_0_bulb_33_Cylinder31
+[2020.01.29-05.15.45:109][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_0_bulb_23_Cloner27_Capsule_020...
+[2020.01.29-05.15.45:109][770]LogStaticMesh: Built static mesh [0.03s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_0_bulb_33_Cloner26_Capsule_126.lamp_legup_bulb_Cloner_1_0_bulb_33_Cloner26_Capsule_126
+[2020.01.29-05.15.45:109][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_0_bulb_33_Cloner26_Capsule_126 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.45:109][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_0_bulb_33_Cloner26_Capsule_126 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.45:109][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_0_bulb_23_Cube3...
+[2020.01.29-05.15.45:110][770]LogStaticMesh: Built static mesh [0.03s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_0_bulb_33_Cloner26_Capsule_2.lamp_legup_bulb_Cloner_1_0_bulb_33_Cloner26_Capsule_2
+[2020.01.29-05.15.45:110][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_0_bulb_33_Cloner26_Capsule_2 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.45:110][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_0_bulb_33_Cloner26_Capsule_2 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.45:110][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_0_bulb_23_Cylinder29...
+[2020.01.29-05.15.45:110][770]LogStaticMesh: Built static mesh [0.00s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_0_bulb_23_Cube3.lamp_legup_bulb_Cloner_1_0_bulb_23_Cube3
+[2020.01.29-05.15.45:110][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_0_bulb_12_Cloner28_Capsule_214...
+[2020.01.29-05.15.45:110][770]LogStaticMesh: Built static mesh [0.03s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_0_bulb_33_Cloner26_Capsule_023.lamp_legup_bulb_Cloner_1_0_bulb_33_Cloner26_Capsule_023
+[2020.01.29-05.15.45:110][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_0_bulb_33_Cloner26_Capsule_023 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.45:110][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_0_bulb_33_Cloner26_Capsule_023 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.45:110][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_0_bulb_12_Cloner28_Capsule_128...
+[2020.01.29-05.15.45:110][770]LogStaticMesh: Built static mesh [0.03s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_0_bulb_23_Cloner27_Capsule_27.lamp_legup_bulb_Cloner_1_0_bulb_23_Cloner27_Capsule_27
+[2020.01.29-05.15.45:110][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_0_bulb_23_Cloner27_Capsule_27 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.45:110][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_0_bulb_23_Cloner27_Capsule_27 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.45:110][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_0_bulb_12_Cloner28_Capsule_014...
+[2020.01.29-05.15.45:110][770]LogStaticMesh: Built static mesh [0.02s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_0_bulb_23_Cylinder29.lamp_legup_bulb_Cloner_1_0_bulb_23_Cylinder29
+[2020.01.29-05.15.45:110][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_0_bulb_12_Cube...
+[2020.01.29-05.15.45:110][770]LogStaticMesh: Built static mesh [0.00s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_0_bulb_12_Cube.lamp_legup_bulb_Cloner_1_0_bulb_12_Cube
+[2020.01.29-05.15.45:110][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_0_bulb_12_Cylinder3...
+[2020.01.29-05.15.45:110][770]LogStaticMesh: Built static mesh [0.03s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_0_bulb_23_Cloner27_Capsule_129.lamp_legup_bulb_Cloner_1_0_bulb_23_Cloner27_Capsule_129
+[2020.01.29-05.15.45:110][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_0_bulb_23_Cloner27_Capsule_129 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.45:110][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_0_bulb_23_Cloner27_Capsule_129 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.45:110][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_0_bulb_02_Cloner29_Capsule_225...
+[2020.01.29-05.15.45:110][770]LogStaticMesh: Built static mesh [0.03s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_0_bulb_23_Cloner27_Capsule_020.lamp_legup_bulb_Cloner_1_0_bulb_23_Cloner27_Capsule_020
+[2020.01.29-05.15.45:110][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_0_bulb_23_Cloner27_Capsule_020 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.45:110][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_0_bulb_23_Cloner27_Capsule_020 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.45:110][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_0_bulb_02_Cloner29_Capsule_125...
+[2020.01.29-05.15.45:110][770]LogStaticMesh: Built static mesh [0.03s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_0_bulb_12_Cloner28_Capsule_214.lamp_legup_bulb_Cloner_1_0_bulb_12_Cloner28_Capsule_214
+[2020.01.29-05.15.45:110][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_0_bulb_12_Cloner28_Capsule_214 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.45:110][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_0_bulb_12_Cloner28_Capsule_214 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.45:110][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_0_bulb_02_Cloner29_Capsule_010...
+[2020.01.29-05.15.45:110][770]LogStaticMesh: Built static mesh [0.03s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_0_bulb_12_Cloner28_Capsule_128.lamp_legup_bulb_Cloner_1_0_bulb_12_Cloner28_Capsule_128
+[2020.01.29-05.15.45:110][770]LogStaticMesh: Built static mesh [0.02s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_0_bulb_12_Cylinder3.lamp_legup_bulb_Cloner_1_0_bulb_12_Cylinder3
+[2020.01.29-05.15.45:110][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_0_bulb_12_Cloner28_Capsule_128 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.45:110][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_0_bulb_12_Cloner28_Capsule_128 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.45:110][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_0_bulb_02_Cube2...
+[2020.01.29-05.15.45:110][770]LogStaticMesh: Building static mesh lamp_legup_bulb_Cloner_1_0_bulb_02_Cylinder12...
+[2020.01.29-05.15.45:110][770]LogStaticMesh: Built static mesh [0.00s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_0_bulb_02_Cube2.lamp_legup_bulb_Cloner_1_0_bulb_02_Cube2
+[2020.01.29-05.15.45:110][770]LogStaticMesh: Built static mesh [0.03s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_0_bulb_12_Cloner28_Capsule_014.lamp_legup_bulb_Cloner_1_0_bulb_12_Cloner28_Capsule_014
+[2020.01.29-05.15.45:110][770]LogStaticMesh: Building static mesh lamp_legup_glass1_Cap_2...
+[2020.01.29-05.15.45:110][770]LogStaticMesh: Built static mesh [0.00s] /Game/MuseumRoom/Room/Geometries/lamp_legup_glass1_Cap_2.lamp_legup_glass1_Cap_2
+[2020.01.29-05.15.45:110][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_0_bulb_12_Cloner28_Capsule_014 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.45:110][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_0_bulb_12_Cloner28_Capsule_014 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.45:110][770]LogStaticMesh: Building static mesh lamp_legup_glass1_Cap_16...
+[2020.01.29-05.15.45:110][770]LogStaticMesh: Building static mesh lamp_legup_glass1...
+[2020.01.29-05.15.45:110][770]LogStaticMesh: Built static mesh [0.00s] /Game/MuseumRoom/Room/Geometries/lamp_legup_glass1_Cap_16.lamp_legup_glass1_Cap_16
+[2020.01.29-05.15.45:110][770]LogStaticMesh: Building static mesh lamp_legup_Boole_glass...
+[2020.01.29-05.15.45:110][770]LogStaticMesh: Built static mesh [0.03s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_0_bulb_02_Cloner29_Capsule_225.lamp_legup_bulb_Cloner_1_0_bulb_02_Cloner29_Capsule_225
+[2020.01.29-05.15.45:110][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_0_bulb_02_Cloner29_Capsule_225 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.45:110][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_0_bulb_02_Cloner29_Capsule_225 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.45:110][770]LogStaticMesh: Building static mesh lamp_legup_Boole_Extrude_3...
+[2020.01.29-05.15.45:110][770]LogStaticMesh: Built static mesh [0.01s] /Game/MuseumRoom/Room/Geometries/lamp_legup_glass1.lamp_legup_glass1
+[2020.01.29-05.15.45:110][770]LogStaticMesh: Built static mesh [0.01s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_0_bulb_02_Cylinder12.lamp_legup_bulb_Cloner_1_0_bulb_02_Cylinder12
+[2020.01.29-05.15.45:110][770]LogStaticMesh: Building static mesh Decke...
+[2020.01.29-05.15.45:111][770]LogStaticMesh: Building static mesh Wand...
+[2020.01.29-05.15.45:111][770]LogStaticMesh: Built static mesh [0.03s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_0_bulb_02_Cloner29_Capsule_125.lamp_legup_bulb_Cloner_1_0_bulb_02_Cloner29_Capsule_125
+[2020.01.29-05.15.45:111][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_0_bulb_02_Cloner29_Capsule_125 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.45:111][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_0_bulb_02_Cloner29_Capsule_125 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.45:111][770]LogStaticMesh: Building static mesh Wand_Fenster...
+[2020.01.29-05.15.45:111][770]LogStaticMesh: Built static mesh [0.01s] /Game/MuseumRoom/Room/Geometries/Wand.Wand
+[2020.01.29-05.15.45:111][770]LogStaticMesh: Building static mesh W_rfel_5...
+[2020.01.29-05.15.45:111][770]LogStaticMesh: Built static mesh [0.02s] /Game/MuseumRoom/Room/Geometries/lamp_legup_Boole_glass.lamp_legup_Boole_glass
+[2020.01.29-05.15.45:111][770]LogStaticMesh: Built static mesh [0.04s] /Game/MuseumRoom/Room/Geometries/lamp_legup_bulb_Cloner_1_0_bulb_02_Cloner29_Capsule_010.lamp_legup_bulb_Cloner_1_0_bulb_02_Cloner29_Capsule_010
+[2020.01.29-05.15.45:111][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_0_bulb_02_Cloner29_Capsule_010 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.45:111][770]LogStaticMesh: Warning: lamp_legup_bulb_Cloner_1_0_bulb_02_Cloner29_Capsule_010 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.45:111][770]LogStaticMesh: Built static mesh [0.01s] /Game/MuseumRoom/Room/Geometries/Wand_Fenster.Wand_Fenster
+[2020.01.29-05.15.45:111][770]LogStaticMesh: Building static mesh Object_____...
+[2020.01.29-05.15.45:111][770]LogStaticMesh: Building static mesh W_rfel_4...
+[2020.01.29-05.15.45:111][770]LogStaticMesh: Built static mesh [0.01s] /Game/MuseumRoom/Room/Geometries/Decke.Decke
+[2020.01.29-05.15.45:111][770]LogStaticMesh: Building static mesh Object_________________1...
+[2020.01.29-05.15.45:111][770]LogStaticMesh: Building static mesh Object___________...
+[2020.01.29-05.15.45:111][770]LogStaticMesh: Built static mesh [0.02s] /Game/MuseumRoom/Room/Geometries/lamp_legup_Boole_Extrude_3.lamp_legup_Boole_Extrude_3
+[2020.01.29-05.15.45:111][770]LogStaticMesh: Building static mesh Object____1______...
+[2020.01.29-05.15.45:111][770]LogStaticMesh: Built static mesh [0.02s] /Game/MuseumRoom/Room/Geometries/W_rfel_5.W_rfel_5
+[2020.01.29-05.15.45:111][770]LogStaticMesh: Built static mesh [0.02s] /Game/MuseumRoom/Room/Geometries/W_rfel_4.W_rfel_4
+[2020.01.29-05.15.45:111][770]LogStaticMesh: Building static mesh Object_________...
+[2020.01.29-05.15.45:111][770]LogStaticMesh: Building static mesh Kugel...
+[2020.01.29-05.15.45:111][770]LogStaticMesh: Built static mesh [0.03s] /Game/MuseumRoom/Room/Geometries/Object___________.Object___________
+[2020.01.29-05.15.45:111][770]LogStaticMesh: Warning: Object___________ has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.45:111][770]LogStaticMesh: Building static mesh Kugel_2...
+[2020.01.29-05.15.45:111][770]LogStaticMesh: Built static mesh [0.03s] /Game/MuseumRoom/Room/Geometries/Object____1______.Object____1______
+[2020.01.29-05.15.45:111][770]LogStaticMesh: Warning: Object____1______ has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.45:111][770]LogStaticMesh: Building static mesh Kugel_3...
+[2020.01.29-05.15.45:111][770]LogStaticMesh: Built static mesh [0.02s] /Game/MuseumRoom/Room/Geometries/Kugel.Kugel
+[2020.01.29-05.15.45:111][770]LogStaticMesh: Building static mesh TV...
+[2020.01.29-05.15.45:111][770]LogStaticMesh: Built static mesh [0.02s] /Game/MuseumRoom/Room/Geometries/Kugel_2.Kugel_2
+[2020.01.29-05.15.45:111][770]LogStaticMesh: Building static mesh W_rfel_1...
+[2020.01.29-05.15.45:111][770]LogStaticMesh: Built static mesh [0.04s] /Game/MuseumRoom/Room/Geometries/Object_________.Object_________
+[2020.01.29-05.15.45:111][770]LogStaticMesh: Built static mesh [0.02s] /Game/MuseumRoom/Room/Geometries/Kugel_3.Kugel_3
+[2020.01.29-05.15.45:111][770]LogStaticMesh: Building static mesh W_rfel_2...
+[2020.01.29-05.15.45:111][770]LogStaticMesh: Built static mesh [0.01s] /Game/MuseumRoom/Room/Geometries/W_rfel_1.W_rfel_1
+[2020.01.29-05.15.45:111][770]LogStaticMesh: Building static mesh W_rfel_3...
+[2020.01.29-05.15.45:111][770]LogStaticMesh: Building static mesh W_rfel_2_2...
+[2020.01.29-05.15.45:111][770]LogStaticMesh: Built static mesh [0.00s] /Game/MuseumRoom/Room/Geometries/W_rfel_3.W_rfel_3
+[2020.01.29-05.15.45:111][770]LogStaticMesh: Building static mesh W_rfel_1_2...
+[2020.01.29-05.15.45:111][770]LogStaticMesh: Built static mesh [0.01s] /Game/MuseumRoom/Room/Geometries/W_rfel_2.W_rfel_2
+[2020.01.29-05.15.45:111][770]LogStaticMesh: Built static mesh [0.01s] /Game/MuseumRoom/Room/Geometries/W_rfel_2_2.W_rfel_2_2
+[2020.01.29-05.15.45:111][770]LogStaticMesh: Built static mesh [0.01s] /Game/MuseumRoom/Room/Geometries/W_rfel_1_2.W_rfel_1_2
+[2020.01.29-05.15.45:111][770]LogStaticMesh: Built static mesh [0.23s] /Game/MuseumRoom/Room/Geometries/TV.TV
+[2020.01.29-05.15.45:111][770]LogStaticMesh: Built static mesh [2.49s] /Game/MuseumRoom/Room/Geometries/Object_________________1.Object_________________1
+[2020.01.29-05.15.45:111][770]LogStaticMesh: Warning: Object_________________1 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2020.01.29-05.15.45:111][770]LogStaticMesh: Warning: Object_________________1 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.01.29-05.15.45:111][770]LogStaticMesh: Built static mesh [3.41s] /Game/MuseumRoom/Room/Geometries/Object_____.Object_____
+[2020.01.29-05.15.45:488][770]LogLayoutUV: FindBestPacking (Total Time: 4.98 sec, Avg Efficiency: 82.292386)
+[2020.01.29-05.15.45:488][770]LogDatasmithImport: Imported Room in [0 min 16.187 s]
+[2020.01.29-05.15.53:546][123]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Decke)
+[2020.01.29-05.17.06:772][992]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.01.29-05.17.07:978][ 61]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.01.29-05.17.09:253][135]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.01.29-05.17.33:818][565]LogUObjectHash: Compacting FUObjectHashTables data took   5.03ms
+[2020.01.29-05.18.53:555][565]LogSlate: Window 'Delete Assets' being destroyed
