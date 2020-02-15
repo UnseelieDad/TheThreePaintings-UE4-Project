@@ -1,0 +1,1117 @@
+﻿Log file open, 02/06/20 23:18:40
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: ThreePaintingProject
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.082617
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithC4DImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin DatasmithFBXImporter
+LogPluginManager: Mounting plugin DatasmithImporter
+LogPluginManager: Mounting plugin StaticMeshEditorExtension
+LogPluginManager: Mounting plugin VariantManager
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin BlastPlugin
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin DataPrepEditor
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogHMD: Failed initializing OVRPlugin 1.40.0
+LogInit: Build: ++UE4+Release-4.24-CL-10757647
+LogInit: Engine Version: 4.24.1-10757647+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz, GPU: Intel(R) HD Graphics 530
+LogInit: Compiled (64-bit): Dec 17 2019 02:08:03
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Games/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.02.07-05.18.41:124][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.02.07-05.18.41:124][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.02.07-05.18.41:125][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Saved/Config/Windows/Engine.ini]
+[2020.02.07-05.18.41:125][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.02.07-05.18.41:125][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Saved/Config/Windows/Engine.ini]
+[2020.02.07-05.18.41:125][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Saved/Config/Windows/Engine.ini]
+[2020.02.07-05.18.41:125][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.02.07-05.18.41:125][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.02.07-05.18.41:125][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.02.07-05.18.41:125][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.02.07-05.18.41:125][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.02.07-05.18.41:125][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.02.07-05.18.41:125][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.02.07-05.18.41:125][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.02.07-05.18.41:125][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.02.07-05.18.41:125][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.02.07-05.18.41:125][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.02.07-05.18.41:125][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.02.07-05.18.41:125][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.02.07-05.18.41:125][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.02.07-05.18.41:125][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Saved/Config/Windows/Engine.ini]
+[2020.02.07-05.18.41:125][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.02.07-05.18.41:125][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.02.07-05.18.41:125][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.02.07-05.18.41:125][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.02.07-05.18.41:125][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.02.07-05.18.41:125][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.02.07-05.18.41:125][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.02.07-05.18.41:125][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.02.07-05.18.41:125][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.02.07-05.18.41:125][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.02.07-05.18.41:125][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.02.07-05.18.41:125][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.02.07-05.18.41:126][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.02.07-05.18.41:126][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Saved/Config/Windows/Engine.ini]
+[2020.02.07-05.18.41:126][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Saved/Config/Windows/Engine.ini]
+[2020.02.07-05.18.41:130][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Saved/Config/Windows/Scalability.ini]
+[2020.02.07-05.18.41:130][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.02.07-05.18.41:130][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.02.07-05.18.41:130][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Saved/Config/Windows/Scalability.ini]
+[2020.02.07-05.18.41:130][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.02.07-05.18.41:130][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Saved/Config/Windows/Scalability.ini]
+[2020.02.07-05.18.41:130][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.02.07-05.18.41:130][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.02.07-05.18.41:130][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.02.07-05.18.41:130][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.02.07-05.18.41:130][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.02.07-05.18.41:130][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.02.07-05.18.41:130][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.02.07-05.18.41:130][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.02.07-05.18.41:130][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.02.07-05.18.41:130][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.02.07-05.18.41:130][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.02.07-05.18.41:130][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.02.07-05.18.41:130][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.02.07-05.18.41:130][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.02.07-05.18.41:130][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.02.07-05.18.41:130][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.02.07-05.18.41:130][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.02.07-05.18.41:130][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.02.07-05.18.41:130][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Saved/Config/Windows/Scalability.ini]
+[2020.02.07-05.18.41:130][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.02.07-05.18.41:130][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.02.07-05.18.41:130][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.02.07-05.18.41:130][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.02.07-05.18.41:130][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.02.07-05.18.41:131][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.02.07-05.18.41:131][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.02.07-05.18.41:131][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.02.07-05.18.41:131][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.02.07-05.18.41:131][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.02.07-05.18.41:131][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.02.07-05.18.41:131][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.02.07-05.18.41:131][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.02.07-05.18.41:131][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.02.07-05.18.41:131][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.02.07-05.18.41:131][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.02.07-05.18.41:131][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.02.07-05.18.41:131][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.02.07-05.18.41:131][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.02.07-05.18.41:131][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.02.07-05.18.41:131][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.02.07-05.18.41:131][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.02.07-05.18.41:131][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.02.07-05.18.41:131][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.02.07-05.18.41:131][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.02.07-05.18.41:131][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.02.07-05.18.41:131][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.02.07-05.18.41:131][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.02.07-05.18.41:131][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.02.07-05.18.41:131][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.02.07-05.18.41:131][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Saved/Config/Windows/Scalability.ini]
+[2020.02.07-05.18.41:131][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.02.07-05.18.41:131][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.02.07-05.18.41:131][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.02.07-05.18.41:131][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.02.07-05.18.41:131][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.02.07-05.18.41:131][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.02.07-05.18.41:131][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.02.07-05.18.41:131][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.02.07-05.18.41:131][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.02.07-05.18.41:131][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Saved/Config/Windows/Scalability.ini]
+[2020.02.07-05.18.41:131][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.02.07-05.18.41:132][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.02.07-05.18.41:132][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.02.07-05.18.41:132][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.02.07-05.18.41:132][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.02.07-05.18.41:132][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.02.07-05.18.41:132][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.02.07-05.18.41:132][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.02.07-05.18.41:132][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.02.07-05.18.41:132][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.02.07-05.18.41:132][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.02.07-05.18.41:132][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.02.07-05.18.41:132][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.02.07-05.18.41:132][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.02.07-05.18.41:132][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.02.07-05.18.41:132][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.02.07-05.18.41:132][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.02.07-05.18.41:132][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.02.07-05.18.41:132][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.02.07-05.18.41:132][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.02.07-05.18.41:132][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.02.07-05.18.41:132][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.02.07-05.18.41:132][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.02.07-05.18.41:132][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.02.07-05.18.41:132][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.02.07-05.18.41:132][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.02.07-05.18.41:132][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Saved/Config/Windows/Scalability.ini]
+[2020.02.07-05.18.41:132][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.02.07-05.18.41:132][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.02.07-05.18.41:132][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Saved/Config/Windows/Scalability.ini]
+[2020.02.07-05.18.41:132][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.02.07-05.18.41:132][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.02.07-05.18.41:132][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.02.07-05.18.41:132][  0]LogInit: Selected Device Profile: [Windows]
+[2020.02.07-05.18.41:132][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.02.07-05.18.41:136][  0]LogHAL: Display: Platform has ~ 16 GB [17039155200 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.02.07-05.18.41:136][  0]LogInit: Going up to parent DeviceProfile []
+[2020.02.07-05.18.41:136][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Saved/Config/Windows/Scalability.ini]
+[2020.02.07-05.18.41:136][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.02.07-05.18.41:136][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.02.07-05.18.41:136][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Saved/Config/Windows/Scalability.ini]
+[2020.02.07-05.18.41:136][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.02.07-05.18.41:136][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Saved/Config/Windows/Scalability.ini]
+[2020.02.07-05.18.41:137][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.02.07-05.18.41:137][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.02.07-05.18.41:137][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.02.07-05.18.41:137][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.02.07-05.18.41:137][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.02.07-05.18.41:137][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.02.07-05.18.41:137][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.02.07-05.18.41:137][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.02.07-05.18.41:137][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.02.07-05.18.41:137][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.02.07-05.18.41:137][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.02.07-05.18.41:137][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.02.07-05.18.41:137][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.02.07-05.18.41:137][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.02.07-05.18.41:137][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.02.07-05.18.41:137][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.02.07-05.18.41:137][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.02.07-05.18.41:137][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.02.07-05.18.41:137][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Saved/Config/Windows/Scalability.ini]
+[2020.02.07-05.18.41:137][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.02.07-05.18.41:137][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.02.07-05.18.41:137][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.02.07-05.18.41:137][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.02.07-05.18.41:137][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.02.07-05.18.41:137][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.02.07-05.18.41:137][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.02.07-05.18.41:137][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.02.07-05.18.41:137][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.02.07-05.18.41:137][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.02.07-05.18.41:137][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.02.07-05.18.41:137][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.02.07-05.18.41:138][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.02.07-05.18.41:138][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.02.07-05.18.41:138][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.02.07-05.18.41:138][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.02.07-05.18.41:138][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.02.07-05.18.41:138][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.02.07-05.18.41:138][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.02.07-05.18.41:138][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.02.07-05.18.41:138][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.02.07-05.18.41:138][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.02.07-05.18.41:138][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.02.07-05.18.41:138][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.02.07-05.18.41:138][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.02.07-05.18.41:138][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.02.07-05.18.41:138][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.02.07-05.18.41:138][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.02.07-05.18.41:138][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.02.07-05.18.41:138][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.02.07-05.18.41:138][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Saved/Config/Windows/Scalability.ini]
+[2020.02.07-05.18.41:138][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.02.07-05.18.41:138][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.02.07-05.18.41:138][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.02.07-05.18.41:138][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.02.07-05.18.41:138][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.02.07-05.18.41:138][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.02.07-05.18.41:138][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.02.07-05.18.41:138][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.02.07-05.18.41:138][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.02.07-05.18.41:138][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Saved/Config/Windows/Scalability.ini]
+[2020.02.07-05.18.41:138][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.02.07-05.18.41:138][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.02.07-05.18.41:138][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.02.07-05.18.41:138][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.02.07-05.18.41:138][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.02.07-05.18.41:138][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.02.07-05.18.41:138][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.02.07-05.18.41:138][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.02.07-05.18.41:138][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.02.07-05.18.41:138][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.02.07-05.18.41:138][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.02.07-05.18.41:138][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.02.07-05.18.41:138][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.02.07-05.18.41:138][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.02.07-05.18.41:138][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.02.07-05.18.41:138][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.02.07-05.18.41:139][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.02.07-05.18.41:139][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.02.07-05.18.41:139][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.02.07-05.18.41:139][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.02.07-05.18.41:139][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.02.07-05.18.41:139][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.02.07-05.18.41:139][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.02.07-05.18.41:139][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.02.07-05.18.41:139][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.02.07-05.18.41:139][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.02.07-05.18.41:139][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Saved/Config/Windows/Scalability.ini]
+[2020.02.07-05.18.41:139][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.02.07-05.18.41:139][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.02.07-05.18.41:139][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Saved/Config/Windows/Scalability.ini]
+[2020.02.07-05.18.41:139][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.02.07-05.18.41:139][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.02.07-05.18.41:139][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.02.07-05.18.41:139][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.02.07-05.18.41:139][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.02.07-05.18.41:139][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.02.07-05.18.41:139][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Saved/Config/Windows/Engine.ini]
+[2020.02.07-05.18.41:139][  0]LogInit: Computer: DESKTOP-GPLBC1U
+[2020.02.07-05.18.41:139][  0]LogInit: User: Seth
+[2020.02.07-05.18.41:139][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.02.07-05.18.41:139][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.02.07-05.18.41:140][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.02.07-05.18.41:140][  0]LogMemory: Platform Memory Stats for Windows
+[2020.02.07-05.18.41:140][  0]LogMemory: Process Physical Memory: 111.49 MB used, 111.49 MB peak
+[2020.02.07-05.18.41:140][  0]LogMemory: Process Virtual Memory: 105.77 MB used, 105.77 MB peak
+[2020.02.07-05.18.41:140][  0]LogMemory: Physical Memory: 6766.03 MB used,  9483.77 MB free, 16249.80 MB total
+[2020.02.07-05.18.41:140][  0]LogMemory: Virtual Memory: 5182.35 MB used,  134212544.00 MB free, 134217728.00 MB total
+[2020.02.07-05.18.41:147][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.02.07-05.18.41:178][  0]LogInit: Using OS detected language (en-US).
+[2020.02.07-05.18.41:178][  0]LogInit: Using OS detected locale (en-US).
+[2020.02.07-05.18.41:178][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.02.07-05.18.41:367][  0]LogInit: Setting process to per monitor DPI aware
+[2020.02.07-05.18.41:409][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.02.07-05.18.41:409][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.02.07-05.18.41:791][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2020.02.07-05.18.41:791][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.02.07-05.18.41:791][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.02.07-05.18.41:791][  0]LogD3D11RHI: D3D11 adapters:
+[2020.02.07-05.18.41:877][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970M' (Feature Level 11_0)
+[2020.02.07-05.18.41:877][  0]LogD3D11RHI:       3029/0/8124 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.02.07-05.18.41:897][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2020.02.07-05.18.41:897][  0]LogD3D11RHI:       128/0/8124 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.02.07-05.18.41:900][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.02.07-05.18.41:900][  0]LogD3D11RHI:       0/0/8124 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.02.07-05.18.41:900][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.02.07-05.18.41:975][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.02.07-05.18.41:975][  0]LogD3D11RHI:     GPU DeviceId: 0x13d8 (for the marketing name, search the web for "GPU Device Id")
+[2020.02.07-05.18.41:975][  0]LogWindows: EnumDisplayDevices:
+[2020.02.07-05.18.41:976][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:1 D:1)
+[2020.02.07-05.18.41:976][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2020.02.07-05.18.41:977][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2020.02.07-05.18.41:977][  0]LogWindows:    3. 'NVIDIA GeForce GTX 970M' (P:0 D:0)
+[2020.02.07-05.18.41:978][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2020.02.07-05.18.41:978][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970M
+[2020.02.07-05.18.41:978][  0]LogD3D11RHI:   Driver Version: 441.20 (internal:26.21.14.4120, unified:441.20)
+[2020.02.07-05.18.41:978][  0]LogD3D11RHI:      Driver Date: 11-6-2019
+[2020.02.07-05.18.41:978][  0]LogRHI: Texture pool is 2120 MB (70% of 3029 MB)
+[2020.02.07-05.18.42:038][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.02.07-05.18.42:038][  0]LogD3D11RHI: Async texture creation enabled
+[2020.02.07-05.18.42:059][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.02.07-05.18.42:550][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.02.07-05.18.42:600][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.02.07-05.18.42:600][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.02.07-05.18.42:600][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.02.07-05.18.42:600][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.02.07-05.18.42:600][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.02.07-05.18.42:600][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.02.07-05.18.42:600][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.02.07-05.18.42:600][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.02.07-05.18.42:600][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.02.07-05.18.42:600][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.02.07-05.18.42:601][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.02.07-05.18.42:601][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.02.07-05.18.42:601][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.02.07-05.18.42:601][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.02.07-05.18.42:601][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.02.07-05.18.42:601][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.02.07-05.18.42:601][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.02.07-05.18.42:601][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.02.07-05.18.42:629][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.02.07-05.18.42:629][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.02.07-05.18.42:637][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.02.07-05.18.42:645][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.02.07-05.18.42:652][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.02.07-05.18.42:660][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.02.07-05.18.42:668][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.02.07-05.18.42:676][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.02.07-05.18.42:701][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.02.07-05.18.42:701][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.02.07-05.18.42:716][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.02.07-05.18.42:716][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.02.07-05.18.42:725][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.02.07-05.18.42:735][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.02.07-05.18.42:743][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.02.07-05.18.42:751][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.02.07-05.18.42:751][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.02.07-05.18.42:755][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.02.07-05.18.42:781][  0]LogShaderCompilers: Guid format shader working directory is -28 characters bigger than the processId version (../../../../../GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Intermediate/Shaders/WorkingDirectory/11328/).
+[2020.02.07-05.18.42:781][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Seth/AppData/Local/Temp/UnrealShaderWorkingDir/0F6C3B99458F0AADDA6C9EBE2C5F7833/'.
+[2020.02.07-05.18.42:782][  0]LogXGEController: Cleaning working directory: C:/Users/Seth/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.02.07-05.18.42:782][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.02.07-05.18.42:782][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.02.07-05.18.42:782][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.02.07-05.18.43:612][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.02.07-05.18.43:687][  0]LogDerivedDataCache: Loaded boot cache 0.07s 98MB C:/Users/Seth/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.02.07-05.18.43:687][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Seth/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.02.07-05.18.43:687][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.02.07-05.18.43:687][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.02.07-05.18.43:687][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.02.07-05.18.43:687][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.02.07-05.18.43:699][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.02.07-05.18.43:699][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.02.07-05.18.43:699][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.02.07-05.18.43:701][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Seth/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.02.07-05.18.43:701][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.02.07-05.18.43:701][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.02.07-05.18.43:732][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.02.07-05.18.43:735][  0]LogSlate: Using FreeType 2.10.0
+[2020.02.07-05.18.43:735][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.02.07-05.18.43:795][  0]LogAssetRegistry: FAssetRegistry took 0.0030 seconds to start up
+[2020.02.07-05.18.44:155][  0]LogInit: Selected Device Profile: [Windows]
+[2020.02.07-05.18.44:340][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.02.07-05.18.44:340][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.02.07-05.18.44:340][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.02.07-05.18.44:340][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.02.07-05.18.44:340][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.02.07-05.18.44:355][  0]LogNetVersion: ThreePaintingProject 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 3160085242)
+[2020.02.07-05.18.45:709][  0]LogPackageLocalizationCache: Processed 15 localized package path(s) for 1 prioritized culture(s) in 0.069975 seconds
+[2020.02.07-05.18.45:718][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2020.02.07-05.18.45:718][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2020.02.07-05.18.45:718][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.02.07-05.18.46:185][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.02.07-05.18.46:189][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.02.07-05.18.46:248][  0]SourceControl: Source control is disabled
+[2020.02.07-05.18.47:753][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.02.07-05.18.47:763][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.02.07-05.18.47:763][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.02.07-05.18.47:838][  0]LogOcInput: OculusInput pre-init called
+[2020.02.07-05.18.48:642][  0]LogEngine: Initializing Engine...
+[2020.02.07-05.18.48:691][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2020.02.07-05.18.48:692][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.02.07-05.18.49:112][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.02.07-05.18.49:121][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.02.07-05.18.49:150][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.07-05.18.49:151][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.07-05.18.49:151][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.07-05.18.49:151][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.07-05.18.49:151][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.07-05.18.49:151][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.07-05.18.49:151][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.07-05.18.49:151][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.07-05.18.49:151][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.07-05.18.49:151][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.07-05.18.49:199][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.07-05.18.49:199][  0]LogAudioMixer: Display: Name: Speakers (Sound Blaster Recon3Di)
+[2020.02.07-05.18.49:199][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.02.07-05.18.49:199][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.07-05.18.49:200][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.07-05.18.49:200][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.07-05.18.49:200][  0]LogAudioMixer: Display: Channel Order:
+[2020.02.07-05.18.49:200][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.07-05.18.49:200][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.02.07-05.18.49:282][  0]LogAudioMixer: Display: Using Audio Device Speakers (Sound Blaster Recon3Di)
+[2020.02.07-05.18.49:289][  0]LogInit: FAudioDevice initialized.
+[2020.02.07-05.18.49:290][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.02.07-05.18.50:019][  0]LogDerivedDataCache: Saved boot cache 0.73s 98MB C:/Users/Seth/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.02.07-05.18.50:020][  0]LogInit: Texture streaming: Enabled
+[2020.02.07-05.18.50:039][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.02.07-05.18.50:039][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.02.07-05.18.50:053][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.02.07-05.18.50:141][  0]LogInit: Transaction tracking system initialized
+[2020.02.07-05.18.50:155][  0]BlueprintLog: New page: Editor Load
+[2020.02.07-05.18.50:192][  0]LocalizationService: Localization service is disabled
+[2020.02.07-05.18.50:525][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/' took 0.01s
+[2020.02.07-05.18.50:525][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.02.07-05.18.50:525][  0]LogCook: Display: Mobile HDR setting 1
+[2020.02.07-05.18.51:639][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.07-05.18.51:639][  0]LightingResults: New page: Lighting Build
+[2020.02.07-05.18.51:640][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.02.07-05.18.51:640][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.07-05.18.51:640][  0]MapCheck: New page: Map Check
+[2020.02.07-05.18.51:640][  0]LightingResults: New page: Lighting Build
+[2020.02.07-05.18.51:672][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2020.02.07-05.18.51:766][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2020.02.07-05.18.51:771][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.07-05.18.51:802][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2020.02.07-05.18.51:802][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.07-05.18.51:802][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.089ms to complete.
+[2020.02.07-05.18.51:802][  0]LogFileHelpers: Loading map 'Template_Default' took 0.163
+[2020.02.07-05.18.51:972][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.07-05.18.51:982][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.07-05.18.51:995][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.07-05.18.52:008][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.07-05.18.52:017][  0]LogCollectionManager: Loaded 0 collections in 0.001231 seconds
+[2020.02.07-05.18.52:041][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Saved/Collections/' took 0.00s
+[2020.02.07-05.18.52:042][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Developers/Seth/Collections/' took 0.00s
+[2020.02.07-05.18.52:042][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Collections/' took 0.00s
+[2020.02.07-05.18.52:042][  0]LogContentBrowser: Native class hierarchy populated in 0.0188 seconds. Added 3203 classes and 790 folders.
+[2020.02.07-05.18.52:046][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.02.07-05.18.52:116][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.02.07-05.18.52:117][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2020.02.07-05.18.52:248][  0]LogSlate: Took 0.000251 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.02.07-05.18.52:252][  0]LogSlate: Took 0.000249 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.02.07-05.18.52:260][  0]LogSlate: Took 0.000160 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.02.07-05.18.52:371][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2020.02.07-05.18.52:505][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.02.07-05.18.52:505][  0]LogLoad: (Engine Initialization) Total time: 14.03 seconds
+[2020.02.07-05.18.52:505][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.02.07-05.18.52:573][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.02.07-05.18.52:591][  0]LogSlate: Took 0.000182 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.02.07-05.18.52:621][  1]LogAssetRegistry: Asset discovery search completed in 8.8271 seconds
+[2020.02.07-05.18.52:625][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000010 seconds (updated 0 objects)
+[2020.02.07-05.19.02:839][122]LogSlate: Window 'Message Log' being destroyed
+[2020.02.07-05.19.02:847][122]LogSlate: Window 'Message Log' being destroyed
+[2020.02.07-05.19.15:130][409]LogActorFactory: Actor Factory created metallic-lucy-statue-stanford-scan_lucy_1
+[2020.02.07-05.19.16:566][452]LogActorFactory: Actor Factory created metallic-lucy-statue-stanford-scan_lucy_1
+[2020.02.07-05.19.43:322][ 90]LogActorFactory: Actor Factory created Cube
+[2020.02.07-05.19.44:307][118]LogActorFactory: Actor Factory created Cube
+[2020.02.07-05.19.53:866][371]LogActorFactory: Actor Factory created Cylinder
+[2020.02.07-05.19.54:487][389]LogActorFactory: Actor Factory created Cylinder
+[2020.02.07-05.19.56:331][445]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.02.07-05.20.10:225][813]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (metallic-lucy-statue-stanford-scan_lucy_1)
+[2020.02.07-05.21.15:220][565]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (metallic-lucy-statue-stanford-scan_lucy_1)
+[2020.02.07-05.21.19:125][618]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.02.07-05.21.20:768][666]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (metallic-lucy-statue-stanford-scan_lucy_1)
+[2020.02.07-05.21.20:842][666]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.02.07-05.21.21:520][688]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.02.07-05.21.21:608][689]LogEditorViewport: Clicking on Actor (double click): StaticMeshActor (metallic-lucy-statue-stanford-scan_lucy_1)
+[2020.02.07-05.21.26:483][823]MapCheck: New page: Map Check
+[2020.02.07-05.21.26:616][823]Cmd: MAP REBUILD ALLVISIBLE
+[2020.02.07-05.21.26:616][823]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.02.07-05.21.26:649][823]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=false
+[2020.02.07-05.21.26:881][823]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2020.02.07-05.21.26:899][823]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.07-05.21.26:920][823]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.02.07-05.21.26:921][823]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.02.07-05.21.26:921][823]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.07-05.21.26:940][823]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.07-05.21.27:701][823]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.02.07-05.21.27:701][823]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.02.07-05.21.27:701][823]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.02.07-05.21.27:701][823]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.02.07-05.21.27:701][823]TextureStreamingBuild: Display: Compiling optional shaders took 0.817 seconds.
+[2020.02.07-05.21.27:707][823]LogLevel: Display: Export Material TexCoord Scales took 0.006 seconds.
+[2020.02.07-05.21.27:713][823]TextureStreamingBuild: Display: Build Texture Streaming took 0.006 seconds.
+[2020.02.07-05.21.27:742][823]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2020.02.07-05.21.27:747][823]LightingResults: New page: Lighting Build - Feb 6, 2020, 5:21:27 PM
+[2020.02.07-05.21.27:802][823]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.02.07-05.21.27:917][823]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.02.07-05.21.27:933][823]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.02.07-05.21.28:450][823]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.02.07-05.21.28:450][823]LogSwarmInterface: [TryOpenConnection] Local Process ID is 11328
+[2020.02.07-05.21.31:467][823]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2020.02.07-05.21.31:467][823]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.02.07-05.21.31:467][823]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.02.07-05.21.31:467][823]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.02.07-05.21.31:467][823]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.02.07-05.21.31:467][823]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.02.07-05.21.31:681][823]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2020.02.07-05.21.31:681][823]MapCheck: New page: Untitled_1 - Feb 6, 2020, 5:21:31 PM
+[2020.02.07-05.21.31:717][823]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2020.02.07-05.21.31:717][823]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 35.899ms to complete.
+[2020.02.07-05.21.31:720][823]LogEditorBuildUtils: Build time 0:05
+[2020.02.07-05.21.31:953][824]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer StatueBurnAnimation, compiling. 
+[2020.02.07-05.21.31:977][824]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.02.07-05.21.31:977][824]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.02.07-05.21.31:977][824]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer StatueBurnAnimation, compiling. 
+[2020.02.07-05.21.32:051][824]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.02.07-05.21.32:051][824]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.02.07-05.21.32:839][830]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2020.02.07-05.21.38:440][911]Job is a success!
+[2020.02.07-05.21.38:632][912]LogSlate: Took 0.000193 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.02.07-05.21.38:802][912]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.023s
+[2020.02.07-05.21.38:803][912]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.02.07-05.21.38:803][912]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb
+[2020.02.07-05.21.38:803][912]LogVolumetricLightmapImport:      Bricks at depth
+[2020.02.07-05.21.38:803][912]LogVolumetricLightmapImport:          0: 10.0% covering 100.0% of volume
+[2020.02.07-05.21.38:803][912]LogVolumetricLightmapImport:          1: 10.0% covering 1.6% of volume
+[2020.02.07-05.21.38:803][912]LogVolumetricLightmapImport:          2: 80.0% covering 0.2% of volume
+[2020.02.07-05.21.38:803][912]LogVolumetricLightmapImport:      Bricks in each level
+[2020.02.07-05.21.38:803][912]LogVolumetricLightmapImport:          Untitled_1 			 10 bricks 	 100.0% (Persistent Level)
+[2020.02.07-05.21.38:872][912]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 256X256)
+[2020.02.07-05.21.38:872][912]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 256X256)
+[2020.02.07-05.21.38:872][912]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2020.02.07-05.21.38:872][912]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2020.02.07-05.21.38:872][912]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 32X32)
+[2020.02.07-05.21.38:872][912]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 256X128)
+[2020.02.07-05.21.38:872][912]Lightmass on DESKTOP-GPLBC1U: 3.81 sec total, 407 ms importing, 91 ms setup, 1.24 sec photons, 1.96 sec processing, 0 ms extra exporting [5/5 mappings]. Threads: 13.7 sec total, 1.78 sec processing.
+[2020.02.07-05.21.38:872][912]LogStaticLightingSystem: Untitled_1_BuiltData storing lightmap data for 5 meshes in 3 LightmapResourceClusters (1.7 Meshes per cluster).
+[2020.02.07-05.21.38:908][912]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2020.02.07-05.21.39:019][912]LogStaticLightingSystem: Illumination: 11.0 sec (30 ms encoding lightmaps, 10 ms encoding shadowmaps)
+[2020.02.07-05.21.39:019][912]LogStaticLightingSystem: Lightmap texture memory:  0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 4 textures
+[2020.02.07-05.21.39:019][912]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2020.02.07-05.21.39:481][912]DumpUnbuiltLightIteractions
+[2020.02.07-05.21.39:481][912]Lights with unbuilt interactions: 0
+[2020.02.07-05.21.39:481][912]
+[2020.02.07-05.21.39:481][912]Primitives with unbuilt interactions: 0
+[2020.02.07-05.21.39:691][913]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.02.07-05.21.39:691][913]MapCheck: New page: Untitled_1 - Feb 6, 2020, 5:21:39 PM
+[2020.02.07-05.21.39:691][913]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.308ms to complete.
+[2020.02.07-05.21.39:805][915]SourceControl: fatal: /Temp: '/Temp' is outside repository
+[2020.02.07-05.21.47:142][103]LogSlate: Window 'Message Log' being destroyed
+[2020.02.07-05.21.47:198][103]LogSlate: Window 'Message Log' being destroyed
+[2020.02.07-05.22.30:329][186]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Materials/BaseGranite.BaseGranite
+[2020.02.07-05.22.30:339][186]LogMaterial: Display: Missing cached shader map for material BaseGranite, compiling. 
+[2020.02.07-05.22.30:700][186]LogMaterial: Display: Missing cached shader map for material BaseGranite, compiling. 
+[2020.02.07-05.22.30:725][186]LogMaterial: Display: Missing cached shader map for material BaseGranite, compiling. 
+[2020.02.07-05.22.30:748][186]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.02.07-05.22.30:748][186]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.02.07-05.22.30:748][186]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.02.07-05.22.30:748][186]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.02.07-05.22.30:823][186]LogSlate: Took 0.000228 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.02.07-05.22.31:608][196]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.02.07-05.22.31:987][203]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2020.02.07-05.22.32:004][203]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.02.07-05.22.32:132][205]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.02.07-05.22.32:536][210]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.02.07-05.22.33:280][221]MaterialEditorStats: Base pass shader: 117 instructions
+[2020.02.07-05.22.33:280][221]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2020.02.07-05.22.33:280][221]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.02.07-05.22.33:280][221]MaterialEditorStats: Texture samplers: 2/16
+[2020.02.07-05.22.45:578][369]LogMaterial: Display: Missing cached shader map for material BaseGranite, compiling. 
+[2020.02.07-05.22.45:596][369]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.02.07-05.22.45:612][369]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.02.07-05.22.45:612][369]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.02.07-05.22.45:612][369]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.02.07-05.22.45:612][369]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.02.07-05.22.45:625][369]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.02.07-05.22.46:082][384]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.02.07-05.22.46:451][395]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2020.02.07-05.22.46:510][397]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2020.02.07-05.22.46:510][397]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2020.02.07-05.22.46:929][407]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.02.07-05.22.46:933][407]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.02.07-05.22.47:164][412]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.02.07-05.22.47:207][413]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.02.07-05.22.47:390][417]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2020.02.07-05.22.47:724][423]MaterialEditorStats: Base pass shader: 117 instructions
+[2020.02.07-05.22.47:724][423]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2020.02.07-05.22.47:724][423]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.02.07-05.22.47:724][423]MaterialEditorStats: Texture samplers: 2/16
+[2020.02.07-05.22.50:926][497]LogMaterial: Display: Missing cached shader map for material BaseGranite, compiling. 
+[2020.02.07-05.22.50:942][497]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.02.07-05.22.50:942][497]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.02.07-05.22.50:942][497]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.02.07-05.22.50:942][497]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.02.07-05.22.51:405][507]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.02.07-05.22.51:670][510]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2020.02.07-05.22.51:674][510]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2020.02.07-05.22.51:699][510]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.02.07-05.22.52:108][518]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2020.02.07-05.22.52:598][527]MaterialEditorStats: Base pass shader: 117 instructions
+[2020.02.07-05.22.52:598][527]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2020.02.07-05.22.52:598][527]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.02.07-05.22.52:598][527]MaterialEditorStats: Texture samplers: 2/16
+[2020.02.07-05.23.08:138][926]LogMaterial: Display: Missing cached shader map for material BaseGranite, compiling. 
+[2020.02.07-05.23.08:153][926]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.02.07-05.23.08:153][926]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.02.07-05.23.08:153][926]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.02.07-05.23.08:153][926]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.02.07-05.23.08:616][936]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.02.07-05.23.08:865][940]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.02.07-05.23.08:908][940]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.02.07-05.23.08:912][940]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.02.07-05.23.09:308][948]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.02.07-05.23.09:874][958]LogMaterial: Display: Missing cached shader map for material BaseGranite, compiling. 
+[2020.02.07-05.23.09:889][958]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.02.07-05.23.09:889][958]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.02.07-05.23.09:905][958]LogMaterial: Display: Missing cached shader map for material BaseGranite, compiling. 
+[2020.02.07-05.23.09:914][958]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.02.07-05.23.09:914][958]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.02.07-05.23.09:923][958]LogMaterial: Display: Missing cached shader map for material BaseGranite, compiling. 
+[2020.02.07-05.23.10:411][972]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.02.07-05.23.10:443][973]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.02.07-05.23.10:917][987]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2020.02.07-05.23.10:917][987]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.02.07-05.23.10:917][987]MaterialEditorStats: Texture samplers: 0/16
+[2020.02.07-05.23.13:935][ 48]LogMaterial: Display: Missing cached shader map for material BaseGranite, compiling. 
+[2020.02.07-05.23.13:951][ 48]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.02.07-05.23.13:951][ 48]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.02.07-05.23.13:957][ 48]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.02.07-05.23.13:968][ 48]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2020.02.07-05.23.13:968][ 48]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.02.07-05.23.14:478][ 65]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.02.07-05.23.14:568][ 68]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.02.07-05.23.14:618][ 69]MaterialEditorStats: Base pass shader without light map: 35 instructions
+[2020.02.07-05.23.14:618][ 69]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.02.07-05.23.14:618][ 69]MaterialEditorStats: Texture samplers: 1/16
+[2020.02.07-05.23.14:618][ 69]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.02.07-05.23.14:618][ 69]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.02.07-05.23.17:529][154]LogMaterialEditor: Saving and Compiling material BaseGranite
+[2020.02.07-05.23.18:115][154]LogMaterial: Display: Missing cached shader map for material BaseGranite, compiling. 
+[2020.02.07-05.23.18:132][154]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.02.07-05.23.18:132][154]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.02.07-05.23.18:195][154]LogMaterial: Display: Missing cached shader map for material BaseGranite, compiling. 
+[2020.02.07-05.23.18:212][154]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2020.02.07-05.23.18:212][154]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.02.07-05.23.18:247][154]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2020.02.07-05.23.18:274][154]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.07-05.23.18:914][154]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.02.07-05.23.18:914][154]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.02.07-05.23.18:924][154]TextureStreamingBuild: Display: Compiling optional shaders took 0.674 seconds.
+[2020.02.07-05.23.18:966][154]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2020.02.07-05.23.19:267][154]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/BaseGranite" FILE="../../../../../GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Materials/BaseGranite.uasset" SILENT=true
+[2020.02.07-05.23.19:288][154]LogSavePackage: Moving '../../../../../GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Saved/BaseGraniteDAA931AF444703B1F2884AA3EC1B8BA9.tmp' to '../../../../../GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Materials/BaseGranite.uasset'
+[2020.02.07-05.23.20:200][154]AssetCheck: New page: Asset Save: BaseGranite
+[2020.02.07-05.23.20:200][154]LogContentValidation: Display: Validating Material /Game/Materials/BaseGranite.BaseGranite
+[2020.02.07-05.23.21:397][174]LogSlate: Window 'BaseGranite' being destroyed
+[2020.02.07-05.23.21:603][174]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.02.07-05.23.21:603][174]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.07-05.23.29:967][357]LogMaterial: Display: Material /Game/Materials/BaseGranite.BaseGranite needed to have new flag set bUsedWithStaticLighting !
+[2020.02.07-05.23.29:973][357]LogMaterial: Display: Missing cached shader map for material BaseGranite, compiling. 
+[2020.02.07-05.23.29:995][358]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.02.07-05.23.29:995][358]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.02.07-05.23.42:536][719]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Materials/BaseGranite.BaseGranite
+[2020.02.07-05.23.42:542][719]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2020.02.07-05.23.42:752][719]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2020.02.07-05.23.42:765][719]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2020.02.07-05.23.42:778][719]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.02.07-05.23.42:778][719]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.02.07-05.23.42:785][719]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.02.07-05.23.42:802][719]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2020.02.07-05.23.42:802][719]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.02.07-05.23.43:309][726]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.02.07-05.23.43:397][727]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.02.07-05.23.43:495][728]MaterialEditorStats: Base pass shader without light map: 35 instructions
+[2020.02.07-05.23.43:495][728]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.02.07-05.23.43:495][728]MaterialEditorStats: Texture samplers: 1/16
+[2020.02.07-05.23.43:495][728]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.02.07-05.23.43:495][728]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.02.07-05.23.46:561][766]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2020.02.07-05.23.46:593][767]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.02.07-05.23.46:593][767]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.02.07-05.23.49:678][829]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2020.02.07-05.23.49:691][829]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.02.07-05.23.49:691][829]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.02.07-05.23.51:239][859]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2020.02.07-05.23.51:283][859]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2020.02.07-05.23.51:283][859]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2020.02.07-05.23.51:283][859]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.02.07-05.23.51:283][859]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.02.07-05.23.51:289][859]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2020.02.07-05.23.51:319][859]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2020.02.07-05.23.52:134][882]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2020.02.07-05.23.52:179][884]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2020.02.07-05.23.52:179][884]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.02.07-05.23.52:214][885]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.02.07-05.23.52:993][908]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2020.02.07-05.23.52:993][908]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6
+[2020.02.07-05.23.53:070][910]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2020.02.07-05.23.53:091][911]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2020.02.07-05.23.53:487][923]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2020.02.07-05.23.53:620][927]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.02.07-05.23.53:805][933]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2020.02.07-05.23.54:319][948]MaterialEditorStats: Base pass shader: 119 instructions
+[2020.02.07-05.23.54:320][948]MaterialEditorStats: Base pass shader with Surface Lightmap: 146 instructions
+[2020.02.07-05.23.54:320][948]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2020.02.07-05.23.54:320][948]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.02.07-05.23.54:320][948]MaterialEditorStats: Texture samplers: 3/16
+[2020.02.07-05.23.54:320][948]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.02.07-05.23.54:320][948]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.02.07-05.23.56:682][ 14]LogMaterialEditor: Saving and Compiling material BaseGranite
+[2020.02.07-05.23.57:268][ 14]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2020.02.07-05.23.57:321][ 14]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2020.02.07-05.23.57:321][ 14]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2020.02.07-05.23.57:321][ 14]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.02.07-05.23.57:321][ 14]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.02.07-05.23.57:375][ 14]LogMaterial: Display: Missing cached shader map for material BaseGranite, compiling. 
+[2020.02.07-05.23.57:496][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2020.02.07-05.23.57:518][ 14]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.07-05.23.59:280][ 14]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 33
+[2020.02.07-05.23.59:280][ 14]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 32
+[2020.02.07-05.23.59:281][ 14]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 31
+[2020.02.07-05.23.59:281][ 14]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 30
+[2020.02.07-05.23.59:281][ 14]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 29
+[2020.02.07-05.23.59:281][ 14]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 28
+[2020.02.07-05.23.59:281][ 14]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 27
+[2020.02.07-05.23.59:281][ 14]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 26
+[2020.02.07-05.23.59:281][ 14]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 25
+[2020.02.07-05.23.59:281][ 14]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 24
+[2020.02.07-05.23.59:281][ 14]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 17
+[2020.02.07-05.23.59:281][ 14]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2020.02.07-05.23.59:281][ 14]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2020.02.07-05.23.59:284][ 14]TextureStreamingBuild: Display: Compiling optional shaders took 1.788 seconds.
+[2020.02.07-05.23.59:318][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2020.02.07-05.24.02:303][ 14]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2020.02.07-05.24.02:303][ 14]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.02.07-05.24.02:303][ 14]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.02.07-05.24.02:303][ 14]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.02.07-05.24.02:369][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/BaseGranite" FILE="../../../../../GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Materials/BaseGranite.uasset" SILENT=true
+[2020.02.07-05.24.02:393][ 14]LogSavePackage: Moving '../../../../../GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Saved/BaseGranite7FAA3D534755D668428AC59CBFDAF147.tmp' to '../../../../../GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Materials/BaseGranite.uasset'
+[2020.02.07-05.24.02:445][ 14]AssetCheck: New page: Asset Save: BaseGranite
+[2020.02.07-05.24.02:446][ 14]LogContentValidation: Display: Validating Material /Game/Materials/BaseGranite.BaseGranite
+[2020.02.07-05.24.02:451][ 14]MaterialEditorStats: Base pass shader: 119 instructions
+[2020.02.07-05.24.02:452][ 14]MaterialEditorStats: Base pass shader with Surface Lightmap: 146 instructions
+[2020.02.07-05.24.02:452][ 14]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2020.02.07-05.24.02:452][ 14]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.02.07-05.24.02:452][ 14]MaterialEditorStats: Texture samplers: 4/16
+[2020.02.07-05.24.02:452][ 14]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.02.07-05.24.02:452][ 14]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.02.07-05.24.04:587][ 42]LogSlate: Window 'BaseGranite' being destroyed
+[2020.02.07-05.24.04:790][ 42]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.02.07-05.24.04:790][ 42]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.07-05.24.10:477][191]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Materials/BaseGranite.BaseGranite
+[2020.02.07-05.24.10:483][191]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2020.02.07-05.24.10:704][191]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2020.02.07-05.24.10:724][191]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2020.02.07-05.24.10:747][191]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2020.02.07-05.24.10:747][191]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2020.02.07-05.24.10:747][191]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.02.07-05.24.10:747][191]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.02.07-05.24.10:754][191]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.02.07-05.24.11:606][204]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2020.02.07-05.24.11:612][204]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2020.02.07-05.24.11:650][205]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.02.07-05.24.11:693][205]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.02.07-05.24.12:061][209]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.02.07-05.24.12:175][211]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2020.02.07-05.24.12:337][213]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2020.02.07-05.24.12:373][213]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.02.07-05.24.12:664][216]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2020.02.07-05.24.12:758][217]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.02.07-05.24.12:816][218]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.02.07-05.24.12:968][219]MaterialEditorStats: Base pass shader: 119 instructions
+[2020.02.07-05.24.12:969][219]MaterialEditorStats: Base pass shader with Surface Lightmap: 146 instructions
+[2020.02.07-05.24.12:969][219]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2020.02.07-05.24.12:969][219]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.02.07-05.24.12:969][219]MaterialEditorStats: Texture samplers: 3/16
+[2020.02.07-05.24.12:969][219]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.02.07-05.24.12:969][219]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.02.07-05.24.14:850][243]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2020.02.07-05.24.14:874][243]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2020.02.07-05.24.14:874][243]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2020.02.07-05.24.14:874][243]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.02.07-05.24.14:874][243]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.02.07-05.24.14:874][243]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.02.07-05.24.15:713][267]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2020.02.07-05.24.15:766][269]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2020.02.07-05.24.15:787][270]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.02.07-05.24.15:813][271]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.02.07-05.24.16:234][283]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.02.07-05.24.16:361][287]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2020.02.07-05.24.16:617][293]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2020.02.07-05.24.16:705][295]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.02.07-05.24.17:006][301]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2020.02.07-05.24.17:133][303]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.02.07-05.24.17:152][304]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.02.07-05.24.18:964][333]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2020.02.07-05.24.18:991][334]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2020.02.07-05.24.18:991][334]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2020.02.07-05.24.18:991][334]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.02.07-05.24.18:991][334]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.02.07-05.24.19:833][358]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.02.07-05.24.19:913][361]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.02.07-05.24.19:913][361]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2020.02.07-05.24.19:957][362]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2020.02.07-05.24.20:318][373]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2020.02.07-05.24.20:478][378]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.02.07-05.24.20:716][385]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.02.07-05.24.21:192][399]MaterialEditorStats: Base pass shader: 120 instructions
+[2020.02.07-05.24.21:192][399]MaterialEditorStats: Base pass shader with Surface Lightmap: 147 instructions
+[2020.02.07-05.24.21:193][399]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2020.02.07-05.24.21:193][399]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.02.07-05.24.21:193][399]MaterialEditorStats: Texture samplers: 3/16
+[2020.02.07-05.24.21:193][399]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.02.07-05.24.21:193][399]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.02.07-05.24.23:061][448]LogMaterialEditor: Saving and Compiling material BaseGranite
+[2020.02.07-05.24.23:641][448]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2020.02.07-05.24.23:688][448]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2020.02.07-05.24.23:688][448]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2020.02.07-05.24.23:688][448]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.02.07-05.24.23:688][448]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.02.07-05.24.23:740][448]LogMaterial: Display: Missing cached shader map for material BaseGranite, compiling. 
+[2020.02.07-05.24.23:857][448]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2020.02.07-05.24.23:884][448]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.07-05.24.25:631][448]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 33
+[2020.02.07-05.24.25:631][448]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 32
+[2020.02.07-05.24.25:631][448]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 31
+[2020.02.07-05.24.25:631][448]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 30
+[2020.02.07-05.24.25:631][448]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 29
+[2020.02.07-05.24.25:632][448]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 28
+[2020.02.07-05.24.25:632][448]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 27
+[2020.02.07-05.24.25:632][448]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 26
+[2020.02.07-05.24.25:632][448]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 25
+[2020.02.07-05.24.25:632][448]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 24
+[2020.02.07-05.24.25:632][448]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 17
+[2020.02.07-05.24.25:632][448]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2020.02.07-05.24.25:632][448]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2020.02.07-05.24.25:634][448]TextureStreamingBuild: Display: Compiling optional shaders took 1.776 seconds.
+[2020.02.07-05.24.25:670][448]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2020.02.07-05.24.28:625][448]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.02.07-05.24.28:625][448]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.02.07-05.24.28:625][448]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.02.07-05.24.28:625][448]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2020.02.07-05.24.28:693][448]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/BaseGranite" FILE="../../../../../GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Materials/BaseGranite.uasset" SILENT=true
+[2020.02.07-05.24.28:716][448]LogSavePackage: Moving '../../../../../GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Saved/BaseGranite908BF8AE488D3454066E7EB95E54BD3F.tmp' to '../../../../../GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Materials/BaseGranite.uasset'
+[2020.02.07-05.24.28:763][448]AssetCheck: New page: Asset Save: BaseGranite
+[2020.02.07-05.24.28:763][448]LogContentValidation: Display: Validating Material /Game/Materials/BaseGranite.BaseGranite
+[2020.02.07-05.24.28:769][448]MaterialEditorStats: Base pass shader: 120 instructions
+[2020.02.07-05.24.28:769][448]MaterialEditorStats: Base pass shader with Surface Lightmap: 147 instructions
+[2020.02.07-05.24.28:769][448]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2020.02.07-05.24.28:769][448]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.02.07-05.24.28:769][448]MaterialEditorStats: Texture samplers: 4/16
+[2020.02.07-05.24.28:769][448]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.02.07-05.24.28:770][448]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.02.07-05.24.31:839][517]LogSlate: Window 'BaseGranite' being destroyed
+[2020.02.07-05.24.31:963][517]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.02.07-05.24.31:963][517]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.07-05.24.49:280][  2]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Materials/BaseGranite.BaseGranite
+[2020.02.07-05.24.49:287][  2]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2020.02.07-05.24.49:498][  2]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2020.02.07-05.24.49:518][  2]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2020.02.07-05.24.49:540][  2]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2020.02.07-05.24.49:540][  2]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2020.02.07-05.24.49:540][  2]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.02.07-05.24.49:540][  2]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.02.07-05.24.49:549][  2]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.02.07-05.24.50:483][ 16]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2020.02.07-05.24.50:520][ 17]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2020.02.07-05.24.50:528][ 17]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2020.02.07-05.24.50:570][ 18]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.02.07-05.24.50:942][ 23]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.02.07-05.24.51:020][ 24]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2020.02.07-05.24.51:249][ 28]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2020.02.07-05.24.51:301][ 29]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2020.02.07-05.24.51:551][ 32]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2020.02.07-05.24.51:677][ 34]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.02.07-05.24.51:704][ 35]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.02.07-05.24.51:822][ 36]MaterialEditorStats: Base pass shader: 120 instructions
+[2020.02.07-05.24.51:822][ 36]MaterialEditorStats: Base pass shader with Surface Lightmap: 147 instructions
+[2020.02.07-05.24.51:823][ 36]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2020.02.07-05.24.51:823][ 36]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.02.07-05.24.51:823][ 36]MaterialEditorStats: Texture samplers: 3/16
+[2020.02.07-05.24.51:823][ 36]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.02.07-05.24.51:823][ 36]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.02.07-05.25.01:246][162]LogSlate: Window 'BaseGranite' being destroyed
+[2020.02.07-05.25.01:462][162]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.02.07-05.25.01:462][162]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.07-05.25.26:402][887]MapCheck: New page: Map Check
+[2020.02.07-05.25.26:534][887]Cmd: MAP REBUILD ALLVISIBLE
+[2020.02.07-05.25.26:534][887]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.02.07-05.25.26:567][887]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=false
+[2020.02.07-05.25.26:802][887]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2020.02.07-05.25.26:816][887]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.07-05.25.26:833][887]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.07-05.25.26:853][887]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.02.07-05.25.26:853][887]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.02.07-05.25.26:854][887]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.07-05.25.26:881][887]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.02.07-05.25.26:881][887]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.02.07-05.25.26:881][887]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.07-05.25.27:683][887]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2020.02.07-05.25.27:683][887]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.02.07-05.25.27:683][887]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.02.07-05.25.27:683][887]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2020.02.07-05.25.27:683][887]TextureStreamingBuild: Display: Compiling optional shaders took 0.879 seconds.
+[2020.02.07-05.25.27:687][887]LogLevel: Display: Export Material TexCoord Scales took 0.004 seconds.
+[2020.02.07-05.25.27:692][887]TextureStreamingBuild: Display: Build Texture Streaming took 0.006 seconds.
+[2020.02.07-05.25.27:723][887]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2020.02.07-05.25.27:726][887]LightingResults: New page: Lighting Build - Feb 6, 2020, 5:25:27 PM
+[2020.02.07-05.25.27:735][887]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.02.07-05.25.27:742][887]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.02.07-05.25.27:743][887]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.02.07-05.25.27:744][887]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.02.07-05.25.27:744][887]LogSwarmInterface: [TryOpenConnection] Local Process ID is 11328
+[2020.02.07-05.25.32:361][887]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2020.02.07-05.25.32:361][887]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.02.07-05.25.32:361][887]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.02.07-05.25.32:361][887]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.02.07-05.25.32:361][887]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.02.07-05.25.32:361][887]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.02.07-05.25.32:514][887]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2020.02.07-05.25.32:514][887]MapCheck: New page: Untitled_1 - Feb 6, 2020, 5:25:32 PM
+[2020.02.07-05.25.32:514][887]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2020.02.07-05.25.32:515][887]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 0.409ms to complete.
+[2020.02.07-05.25.32:517][887]LogEditorBuildUtils: Build time 0:06
+[2020.02.07-05.25.32:740][888]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer BaseGranite, compiling. 
+[2020.02.07-05.25.32:760][888]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.02.07-05.25.32:760][888]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.02.07-05.25.32:760][888]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer BaseGranite, compiling. 
+[2020.02.07-05.25.32:835][888]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.02.07-05.25.32:835][888]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.02.07-05.25.33:701][895]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2020.02.07-05.25.38:632][963]Job is a success!
+[2020.02.07-05.25.38:895][964]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.012s
+[2020.02.07-05.25.38:895][964]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.02.07-05.25.38:895][964]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb
+[2020.02.07-05.25.38:895][964]LogVolumetricLightmapImport:      Bricks at depth
+[2020.02.07-05.25.38:895][964]LogVolumetricLightmapImport:          0: 10.0% covering 100.0% of volume
+[2020.02.07-05.25.38:895][964]LogVolumetricLightmapImport:          1: 10.0% covering 1.6% of volume
+[2020.02.07-05.25.38:895][964]LogVolumetricLightmapImport:          2: 80.0% covering 0.2% of volume
+[2020.02.07-05.25.38:895][964]LogVolumetricLightmapImport:      Bricks in each level
+[2020.02.07-05.25.38:895][964]LogVolumetricLightmapImport:          Untitled_1 			 10 bricks 	 100.0% (Persistent Level)
+[2020.02.07-05.25.38:949][964]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 256X256)
+[2020.02.07-05.25.38:949][964]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2020.02.07-05.25.38:949][964]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2020.02.07-05.25.38:949][964]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 256X256)
+[2020.02.07-05.25.38:949][964]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 32X32)
+[2020.02.07-05.25.38:949][964]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (BGRA8, 256X128)
+[2020.02.07-05.25.38:949][964]LogStaticLightingSystem: Untitled_1_BuiltData storing lightmap data for 5 meshes in 3 LightmapResourceClusters (1.7 Meshes per cluster).
+[2020.02.07-05.25.38:983][964]Lightmass on DESKTOP-GPLBC1U: 3.73 sec total, 398 ms importing, 94 ms setup, 1.20 sec photons, 1.98 sec processing, 0 ms extra exporting [5/5 mappings]. Threads: 13.8 sec total, 1.89 sec processing.
+[2020.02.07-05.25.38:985][964]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2020.02.07-05.25.39:087][964]LogStaticLightingSystem: Illumination: 11.1 sec (27 ms encoding lightmaps, 12 ms encoding shadowmaps)
+[2020.02.07-05.25.39:087][964]LogStaticLightingSystem: Lightmap texture memory:  0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 4 textures
+[2020.02.07-05.25.39:087][964]LogStaticLightingSystem: Shadowmap texture memory: 0.2 MB (0.2 MB streaming, 0.0 MB non-streaming), 2 textures
+[2020.02.07-05.25.39:372][964]DumpUnbuiltLightIteractions
+[2020.02.07-05.25.39:372][964]Lights with unbuilt interactions: 0
+[2020.02.07-05.25.39:373][964]
+[2020.02.07-05.25.39:373][964]Primitives with unbuilt interactions: 0
+[2020.02.07-05.25.39:609][965]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.02.07-05.25.39:609][965]MapCheck: New page: Untitled_1 - Feb 6, 2020, 5:25:39 PM
+[2020.02.07-05.25.39:609][965]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.28ms to complete.
+[2020.02.07-05.25.41:947][  1]LogSlate: Window 'Message Log' being destroyed
+[2020.02.07-05.25.42:035][  1]LogSlate: Window 'Message Log' being destroyed
+[2020.02.07-05.26.05:573][693]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
