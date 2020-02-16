@@ -1,4 +1,4 @@
-﻿Log file open, 02/16/20 10:22:14
+﻿Log file open, 02/16/20 10:48:07
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
@@ -9,7 +9,7 @@ LogConsoleResponse: Display: Failed to find resolution value strings in scalabil
 LogInit: Display: Running engine for game: ThreePaintingProject
 LogPlatformFile: Not using cached read wrapper
 LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
-LogStats: Stats thread started at 0.303334
+LogStats: Stats thread started at 0.254462
 LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
 LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
 LogPluginManager: Mounting plugin Paper2D
@@ -174,364 +174,542 @@ LogInit: Presizing for max 25165824 objects, including 0 objects not considered 
 LogInit: Object subsystem initialized
 LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
 LogConfig: Setting CVar [[r.setres:1280x720]]
-[2020.02.16-16.22.15:290][  0]LogConfig: Setting CVar [[r.VSync:0]]
-[2020.02.16-16.22.15:290][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
-[2020.02.16-16.22.15:290][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/reidn/OneDrive/Documents/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Saved/Config/Windows/Engine.ini]
-[2020.02.16-16.22.15:290][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
-[2020.02.16-16.22.15:290][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/reidn/OneDrive/Documents/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Saved/Config/Windows/Engine.ini]
-[2020.02.16-16.22.15:290][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/reidn/OneDrive/Documents/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Saved/Config/Windows/Engine.ini]
-[2020.02.16-16.22.15:290][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
-[2020.02.16-16.22.15:290][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
-[2020.02.16-16.22.15:290][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
-[2020.02.16-16.22.15:290][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
-[2020.02.16-16.22.15:290][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
-[2020.02.16-16.22.15:290][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
-[2020.02.16-16.22.15:290][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
-[2020.02.16-16.22.15:290][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
-[2020.02.16-16.22.15:290][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
-[2020.02.16-16.22.15:290][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
-[2020.02.16-16.22.15:291][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
-[2020.02.16-16.22.15:291][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
-[2020.02.16-16.22.15:291][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
-[2020.02.16-16.22.15:291][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
-[2020.02.16-16.22.15:291][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/reidn/OneDrive/Documents/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Saved/Config/Windows/Engine.ini]
-[2020.02.16-16.22.15:291][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
-[2020.02.16-16.22.15:291][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
-[2020.02.16-16.22.15:291][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
-[2020.02.16-16.22.15:291][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
-[2020.02.16-16.22.15:291][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
-[2020.02.16-16.22.15:291][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
-[2020.02.16-16.22.15:291][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
-[2020.02.16-16.22.15:291][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
-[2020.02.16-16.22.15:291][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
-[2020.02.16-16.22.15:291][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
-[2020.02.16-16.22.15:291][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
-[2020.02.16-16.22.15:291][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
-[2020.02.16-16.22.15:291][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
-[2020.02.16-16.22.15:291][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/reidn/OneDrive/Documents/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Saved/Config/Windows/Engine.ini]
-[2020.02.16-16.22.15:291][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/reidn/OneDrive/Documents/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Saved/Config/Windows/Engine.ini]
-[2020.02.16-16.22.15:296][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/reidn/OneDrive/Documents/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Saved/Config/Windows/Scalability.ini]
-[2020.02.16-16.22.15:296][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
-[2020.02.16-16.22.15:296][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
-[2020.02.16-16.22.15:296][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/reidn/OneDrive/Documents/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Saved/Config/Windows/Scalability.ini]
-[2020.02.16-16.22.15:296][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
-[2020.02.16-16.22.15:297][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/reidn/OneDrive/Documents/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Saved/Config/Windows/Scalability.ini]
-[2020.02.16-16.22.15:297][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
-[2020.02.16-16.22.15:297][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
-[2020.02.16-16.22.15:297][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
-[2020.02.16-16.22.15:297][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
-[2020.02.16-16.22.15:297][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
-[2020.02.16-16.22.15:297][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
-[2020.02.16-16.22.15:297][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
-[2020.02.16-16.22.15:297][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
-[2020.02.16-16.22.15:297][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
-[2020.02.16-16.22.15:297][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
-[2020.02.16-16.22.15:297][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
-[2020.02.16-16.22.15:297][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
-[2020.02.16-16.22.15:297][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
-[2020.02.16-16.22.15:297][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
-[2020.02.16-16.22.15:297][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
-[2020.02.16-16.22.15:297][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
-[2020.02.16-16.22.15:297][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
-[2020.02.16-16.22.15:297][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
-[2020.02.16-16.22.15:297][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/reidn/OneDrive/Documents/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Saved/Config/Windows/Scalability.ini]
-[2020.02.16-16.22.15:297][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
-[2020.02.16-16.22.15:297][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
-[2020.02.16-16.22.15:297][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
-[2020.02.16-16.22.15:297][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
-[2020.02.16-16.22.15:297][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
-[2020.02.16-16.22.15:297][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
-[2020.02.16-16.22.15:297][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
-[2020.02.16-16.22.15:297][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
-[2020.02.16-16.22.15:297][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
-[2020.02.16-16.22.15:298][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
-[2020.02.16-16.22.15:298][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
-[2020.02.16-16.22.15:298][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
-[2020.02.16-16.22.15:298][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
-[2020.02.16-16.22.15:298][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
-[2020.02.16-16.22.15:298][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
-[2020.02.16-16.22.15:298][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
-[2020.02.16-16.22.15:298][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
-[2020.02.16-16.22.15:298][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
-[2020.02.16-16.22.15:298][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
-[2020.02.16-16.22.15:298][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
-[2020.02.16-16.22.15:298][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
-[2020.02.16-16.22.15:298][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
-[2020.02.16-16.22.15:298][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
-[2020.02.16-16.22.15:298][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
-[2020.02.16-16.22.15:298][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
-[2020.02.16-16.22.15:298][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
-[2020.02.16-16.22.15:298][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
-[2020.02.16-16.22.15:299][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
-[2020.02.16-16.22.15:299][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
-[2020.02.16-16.22.15:299][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
-[2020.02.16-16.22.15:299][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/reidn/OneDrive/Documents/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Saved/Config/Windows/Scalability.ini]
-[2020.02.16-16.22.15:299][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
-[2020.02.16-16.22.15:299][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
-[2020.02.16-16.22.15:299][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
-[2020.02.16-16.22.15:299][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
-[2020.02.16-16.22.15:299][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
-[2020.02.16-16.22.15:299][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
-[2020.02.16-16.22.15:299][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
-[2020.02.16-16.22.15:299][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
-[2020.02.16-16.22.15:299][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
-[2020.02.16-16.22.15:299][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/reidn/OneDrive/Documents/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Saved/Config/Windows/Scalability.ini]
-[2020.02.16-16.22.15:299][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
-[2020.02.16-16.22.15:299][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
-[2020.02.16-16.22.15:299][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
-[2020.02.16-16.22.15:299][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
-[2020.02.16-16.22.15:299][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
-[2020.02.16-16.22.15:300][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
-[2020.02.16-16.22.15:300][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
-[2020.02.16-16.22.15:300][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
-[2020.02.16-16.22.15:300][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
-[2020.02.16-16.22.15:300][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
-[2020.02.16-16.22.15:300][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
-[2020.02.16-16.22.15:300][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
-[2020.02.16-16.22.15:300][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
-[2020.02.16-16.22.15:300][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
-[2020.02.16-16.22.15:300][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
-[2020.02.16-16.22.15:300][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
-[2020.02.16-16.22.15:300][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
-[2020.02.16-16.22.15:300][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
-[2020.02.16-16.22.15:300][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
-[2020.02.16-16.22.15:300][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
-[2020.02.16-16.22.15:300][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
-[2020.02.16-16.22.15:300][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
-[2020.02.16-16.22.15:300][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
-[2020.02.16-16.22.15:300][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
-[2020.02.16-16.22.15:300][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
-[2020.02.16-16.22.15:300][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
-[2020.02.16-16.22.15:300][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/reidn/OneDrive/Documents/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Saved/Config/Windows/Scalability.ini]
-[2020.02.16-16.22.15:300][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
-[2020.02.16-16.22.15:300][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
-[2020.02.16-16.22.15:300][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/reidn/OneDrive/Documents/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Saved/Config/Windows/Scalability.ini]
-[2020.02.16-16.22.15:301][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
-[2020.02.16-16.22.15:301][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
-[2020.02.16-16.22.15:301][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
-[2020.02.16-16.22.15:301][  0]LogInit: Selected Device Profile: [Windows]
-[2020.02.16-16.22.15:301][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
-[2020.02.16-16.22.15:309][  0]LogHAL: Display: Platform has ~ 8 GB [8442564608 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
-[2020.02.16-16.22.15:309][  0]LogInit: Going up to parent DeviceProfile []
-[2020.02.16-16.22.15:309][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/reidn/OneDrive/Documents/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Saved/Config/Windows/Scalability.ini]
-[2020.02.16-16.22.15:309][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
-[2020.02.16-16.22.15:309][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
-[2020.02.16-16.22.15:309][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/reidn/OneDrive/Documents/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Saved/Config/Windows/Scalability.ini]
-[2020.02.16-16.22.15:309][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
-[2020.02.16-16.22.15:309][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/reidn/OneDrive/Documents/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Saved/Config/Windows/Scalability.ini]
-[2020.02.16-16.22.15:309][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
-[2020.02.16-16.22.15:309][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
-[2020.02.16-16.22.15:309][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
-[2020.02.16-16.22.15:309][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
-[2020.02.16-16.22.15:310][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
-[2020.02.16-16.22.15:310][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
-[2020.02.16-16.22.15:310][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
-[2020.02.16-16.22.15:310][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
-[2020.02.16-16.22.15:310][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
-[2020.02.16-16.22.15:310][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
-[2020.02.16-16.22.15:310][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
-[2020.02.16-16.22.15:310][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
-[2020.02.16-16.22.15:310][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
-[2020.02.16-16.22.15:310][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
-[2020.02.16-16.22.15:310][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
-[2020.02.16-16.22.15:310][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
-[2020.02.16-16.22.15:310][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
-[2020.02.16-16.22.15:310][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
-[2020.02.16-16.22.15:310][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/reidn/OneDrive/Documents/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Saved/Config/Windows/Scalability.ini]
-[2020.02.16-16.22.15:310][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
-[2020.02.16-16.22.15:310][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
-[2020.02.16-16.22.15:310][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
-[2020.02.16-16.22.15:310][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
-[2020.02.16-16.22.15:310][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
-[2020.02.16-16.22.15:311][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
-[2020.02.16-16.22.15:311][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
-[2020.02.16-16.22.15:311][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
-[2020.02.16-16.22.15:311][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
-[2020.02.16-16.22.15:311][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
-[2020.02.16-16.22.15:311][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
-[2020.02.16-16.22.15:311][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
-[2020.02.16-16.22.15:311][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
-[2020.02.16-16.22.15:311][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
-[2020.02.16-16.22.15:311][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
-[2020.02.16-16.22.15:311][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
-[2020.02.16-16.22.15:311][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
-[2020.02.16-16.22.15:311][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
-[2020.02.16-16.22.15:311][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
-[2020.02.16-16.22.15:311][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
-[2020.02.16-16.22.15:311][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
-[2020.02.16-16.22.15:311][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
-[2020.02.16-16.22.15:311][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
-[2020.02.16-16.22.15:311][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
-[2020.02.16-16.22.15:311][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
-[2020.02.16-16.22.15:311][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
-[2020.02.16-16.22.15:311][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
-[2020.02.16-16.22.15:311][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
-[2020.02.16-16.22.15:311][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
-[2020.02.16-16.22.15:311][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
-[2020.02.16-16.22.15:311][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/reidn/OneDrive/Documents/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Saved/Config/Windows/Scalability.ini]
-[2020.02.16-16.22.15:311][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
-[2020.02.16-16.22.15:311][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
-[2020.02.16-16.22.15:312][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
-[2020.02.16-16.22.15:312][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
-[2020.02.16-16.22.15:312][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
-[2020.02.16-16.22.15:312][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
-[2020.02.16-16.22.15:312][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
-[2020.02.16-16.22.15:312][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
-[2020.02.16-16.22.15:312][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
-[2020.02.16-16.22.15:312][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/reidn/OneDrive/Documents/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Saved/Config/Windows/Scalability.ini]
-[2020.02.16-16.22.15:312][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
-[2020.02.16-16.22.15:312][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
-[2020.02.16-16.22.15:312][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
-[2020.02.16-16.22.15:312][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
-[2020.02.16-16.22.15:312][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
-[2020.02.16-16.22.15:312][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
-[2020.02.16-16.22.15:312][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
-[2020.02.16-16.22.15:312][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
-[2020.02.16-16.22.15:312][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
-[2020.02.16-16.22.15:312][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
-[2020.02.16-16.22.15:312][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
-[2020.02.16-16.22.15:312][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
-[2020.02.16-16.22.15:312][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
-[2020.02.16-16.22.15:312][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
-[2020.02.16-16.22.15:312][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
-[2020.02.16-16.22.15:312][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
-[2020.02.16-16.22.15:312][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
-[2020.02.16-16.22.15:312][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
-[2020.02.16-16.22.15:312][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
-[2020.02.16-16.22.15:312][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
-[2020.02.16-16.22.15:313][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
-[2020.02.16-16.22.15:313][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
-[2020.02.16-16.22.15:313][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
-[2020.02.16-16.22.15:313][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
-[2020.02.16-16.22.15:313][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
-[2020.02.16-16.22.15:313][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
-[2020.02.16-16.22.15:313][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/reidn/OneDrive/Documents/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Saved/Config/Windows/Scalability.ini]
-[2020.02.16-16.22.15:313][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
-[2020.02.16-16.22.15:313][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
-[2020.02.16-16.22.15:313][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/reidn/OneDrive/Documents/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Saved/Config/Windows/Scalability.ini]
-[2020.02.16-16.22.15:313][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
-[2020.02.16-16.22.15:313][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
-[2020.02.16-16.22.15:313][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
-[2020.02.16-16.22.15:313][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
-[2020.02.16-16.22.15:314][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
-[2020.02.16-16.22.15:314][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
-[2020.02.16-16.22.15:314][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/reidn/OneDrive/Documents/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Saved/Config/Windows/Engine.ini]
-[2020.02.16-16.22.15:314][  0]LogInit: Computer: DESKTOP-KNP0CA4
-[2020.02.16-16.22.15:314][  0]LogInit: User: reidn
-[2020.02.16-16.22.15:314][  0]LogInit: CPU Page size=4096, Cores=2
-[2020.02.16-16.22.15:314][  0]LogInit: High frequency timer resolution =10.000000 MHz
-[2020.02.16-16.22.15:315][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
-[2020.02.16-16.22.15:315][  0]LogMemory: Platform Memory Stats for Windows
-[2020.02.16-16.22.15:315][  0]LogMemory: Process Physical Memory: 104.75 MB used, 104.75 MB peak
-[2020.02.16-16.22.15:315][  0]LogMemory: Process Virtual Memory: 99.73 MB used, 99.73 MB peak
-[2020.02.16-16.22.15:315][  0]LogMemory: Physical Memory: 5527.87 MB used,  2523.59 MB free, 8051.46 MB total
-[2020.02.16-16.22.15:315][  0]LogMemory: Virtual Memory: 5082.73 MB used,  134212648.00 MB free, 134217728.00 MB total
-[2020.02.16-16.22.15:328][  0]LogWindows: WindowsPlatformFeatures enabled
-[2020.02.16-16.22.15:372][  0]LogInit: Using OS detected language (en-US).
-[2020.02.16-16.22.15:372][  0]LogInit: Using OS detected locale (en-US).
-[2020.02.16-16.22.15:376][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
-[2020.02.16-16.22.15:779][  0]LogInit: Setting process to per monitor DPI aware
-[2020.02.16-16.22.15:856][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
-[2020.02.16-16.22.15:856][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
-[2020.02.16-16.22.16:367][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2020.02.16-16.22.16:367][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
-[2020.02.16-16.22.16:367][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
-[2020.02.16-16.22.16:367][  0]LogD3D11RHI: D3D11 adapters:
-[2020.02.16-16.22.16:447][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 520' (Feature Level 11_0)
-[2020.02.16-16.22.16:447][  0]LogD3D11RHI:       128/0/4025 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
-[2020.02.16-16.22.16:454][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
-[2020.02.16-16.22.16:454][  0]LogD3D11RHI:       0/0/4025 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
-[2020.02.16-16.22.16:454][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
-[2020.02.16-16.22.16:465][  0]LogD3D11RHI: Creating new Direct3DDevice
-[2020.02.16-16.22.16:466][  0]LogD3D11RHI:     GPU DeviceId: 0x1916 (for the marketing name, search the web for "GPU Device Id")
-[2020.02.16-16.22.16:466][  0]LogWindows: EnumDisplayDevices:
-[2020.02.16-16.22.16:466][  0]LogWindows:    0. 'Intel(R) HD Graphics 520' (P:1 D:1)
-[2020.02.16-16.22.16:467][  0]LogWindows:    1. 'Intel(R) HD Graphics 520' (P:0 D:0)
-[2020.02.16-16.22.16:468][  0]LogWindows:    2. 'Intel(R) HD Graphics 520' (P:0 D:0)
-[2020.02.16-16.22.16:469][  0]LogWindows: DebugString: FoundDriverCount:3 
-[2020.02.16-16.22.16:469][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 520
-[2020.02.16-16.22.16:469][  0]LogD3D11RHI:   Driver Version: 23.20.16.4973 (internal:23.20.16.4973, unified:23.20.16.4973)
-[2020.02.16-16.22.16:469][  0]LogD3D11RHI:      Driver Date: 2-28-2018
-[2020.02.16-16.22.16:469][  0]LogRHI: Texture pool is 1498 MB (70% of 2140 MB)
-[2020.02.16-16.22.16:546][  0]LogD3D11RHI: RHI does not have support for 64 bit atomics
-[2020.02.16-16.22.16:546][  0]LogD3D11RHI: Async texture creation enabled
-[2020.02.16-16.22.16:567][  0]LogD3D11RHI: GPU Timing Frequency: 12.000048 (Debug: 2 0)
-[2020.02.16-16.22.17:662][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
-[2020.02.16-16.22.17:758][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
-[2020.02.16-16.22.17:758][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
-[2020.02.16-16.22.17:758][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
-[2020.02.16-16.22.17:758][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
-[2020.02.16-16.22.17:758][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
-[2020.02.16-16.22.17:759][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
-[2020.02.16-16.22.17:759][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
-[2020.02.16-16.22.17:759][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
-[2020.02.16-16.22.17:759][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
-[2020.02.16-16.22.17:759][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
-[2020.02.16-16.22.17:759][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
-[2020.02.16-16.22.17:759][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
-[2020.02.16-16.22.17:759][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
-[2020.02.16-16.22.17:759][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
-[2020.02.16-16.22.17:759][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
-[2020.02.16-16.22.17:759][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
-[2020.02.16-16.22.17:759][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
-[2020.02.16-16.22.17:759][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
-[2020.02.16-16.22.17:812][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
-[2020.02.16-16.22.17:812][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
-[2020.02.16-16.22.17:830][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
-[2020.02.16-16.22.17:855][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
-[2020.02.16-16.22.17:875][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
-[2020.02.16-16.22.17:894][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
-[2020.02.16-16.22.17:913][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
-[2020.02.16-16.22.17:934][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
-[2020.02.16-16.22.18:001][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
-[2020.02.16-16.22.18:001][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
-[2020.02.16-16.22.18:042][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
-[2020.02.16-16.22.18:042][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
-[2020.02.16-16.22.18:061][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
-[2020.02.16-16.22.18:079][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
-[2020.02.16-16.22.18:096][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
-[2020.02.16-16.22.18:120][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
-[2020.02.16-16.22.18:120][  0]LogTargetPlatformManager: Display: Building Assets For Windows
-[2020.02.16-16.22.18:132][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
-[2020.02.16-16.22.18:207][  0]LogShaderCompilers: Guid format shader working directory is -60 characters bigger than the processId version (../../../../../../Users/reidn/OneDrive/Documents/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Intermediate/Shaders/WorkingDirectory/4196/).
-[2020.02.16-16.22.18:207][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/reidn/AppData/Local/Temp/UnrealShaderWorkingDir/F84E514D4F5F7FAAEC294FAAD1D9B4AA/'.
-[2020.02.16-16.22.18:208][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
-[2020.02.16-16.22.18:209][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
-[2020.02.16-16.22.18:209][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
-[2020.02.16-16.22.20:189][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
-[2020.02.16-16.22.20:303][  0]LogDerivedDataCache: Loaded boot cache 0.11s 95MB C:/Users/reidn/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
-[2020.02.16-16.22.20:303][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/reidn/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
-[2020.02.16-16.22.20:304][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/reidn/OneDrive/Documents/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
-[2020.02.16-16.22.20:304][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
-[2020.02.16-16.22.20:304][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/reidn/OneDrive/Documents/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2020.02.16-16.22.20:304][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
-[2020.02.16-16.22.20:324][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
-[2020.02.16-16.22.20:324][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2020.02.16-16.22.20:324][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
-[2020.02.16-16.22.20:457][  0]LogDerivedDataCache: Using Local data cache path C:/Users/reidn/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
-[2020.02.16-16.22.20:457][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
-[2020.02.16-16.22.20:457][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
-[2020.02.16-16.22.20:513][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
-[2020.02.16-16.22.20:521][  0]LogSlate: Using FreeType 2.10.0
-[2020.02.16-16.22.20:522][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2020.02.16-16.22.20:664][  0]LogAssetRegistry: FAssetRegistry took 0.0039 seconds to start up
-[2020.02.16-16.22.21:472][  0]LogInit: Selected Device Profile: [Windows]
-[2020.02.16-16.22.21:947][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
-[2020.02.16-16.22.21:947][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
-[2020.02.16-16.22.21:947][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
-[2020.02.16-16.22.21:947][  0]LogMeshReduction: No distributed automatic mesh merging module available
-[2020.02.16-16.22.21:947][  0]LogMeshMerging: No distributed automatic mesh merging module available
-[2020.02.16-16.22.22:040][  0]LogNetVersion: ThreePaintingProject 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 3160085242)
-[2020.02.16-16.22.25:312][  0]LogPackageLocalizationCache: Processed 15 localized package path(s) for 1 prioritized culture(s) in 0.102897 seconds
-[2020.02.16-16.22.25:326][  0]LogUObjectArray: 46746 objects as part of root set at end of initial load.
-[2020.02.16-16.22.25:326][  0]LogUObjectAllocator: 8135816 out of 0 bytes used by permanent object pool.
-[2020.02.16-16.22.25:326][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
-[2020.02.16-16.22.26:316][  0]LogTcpMessaging: Initializing TcpMessaging bridge
-[2020.02.16-16.22.26:338][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
-[2020.02.16-16.22.26:459][  0]SourceControl: Source control is disabled
-[2020.02.16-16.22.26:459][  0]SourceControl: Source control is disabled
-[2020.02.16-16.22.26:462][  0]SourceControl: Source control is disabled
-[2020.02.16-16.22.26:463][  0]SourceControl: Source control is disabled
-[2020.02.16-16.22.26:466][  0]SourceControl: Source control is disabled
-[2020.02.16-16.22.26:505][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
-[2020.02.16-16.22.26:506][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.02.16-16.48.08:458][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.02.16-16.48.08:458][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.02.16-16.48.08:458][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/reidn/OneDrive/Documents/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Saved/Config/Windows/Engine.ini]
+[2020.02.16-16.48.08:458][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.02.16-16.48.08:458][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/reidn/OneDrive/Documents/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Saved/Config/Windows/Engine.ini]
+[2020.02.16-16.48.08:458][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/reidn/OneDrive/Documents/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Saved/Config/Windows/Engine.ini]
+[2020.02.16-16.48.08:458][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.02.16-16.48.08:458][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.02.16-16.48.08:458][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.02.16-16.48.08:458][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.02.16-16.48.08:458][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.02.16-16.48.08:458][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.02.16-16.48.08:458][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.02.16-16.48.08:458][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.02.16-16.48.08:458][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.02.16-16.48.08:458][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.02.16-16.48.08:458][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.02.16-16.48.08:458][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.02.16-16.48.08:458][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.02.16-16.48.08:458][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.02.16-16.48.08:459][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/reidn/OneDrive/Documents/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Saved/Config/Windows/Engine.ini]
+[2020.02.16-16.48.08:459][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.02.16-16.48.08:459][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.02.16-16.48.08:459][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.02.16-16.48.08:459][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.02.16-16.48.08:459][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.02.16-16.48.08:459][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.02.16-16.48.08:459][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.02.16-16.48.08:459][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.02.16-16.48.08:459][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.02.16-16.48.08:459][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.02.16-16.48.08:459][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.02.16-16.48.08:459][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.02.16-16.48.08:459][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.02.16-16.48.08:459][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/reidn/OneDrive/Documents/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Saved/Config/Windows/Engine.ini]
+[2020.02.16-16.48.08:459][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/reidn/OneDrive/Documents/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Saved/Config/Windows/Engine.ini]
+[2020.02.16-16.48.08:465][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/reidn/OneDrive/Documents/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Saved/Config/Windows/Scalability.ini]
+[2020.02.16-16.48.08:465][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.02.16-16.48.08:465][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.02.16-16.48.08:465][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/reidn/OneDrive/Documents/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Saved/Config/Windows/Scalability.ini]
+[2020.02.16-16.48.08:465][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.02.16-16.48.08:465][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/reidn/OneDrive/Documents/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Saved/Config/Windows/Scalability.ini]
+[2020.02.16-16.48.08:465][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.02.16-16.48.08:465][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.02.16-16.48.08:465][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.02.16-16.48.08:465][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.02.16-16.48.08:465][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.02.16-16.48.08:465][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.02.16-16.48.08:465][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.02.16-16.48.08:465][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.02.16-16.48.08:465][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.02.16-16.48.08:465][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.02.16-16.48.08:465][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.02.16-16.48.08:465][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.02.16-16.48.08:465][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.02.16-16.48.08:466][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.02.16-16.48.08:466][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.02.16-16.48.08:466][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.02.16-16.48.08:466][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.02.16-16.48.08:466][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.02.16-16.48.08:466][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/reidn/OneDrive/Documents/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Saved/Config/Windows/Scalability.ini]
+[2020.02.16-16.48.08:466][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.02.16-16.48.08:466][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.02.16-16.48.08:466][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.02.16-16.48.08:466][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.02.16-16.48.08:466][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.02.16-16.48.08:466][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.02.16-16.48.08:466][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.02.16-16.48.08:466][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.02.16-16.48.08:466][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.02.16-16.48.08:466][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.02.16-16.48.08:466][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.02.16-16.48.08:466][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.02.16-16.48.08:466][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.02.16-16.48.08:466][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.02.16-16.48.08:466][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.02.16-16.48.08:466][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.02.16-16.48.08:466][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.02.16-16.48.08:466][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.02.16-16.48.08:466][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.02.16-16.48.08:467][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.02.16-16.48.08:467][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.02.16-16.48.08:467][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.02.16-16.48.08:467][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.02.16-16.48.08:467][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.02.16-16.48.08:467][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.02.16-16.48.08:467][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.02.16-16.48.08:467][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.02.16-16.48.08:467][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.02.16-16.48.08:467][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.02.16-16.48.08:467][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.02.16-16.48.08:467][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/reidn/OneDrive/Documents/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Saved/Config/Windows/Scalability.ini]
+[2020.02.16-16.48.08:467][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.02.16-16.48.08:467][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.02.16-16.48.08:467][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.02.16-16.48.08:467][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.02.16-16.48.08:467][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.02.16-16.48.08:467][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.02.16-16.48.08:467][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.02.16-16.48.08:467][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.02.16-16.48.08:467][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.02.16-16.48.08:467][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/reidn/OneDrive/Documents/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Saved/Config/Windows/Scalability.ini]
+[2020.02.16-16.48.08:467][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.02.16-16.48.08:468][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.02.16-16.48.08:468][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.02.16-16.48.08:468][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.02.16-16.48.08:468][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.02.16-16.48.08:468][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.02.16-16.48.08:468][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.02.16-16.48.08:468][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.02.16-16.48.08:468][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.02.16-16.48.08:468][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.02.16-16.48.08:468][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.02.16-16.48.08:468][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.02.16-16.48.08:468][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.02.16-16.48.08:468][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.02.16-16.48.08:468][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.02.16-16.48.08:468][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.02.16-16.48.08:468][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.02.16-16.48.08:468][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.02.16-16.48.08:468][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.02.16-16.48.08:468][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.02.16-16.48.08:468][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.02.16-16.48.08:468][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.02.16-16.48.08:468][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.02.16-16.48.08:468][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.02.16-16.48.08:468][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.02.16-16.48.08:468][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.02.16-16.48.08:468][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/reidn/OneDrive/Documents/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Saved/Config/Windows/Scalability.ini]
+[2020.02.16-16.48.08:468][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.02.16-16.48.08:468][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.02.16-16.48.08:468][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/reidn/OneDrive/Documents/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Saved/Config/Windows/Scalability.ini]
+[2020.02.16-16.48.08:468][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.02.16-16.48.08:468][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.02.16-16.48.08:469][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.02.16-16.48.08:469][  0]LogInit: Selected Device Profile: [Windows]
+[2020.02.16-16.48.08:469][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.02.16-16.48.08:475][  0]LogHAL: Display: Platform has ~ 8 GB [8442564608 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.02.16-16.48.08:475][  0]LogInit: Going up to parent DeviceProfile []
+[2020.02.16-16.48.08:475][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/reidn/OneDrive/Documents/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Saved/Config/Windows/Scalability.ini]
+[2020.02.16-16.48.08:475][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.02.16-16.48.08:476][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.02.16-16.48.08:476][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/reidn/OneDrive/Documents/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Saved/Config/Windows/Scalability.ini]
+[2020.02.16-16.48.08:476][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.02.16-16.48.08:476][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/reidn/OneDrive/Documents/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Saved/Config/Windows/Scalability.ini]
+[2020.02.16-16.48.08:476][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.02.16-16.48.08:476][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.02.16-16.48.08:476][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.02.16-16.48.08:476][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.02.16-16.48.08:476][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.02.16-16.48.08:476][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.02.16-16.48.08:476][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.02.16-16.48.08:476][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.02.16-16.48.08:476][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.02.16-16.48.08:476][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.02.16-16.48.08:476][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.02.16-16.48.08:476][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.02.16-16.48.08:476][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.02.16-16.48.08:476][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.02.16-16.48.08:476][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.02.16-16.48.08:476][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.02.16-16.48.08:476][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.02.16-16.48.08:477][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.02.16-16.48.08:477][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/reidn/OneDrive/Documents/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Saved/Config/Windows/Scalability.ini]
+[2020.02.16-16.48.08:477][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.02.16-16.48.08:477][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.02.16-16.48.08:477][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.02.16-16.48.08:477][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.02.16-16.48.08:477][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.02.16-16.48.08:477][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.02.16-16.48.08:477][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.02.16-16.48.08:477][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.02.16-16.48.08:477][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.02.16-16.48.08:477][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.02.16-16.48.08:477][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.02.16-16.48.08:477][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.02.16-16.48.08:477][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.02.16-16.48.08:477][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.02.16-16.48.08:477][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.02.16-16.48.08:477][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.02.16-16.48.08:477][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.02.16-16.48.08:478][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.02.16-16.48.08:478][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.02.16-16.48.08:478][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.02.16-16.48.08:478][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.02.16-16.48.08:478][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.02.16-16.48.08:478][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.02.16-16.48.08:478][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.02.16-16.48.08:478][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.02.16-16.48.08:478][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.02.16-16.48.08:478][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.02.16-16.48.08:478][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.02.16-16.48.08:478][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.02.16-16.48.08:478][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.02.16-16.48.08:478][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/reidn/OneDrive/Documents/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Saved/Config/Windows/Scalability.ini]
+[2020.02.16-16.48.08:478][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.02.16-16.48.08:478][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.02.16-16.48.08:478][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.02.16-16.48.08:478][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.02.16-16.48.08:478][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.02.16-16.48.08:478][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.02.16-16.48.08:478][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.02.16-16.48.08:478][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.02.16-16.48.08:478][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.02.16-16.48.08:479][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/reidn/OneDrive/Documents/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Saved/Config/Windows/Scalability.ini]
+[2020.02.16-16.48.08:479][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.02.16-16.48.08:479][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.02.16-16.48.08:479][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.02.16-16.48.08:479][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.02.16-16.48.08:479][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.02.16-16.48.08:479][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.02.16-16.48.08:479][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.02.16-16.48.08:479][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.02.16-16.48.08:479][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.02.16-16.48.08:479][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.02.16-16.48.08:479][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.02.16-16.48.08:479][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.02.16-16.48.08:479][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.02.16-16.48.08:479][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.02.16-16.48.08:479][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.02.16-16.48.08:479][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.02.16-16.48.08:479][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.02.16-16.48.08:479][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.02.16-16.48.08:479][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.02.16-16.48.08:479][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.02.16-16.48.08:479][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.02.16-16.48.08:479][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.02.16-16.48.08:479][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.02.16-16.48.08:479][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.02.16-16.48.08:479][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.02.16-16.48.08:479][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.02.16-16.48.08:479][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/reidn/OneDrive/Documents/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Saved/Config/Windows/Scalability.ini]
+[2020.02.16-16.48.08:480][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.02.16-16.48.08:480][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.02.16-16.48.08:480][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/reidn/OneDrive/Documents/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Saved/Config/Windows/Scalability.ini]
+[2020.02.16-16.48.08:480][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.02.16-16.48.08:480][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.02.16-16.48.08:480][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.02.16-16.48.08:480][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.02.16-16.48.08:481][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.02.16-16.48.08:481][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.02.16-16.48.08:481][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/reidn/OneDrive/Documents/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Saved/Config/Windows/Engine.ini]
+[2020.02.16-16.48.08:481][  0]LogInit: Computer: DESKTOP-KNP0CA4
+[2020.02.16-16.48.08:481][  0]LogInit: User: reidn
+[2020.02.16-16.48.08:481][  0]LogInit: CPU Page size=4096, Cores=2
+[2020.02.16-16.48.08:481][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.02.16-16.48.08:481][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2020.02.16-16.48.08:481][  0]LogMemory: Platform Memory Stats for Windows
+[2020.02.16-16.48.08:481][  0]LogMemory: Process Physical Memory: 104.78 MB used, 104.79 MB peak
+[2020.02.16-16.48.08:481][  0]LogMemory: Process Virtual Memory: 99.61 MB used, 99.61 MB peak
+[2020.02.16-16.48.08:482][  0]LogMemory: Physical Memory: 4120.55 MB used,  3930.91 MB free, 8051.46 MB total
+[2020.02.16-16.48.08:482][  0]LogMemory: Virtual Memory: 5082.73 MB used,  134212648.00 MB free, 134217728.00 MB total
+[2020.02.16-16.48.08:492][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.02.16-16.48.08:537][  0]LogInit: Using OS detected language (en-US).
+[2020.02.16-16.48.08:537][  0]LogInit: Using OS detected locale (en-US).
+[2020.02.16-16.48.08:542][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.02.16-16.48.08:905][  0]LogInit: Setting process to per monitor DPI aware
+[2020.02.16-16.48.08:970][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.02.16-16.48.08:970][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.02.16-16.48.09:479][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.02.16-16.48.09:479][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.02.16-16.48.09:479][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.02.16-16.48.09:479][  0]LogD3D11RHI: D3D11 adapters:
+[2020.02.16-16.48.09:571][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 520' (Feature Level 11_0)
+[2020.02.16-16.48.09:571][  0]LogD3D11RHI:       128/0/4025 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2020.02.16-16.48.09:577][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.02.16-16.48.09:577][  0]LogD3D11RHI:       0/0/4025 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.02.16-16.48.09:577][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.02.16-16.48.09:588][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.02.16-16.48.09:588][  0]LogD3D11RHI:     GPU DeviceId: 0x1916 (for the marketing name, search the web for "GPU Device Id")
+[2020.02.16-16.48.09:588][  0]LogWindows: EnumDisplayDevices:
+[2020.02.16-16.48.09:588][  0]LogWindows:    0. 'Intel(R) HD Graphics 520' (P:1 D:1)
+[2020.02.16-16.48.09:589][  0]LogWindows:    1. 'Intel(R) HD Graphics 520' (P:0 D:0)
+[2020.02.16-16.48.09:589][  0]LogWindows:    2. 'Intel(R) HD Graphics 520' (P:0 D:0)
+[2020.02.16-16.48.09:590][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2020.02.16-16.48.09:590][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 520
+[2020.02.16-16.48.09:591][  0]LogD3D11RHI:   Driver Version: 23.20.16.4973 (internal:23.20.16.4973, unified:23.20.16.4973)
+[2020.02.16-16.48.09:591][  0]LogD3D11RHI:      Driver Date: 2-28-2018
+[2020.02.16-16.48.09:591][  0]LogRHI: Texture pool is 1498 MB (70% of 2140 MB)
+[2020.02.16-16.48.09:674][  0]LogD3D11RHI: RHI does not have support for 64 bit atomics
+[2020.02.16-16.48.09:674][  0]LogD3D11RHI: Async texture creation enabled
+[2020.02.16-16.48.09:696][  0]LogD3D11RHI: GPU Timing Frequency: 12.000048 (Debug: 2 0)
+[2020.02.16-16.48.10:674][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.02.16-16.48.10:744][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.02.16-16.48.10:744][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.02.16-16.48.10:744][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.02.16-16.48.10:745][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.02.16-16.48.10:745][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.02.16-16.48.10:745][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.02.16-16.48.10:745][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.02.16-16.48.10:745][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.02.16-16.48.10:745][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.02.16-16.48.10:745][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.02.16-16.48.10:745][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.02.16-16.48.10:745][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.02.16-16.48.10:745][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.02.16-16.48.10:745][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.02.16-16.48.10:745][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.02.16-16.48.10:745][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.02.16-16.48.10:745][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.02.16-16.48.10:745][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.02.16-16.48.10:802][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.02.16-16.48.10:803][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.02.16-16.48.10:821][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.02.16-16.48.10:835][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.02.16-16.48.10:850][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.02.16-16.48.10:868][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.02.16-16.48.10:884][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.02.16-16.48.10:904][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.02.16-16.48.10:970][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.02.16-16.48.10:970][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.02.16-16.48.11:013][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.02.16-16.48.11:013][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.02.16-16.48.11:032][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.02.16-16.48.11:055][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.02.16-16.48.11:078][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.02.16-16.48.11:097][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.02.16-16.48.11:097][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.02.16-16.48.11:104][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.02.16-16.48.11:177][  0]LogShaderCompilers: Guid format shader working directory is -60 characters bigger than the processId version (../../../../../../Users/reidn/OneDrive/Documents/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Intermediate/Shaders/WorkingDirectory/1380/).
+[2020.02.16-16.48.11:178][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/reidn/AppData/Local/Temp/UnrealShaderWorkingDir/F1542193433F98B26B9A1CB75D53264B/'.
+[2020.02.16-16.48.11:179][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.02.16-16.48.11:179][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.02.16-16.48.11:179][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.02.16-16.48.12:820][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.02.16-16.48.12:917][  0]LogDerivedDataCache: Loaded boot cache 0.10s 95MB C:/Users/reidn/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.02.16-16.48.12:918][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/reidn/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.02.16-16.48.12:918][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/reidn/OneDrive/Documents/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.02.16-16.48.12:918][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.02.16-16.48.12:918][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/reidn/OneDrive/Documents/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.02.16-16.48.12:918][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.02.16-16.48.12:934][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.02.16-16.48.12:934][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.02.16-16.48.12:934][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.02.16-16.48.12:936][  0]LogDerivedDataCache: Using Local data cache path C:/Users/reidn/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.02.16-16.48.12:936][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.02.16-16.48.12:936][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.02.16-16.48.13:001][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.02.16-16.48.13:005][  0]LogSlate: Using FreeType 2.10.0
+[2020.02.16-16.48.13:006][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.02.16-16.48.13:127][  0]LogAssetRegistry: FAssetRegistry took 0.0047 seconds to start up
+[2020.02.16-16.48.13:772][  0]LogInit: Selected Device Profile: [Windows]
+[2020.02.16-16.48.14:100][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.02.16-16.48.14:101][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.02.16-16.48.14:101][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.02.16-16.48.14:101][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.02.16-16.48.14:101][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.02.16-16.48.14:125][  0]LogNetVersion: ThreePaintingProject 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 3160085242)
+[2020.02.16-16.48.16:504][  0]LogPackageLocalizationCache: Processed 15 localized package path(s) for 1 prioritized culture(s) in 0.096733 seconds
+[2020.02.16-16.48.16:517][  0]LogUObjectArray: 46746 objects as part of root set at end of initial load.
+[2020.02.16-16.48.16:517][  0]LogUObjectAllocator: 8135816 out of 0 bytes used by permanent object pool.
+[2020.02.16-16.48.16:517][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.02.16-16.48.17:350][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.02.16-16.48.17:355][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.02.16-16.48.17:467][  0]SourceControl: Source control is disabled
+[2020.02.16-16.48.17:468][  0]SourceControl: Source control is disabled
+[2020.02.16-16.48.17:469][  0]SourceControl: Source control is disabled
+[2020.02.16-16.48.17:471][  0]SourceControl: Source control is disabled
+[2020.02.16-16.48.17:473][  0]SourceControl: Source control is disabled
+[2020.02.16-16.48.17:488][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.02.16-16.48.17:490][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.02.16-16.48.19:887][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.02.16-16.48.19:917][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.02.16-16.48.19:917][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.02.16-16.48.20:130][  0]LogOcInput: OculusInput pre-init called
+[2020.02.16-16.48.20:154][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.02.16-16.48.20:155][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.02.16-16.48.20:364][  0]LogEngine: Initializing Engine...
+[2020.02.16-16.48.20:366][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.02.16-16.48.20:368][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.02.16-16.48.21:147][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.02.16-16.48.21:164][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.02.16-16.48.21:168][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.16-16.48.21:168][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.16-16.48.21:168][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.16-16.48.21:168][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.16-16.48.21:168][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.16-16.48.21:168][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.16-16.48.21:168][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.16-16.48.21:168][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.16-16.48.21:170][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.16-16.48.21:170][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.16-16.48.21:255][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.16-16.48.21:255][  0]LogAudioMixer: Display: Name: Headphones (Hesh 3 Stereo)
+[2020.02.16-16.48.21:255][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.02.16-16.48.21:255][  0]LogAudioMixer: Display: Sample Rate: 44100
+[2020.02.16-16.48.21:255][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.16-16.48.21:255][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.16-16.48.21:255][  0]LogAudioMixer: Display: Channel Order:
+[2020.02.16-16.48.21:255][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.16-16.48.21:255][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.02.16-16.48.21:302][  0]LogAudioMixer: Display: Using Audio Device Headphones (Hesh 3 Stereo)
+[2020.02.16-16.48.21:306][  0]LogInit: FAudioDevice initialized.
+[2020.02.16-16.48.21:307][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.02.16-16.48.21:611][  0]LogDerivedDataCache: Saved boot cache 0.30s 95MB C:/Users/reidn/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.02.16-16.48.21:616][  0]LogInit: Texture streaming: Enabled
+[2020.02.16-16.48.21:645][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.02.16-16.48.21:645][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.02.16-16.48.21:663][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.02.16-16.48.21:733][  0]LogInit: Transaction tracking system initialized
+[2020.02.16-16.48.21:762][  0]BlueprintLog: New page: Editor Load
+[2020.02.16-16.48.21:832][  0]LocalizationService: Localization service is disabled
+[2020.02.16-16.48.21:965][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.02.16-16.48.21:966][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.02.16-16.48.22:719][  0]LogFileCache: Scanning file cache for directory 'C:/Users/reidn/OneDrive/Documents/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/' took 0.03s
+[2020.02.16-16.48.22:719][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.02.16-16.48.22:720][  0]LogCook: Display: Mobile HDR setting 1
+[2020.02.16-16.48.26:037][  0]SourceControl: Source control is disabled
+[2020.02.16-16.48.26:201][  0]LogSlate: Took 0.000407 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.02.16-16.48.41:016][  0]LogSlate: Window 'Restore Packages' being destroyed
+[2020.02.16-16.48.41:017][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.02.16-16.48.41:130][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.02.16-16.48.44:131][  0]LogSlate: Window 'Unable to Check Out From Source Control!' being destroyed
+[2020.02.16-16.48.44:132][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.02.16-16.48.44:153][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.02.16-16.48.44:155][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.16-16.48.44:156][  0]LightingResults: New page: Lighting Build
+[2020.02.16-16.48.44:159][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.02.16-16.48.44:159][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.16-16.48.44:159][  0]MapCheck: New page: Map Check
+[2020.02.16-16.48.44:159][  0]LightingResults: New page: Lighting Build
+[2020.02.16-16.48.44:213][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2020.02.16-16.48.44:451][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2020.02.16-16.48.44:460][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.16-16.48.44:512][  0]LogUObjectHash: Compacting FUObjectHashTables data took   4.60ms
+[2020.02.16-16.48.44:513][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.16-16.48.44:514][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.744ms to complete.
+[2020.02.16-16.48.44:514][  0]LogFileHelpers: Loading map 'Template_Default' took 0.360
+[2020.02.16-16.48.44:656][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.16-16.48.44:668][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.16-16.48.44:681][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.16-16.48.44:696][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.16-16.48.44:715][  0]LogCollectionManager: Loaded 0 collections in 0.002701 seconds
+[2020.02.16-16.48.44:748][  0]LogFileCache: Scanning file cache for directory 'C:/Users/reidn/OneDrive/Documents/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Saved/Collections/' took 0.00s
+[2020.02.16-16.48.44:748][  0]LogFileCache: Scanning file cache for directory 'C:/Users/reidn/OneDrive/Documents/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Developers/reidn/Collections/' took 0.00s
+[2020.02.16-16.48.44:748][  0]LogFileCache: Scanning file cache for directory 'C:/Users/reidn/OneDrive/Documents/GitHub/TheThreePaintings-UE4-Project/ThreePaintingProject/Content/Collections/' took 0.00s
+[2020.02.16-16.48.44:748][  0]LogContentBrowser: Native class hierarchy populated in 0.0149 seconds. Added 3203 classes and 790 folders.
+[2020.02.16-16.48.44:761][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2020.02.16-16.48.45:161][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.02.16-16.48.45:200][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0006 seconds. Added 2 classes and 0 folders.
+[2020.02.16-16.48.45:258][  0]LogSlate: Took 0.000428 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.02.16-16.48.45:268][  0]LogSlate: Took 0.001041 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.02.16-16.48.45:368][  0]LogRenderer: Reallocating scene render targets to support 1048x472 Format 10 NumSamples 1 (Frame:1).
+[2020.02.16-16.48.45:518][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2020.02.16-16.48.45:518][  0]LogLoad: (Engine Initialization) Total time: 43.00 seconds
+[2020.02.16-16.48.45:518][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.02.16-16.48.45:598][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.02.16-16.48.46:137][  5]LogAssetRegistry: Asset discovery search completed in 33.0130 seconds
+[2020.02.16-16.48.46:145][  5]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000013 seconds (updated 0 objects)
+[2020.02.16-16.48.49:324][102]LogSlate: Took 0.007186 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.02.16-16.48.50:773][149]LogSlate: Took 0.000470 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.02.16-16.48.54:661][149]LogTexture: Display: Building textures: HQ_Lightmap1_1 (BGRA8, 1024X1024)
+[2020.02.16-16.48.54:661][149]LogTexture: Display: Building textures: HQ_Lightmap1_2 (BGRA8, 1024X1024)
+[2020.02.16-16.48.54:661][149]LogTexture: Display: Building textures: HQ_Lightmap1_3 (BGRA8, 1024X1024)
+[2020.02.16-16.48.54:661][149]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (BGRA8, 1024X1024)
+[2020.02.16-16.48.54:661][149]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (BGRA8, 1024X1024)
+[2020.02.16-16.48.54:661][149]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (BGRA8, 1024X1024)
+[2020.02.16-16.48.54:668][149]LogAIModule: Creating AISystem for world Lightroom_day
+[2020.02.16-16.48.54:694][149]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Lightroom/Lightroom_day.Lightroom_day
+[2020.02.16-16.48.54:801][149]LogUObjectHash: Compacting FUObjectHashTables data took   6.72ms
+[2020.02.16-16.48.54:817][149]LightingResults: New page: Lighting Build
+[2020.02.16-16.48.54:818][149]LoadErrors: New page: Loading map: Lightroom_day.umap
+[2020.02.16-16.48.54:818][149]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2020.02.16-16.48.54:821][149]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.16-16.48.54:821][149]MapCheck: New page: Map Check
+[2020.02.16-16.48.54:821][149]LightingResults: New page: Lighting Build
+[2020.02.16-16.48.54:869][149]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2020.02.16-16.48.54:934][149]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.16-16.48.54:974][149]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2020.02.16-16.48.54:997][149]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.16-16.48.54:998][149]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.295ms to complete.
+[2020.02.16-16.48.54:998][149]LogFileHelpers: Loading map 'Lightroom_day' took 0.182
+[2020.02.16-16.48.55:479][152]LogRenderer: Reallocating scene render targets to support 1920x1080 Format 10 NumSamples 1 (Frame:1).
+[2020.02.16-16.49.27:072][496]MapCheck: New page: Map Check
+[2020.02.16-16.49.27:094][496]LightingResults: New page: Lighting Build - Feb 16, 2020, 4:49:27 AM
+[2020.02.16-16.49.27:162][496]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.02.16-16.49.27:333][496]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.02.16-16.49.27:360][496]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.02.16-16.49.28:385][496]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.02.16-16.49.28:385][496]LogSwarmInterface: [TryOpenConnection] Local Process ID is 1380
+[2020.02.16-16.49.35:221][496]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.02.16-16.49.35:224][496]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.02.16-16.49.35:224][496]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.02.16-16.49.35:224][496]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.02.16-16.49.35:224][496]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.02.16-16.49.35:664][496]LogEditorBuildUtils: Build time 0:08
+[2020.02.16-16.49.35:799][497]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2020.02.16-16.50.56:744][741]Job is a success!
+[2020.02.16-16.50.57:284][742]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.042s
+[2020.02.16-16.50.57:284][742]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.02.16-16.50.57:285][742]LogVolumetricLightmapImport:      BrickData (all levels) 0.1Mb
+[2020.02.16-16.50.57:285][742]LogVolumetricLightmapImport:      Bricks at depth
+[2020.02.16-16.50.57:285][742]LogVolumetricLightmapImport:          0: 7.1% covering 100.0% of volume
+[2020.02.16-16.50.57:285][742]LogVolumetricLightmapImport:          1: 7.1% covering 1.6% of volume
+[2020.02.16-16.50.57:285][742]LogVolumetricLightmapImport:          2: 85.7% covering 0.3% of volume
+[2020.02.16-16.50.57:285][742]LogVolumetricLightmapImport:      Bricks in each level
+[2020.02.16-16.50.57:285][742]LogVolumetricLightmapImport:          Lightroom_day 			 14 bricks 	 100.0% (Persistent Level)
+[2020.02.16-16.50.57:609][742]LightingResults: Warning: PointLight_1 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.02.16-16.50.58:029][742]LogTexture: Display: Building textures: HQ_Lightmap0_1 (BGRA8, 1024X1024)
+[2020.02.16-16.50.58:029][742]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (BGRA8, 1024X1024)
+[2020.02.16-16.50.58:029][742]LogTexture: Display: Building textures: HQ_Lightmap0_2 (BGRA8, 1024X1024)
+[2020.02.16-16.50.58:029][742]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (BGRA8, 1024X1024)
+[2020.02.16-16.50.58:029][742]LogTexture: Display: Building textures: HQ_Lightmap0_3 (BGRA8, 1024X1024)
+[2020.02.16-16.50.58:036][742]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (BGRA8, 1024X1024)
+[2020.02.16-16.50.58:542][742]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (BGRA8, 1024X512)
+[2020.02.16-16.50.58:542][742]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (BGRA8, 1024X1024)
+[2020.02.16-16.50.58:542][742]Lightmass on DESKTOP-KNP0CA4: 1:19 min total, 544 ms importing, 94 ms setup, 7.85 sec photons, 1:11 min processing, 0 ms extra exporting [44/44 mappings]. Threads: 4:45 min total, 3:02 min processing.
+[2020.02.16-16.50.58:582][742]LogStaticLightingSystem: Lightroom_day_BuiltData storing lightmap data for 44 meshes in 3 LightmapResourceClusters (14.7 Meshes per cluster).
+[2020.02.16-16.50.58:588][742]LogMaterial: Display: Material /Game/Infinity_Blade_Assets/Materials/M_BetrayalStatue.M_BetrayalStatue needed to have new flag set bUsedWithStaticLighting !
+[2020.02.16-16.50.58:611][742]LogMaterial: Display: Missing cached shader map for material M_BetrayalStatue, compiling. 
+[2020.02.16-16.50.58:783][742]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 24
+[2020.02.16-16.50.58:783][742]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 15
+[2020.02.16-16.50.58:783][742]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 6
+[2020.02.16-16.50.58:783][742]LogMaterial: Display: Material /Game/Infinity_Blade_Assets/Materials/M_BetrayalStatue02.M_BetrayalStatue02 needed to have new flag set bUsedWithStaticLighting !
+[2020.02.16-16.50.58:794][742]LogMaterial: Display: Missing cached shader map for material M_BetrayalStatue02, compiling. 
+[2020.02.16-16.50.58:831][742]LogMaterial: Display: Material /Game/Infinity_Blade_Assets/Materials/M_BirdBath.M_BirdBath needed to have new flag set bUsedWithStaticLighting !
+[2020.02.16-16.50.58:845][742]LogMaterial: Display: Missing cached shader map for material M_BirdBath, compiling. 
+[2020.02.16-16.50.58:906][742]LogMaterial: Display: Material /Game/Infinity_Blade_Assets/Materials/M_Books.M_Books needed to have new flag set bUsedWithStaticLighting !
+[2020.02.16-16.50.58:922][742]LogMaterial: Display: Missing cached shader map for material M_Books, compiling. 
+[2020.02.16-16.50.58:968][742]LogMaterial: Display: Material /Game/Infinity_Blade_Assets/Materials/M_Deadwood.M_Deadwood needed to have new flag set bUsedWithStaticLighting !
+[2020.02.16-16.50.58:994][742]LogMaterial: Display: Missing cached shader map for material M_Deadwood, compiling. 
+[2020.02.16-16.50.59:048][742]LogMaterial: Display: Material /Game/Infinity_Blade_Assets/Materials/M_Grass1.M_Grass1 needed to have new flag set bUsedWithStaticLighting !
+[2020.02.16-16.50.59:062][742]LogMaterial: Display: Missing cached shader map for material M_Grass1, compiling. 
+[2020.02.16-16.50.59:211][742]LogMaterial: Display: Material /Game/Infinity_Blade_Assets/Materials/M_HollowLog.M_HollowLog needed to have new flag set bUsedWithStaticLighting !
+[2020.02.16-16.50.59:228][742]LogMaterial: Display: Missing cached shader map for material M_HollowLog, compiling. 
+[2020.02.16-16.50.59:280][742]LogMaterial: Display: Material /Game/Infinity_Blade_Assets/Materials/M_RiverRock_01.M_RiverRock_01 needed to have new flag set bUsedWithStaticLighting !
+[2020.02.16-16.50.59:295][742]LogMaterial: Display: Missing cached shader map for material M_RiverRock_01, compiling. 
+[2020.02.16-16.50.59:348][742]LogMaterial: Display: Material /Game/Infinity_Blade_Assets/Materials/M_Vases.M_Vases needed to have new flag set bUsedWithStaticLighting !
+[2020.02.16-16.50.59:363][742]LogMaterial: Display: Missing cached shader map for material M_Vases, compiling. 
+[2020.02.16-16.50.59:408][742]LogMaterial: Display: Material /Game/Infinity_Blade_Assets/Materials/M_Vase.M_Vase needed to have new flag set bUsedWithStaticLighting !
+[2020.02.16-16.50.59:426][742]LogMaterial: Display: Missing cached shader map for material M_Vase, compiling. 
+[2020.02.16-16.50.59:527][742]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2020.02.16-16.50.59:555][742]LogStaticLightingSystem: Illumination: 1:32 min (342 ms encoding lightmaps, 466 ms encoding shadowmaps)
+[2020.02.16-16.50.59:556][742]LogStaticLightingSystem: Lightmap texture memory:  32.0 MB (32.0 MB streaming, 0.0 MB non-streaming), 6 textures
+[2020.02.16-16.50.59:556][742]LogStaticLightingSystem: Shadowmap texture memory: 8.0 MB (8.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2020.02.16-16.51.04:289][742]DumpUnbuiltLightIteractions
+[2020.02.16-16.51.04:290][742]Lights with unbuilt interactions: 0
+[2020.02.16-16.51.04:290][742]
+[2020.02.16-16.51.04:290][742]Primitives with unbuilt interactions: 0
